@@ -1,8 +1,9 @@
 ---
-date: 2024-12-15
-title: "Publication highlight — JACS"
+date: 2026-02-09
+title: 한국유전체물성학회 우수포스터상 수상
 category: publication
-image: ""
+image: /images/uploads/무주학회.png
 ---
+한동훈 "우수포스터상" 수상
 
-"Extreme sputtering: Epitaxy of multifunctional oxides heterostructures" published in **Journal of Advanced Ceramics** — a culmination of years of process development.
+Thickness-driven Evolution of Crystallographic Symmetry and the Resulting Domain Twinning in Epitaxial Perovskite Oxide (001) Thin Films
