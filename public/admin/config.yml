@@ -5,7 +5,7 @@
 
 backend:
   name: github
-  repo: cvlav404/bklab-next
+  repo: mingyuJe/bklab-next
   branch: main
 
 # Where uploaded images go
