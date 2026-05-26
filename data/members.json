@@ -1,0 +1,126 @@
+{
+  "pi": [
+    {
+      "id": "seung-hyub-baek",
+      "name_en": "Seung-Hyub Baek",
+      "name_kr": "백승협",
+      "title": "Ph.D.",
+      "role": "Principal Investigator",
+      "subtitle": "Principal Research Scientist, KIST",
+      "office": "L3269",
+      "email": "shbaek77@kist.re.kr",
+      "focus": "Multifunctional oxide thin films, thermoelectrics",
+      "initials": "SH",
+      "photo": "/images/members/seung-hyub-baek.jpg"
+    },
+    {
+      "id": "tae-heon-kim",
+      "name_en": "Tae Heon Kim",
+      "name_kr": "김태헌",
+      "title": "Ph.D.",
+      "role": "Principal Investigator",
+      "subtitle": "Principal Research Scientist, KIST",
+      "office": "L3272",
+      "email": "thkim79@kist.re.kr",
+      "focus": "Ferroelectric thin films, domain dynamics",
+      "initials": "TH",
+      "photo": "/images/members/tae-heon-kim.jpg"
+    }
+  ],
+  "phd": [
+    {
+      "id": "min-seok-kim",
+      "name_en": "Min-Seok Kim",
+      "name_kr": "김민석",
+      "role": "Ph.D. · Integrated",
+      "office": "L3219",
+      "email": "minseok@kist.re.kr",
+      "initials": "MS",
+      "photo": "/images/members/min-seok-kim.jpg"
+    },
+    {
+      "id": "dong-hun-han",
+      "name_en": "Dong-Hun Han",
+      "name_kr": "한동훈",
+      "role": "Ph.D. · Integrated",
+      "office": "L3219",
+      "email": "dhhan@kist.re.kr",
+      "initials": "DH",
+      "photo": "/images/members/dong-hun-han.jpg"
+    },
+    {
+      "id": "jun-hyeong-park",
+      "name_en": "Jun-Hyeong Park",
+      "name_kr": "박준형",
+      "role": "Ph.D. · Integrated",
+      "office": "L3219",
+      "email": "jhp2910@kist.re.kr",
+      "initials": "JH",
+      "photo": "/images/members/jun-hyeong-park.jpg"
+    },
+    {
+      "id": "dan-a-kim",
+      "name_en": "Dan-A Kim",
+      "name_kr": "김단아",
+      "role": "Ph.D. · Integrated",
+      "office": "L3219",
+      "email": "225508@kist.re.kr",
+      "initials": "DA",
+      "photo": "/images/members/dan-a-kim.jpg"
+    },
+    {
+      "id": "jun-young-park",
+      "name_en": "Jun-Young Park",
+      "name_kr": "박준영",
+      "role": "Ph.D. · Integrated",
+      "office": "L3219",
+      "email": "pjy5114@kist.re.kr",
+      "initials": "JY",
+      "photo": "/images/members/jun-young-park.jpg"
+    }
+  ],
+  "ms": [
+    {
+      "id": "jae-baek-ju",
+      "name_en": "Jae-Baek Ju",
+      "name_kr": "주재백",
+      "role": "M.S. Course",
+      "office": "L3219",
+      "email": "125029@kist.re.kr",
+      "initials": "JB",
+      "photo": "/images/members/jae-baek-ju.jpg"
+    },
+    {
+      "id": "min-kyu-jeong",
+      "name_en": "Min-Kyu Jeong",
+      "name_kr": "정민규",
+      "role": "M.S. Course",
+      "office": "L3219",
+      "email": "mingyuj00@kist.re.kr",
+      "initials": "MK",
+      "photo": "/images/members/min-kyu-jeong.jpg"
+    }
+  ],
+  "undergrad": [
+    {
+      "id": "tae-yang-seong",
+      "name_en": "Tae-Yang Seong",
+      "name_kr": "성태양",
+      "role": "Undergraduate",
+      "office": "L3253",
+      "email": "U260065@kist.re.kr",
+      "initials": "TY",
+      "photo": "/images/members/tae-yang-seong.jpg"
+    }
+  ],
+  "alumni": [
+    {
+      "id": "soo-young-jung",
+      "name_en": "Soo-Young Jung",
+      "name_kr": "정수영",
+      "role": "Alumni",
+      "initials": "SY",
+      "photo": "/images/members/soo-young-jung.jpg"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+local_backend: true
+
+backend:
+  name: github
+  repo: YOUR_GITHUB_ID/bklab-next
+  branch: main
+
+media_folder: "public/uploads"
+public_folder: "/uploads"
+
+collections:
+  - name: "news"
+    label: "News"
+    folder: "content/news"
+    create: true
+    delete: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    summary: "{{date}} · {{title}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false }
+      - { label: "Category", name: "category", widget: "select", options: ["Publication", "Award", "Conference", "Notice", "Activity"], default: "Notice" }
+      - { label: "Summary", name: "summary", widget: "text" }
+      - { label: "Thumbnail", name: "thumbnail", widget: "image", required: false, media_folder: "/public/uploads/news", public_folder: "/uploads/news" }
+      - { label: "Featured", name: "featured", widget: "boolean", default: false, required: false }
+      - { label: "Body", name: "body", widget: "markdown", required: false }
+
+  - name: "gallery"
+    label: "Gallery"
+    folder: "content/gallery"
+    create: true
+    delete: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    summary: "{{date}} · {{title}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Date", name: "date", widget: "datetime", date_format: "YYYY-MM-DD", time_format: false }
+      - { label: "Category", name: "category", widget: "select", options: ["Lab Activity", "Conference", "Seminar", "Experiment", "Group Event"], default: "Lab Activity" }
+      - { label: "Cover Image", name: "cover", widget: "image", media_folder: "/public/uploads/gallery", public_folder: "/uploads/gallery" }
+      - { label: "Caption", name: "caption", widget: "text", required: false }
+      - label: "Additional Images"
+        name: "images"
+        widget: "list"
+        required: false
+        field: { label: "Image", name: "image", widget: "image", media_folder: "/public/uploads/gallery", public_folder: "/uploads/gallery" }
+      - { label: "Body", name: "body", widget: "markdown", required: false }

@@ -1,0 +1,483 @@
+# ============================================================
+# BK Lab — Decap CMS configuration
+# Edit this file to change what's editable in /admin
+# ============================================================
+
+backend:
+  name: github
+  repo: cvlav404/bklab-next
+  branch: main
+
+# Where uploaded images go
+media_folder: "public/images/uploads"
+public_folder: "/images/uploads"
+# Show preview pane on the right
+show_preview_links: true
+
+# Localization
+locale: "en"
+
+collections:
+  # ============ NEWS ============
+  - name: "news"
+    label: "News"
+    label_singular: "News item"
+    folder: "content/news"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    summary: "{{date}} — {{title}}"
+    sortable_fields: ["date", "title"]
+    fields:
+      - {
+          label: "Date",
+          name: "date",
+          widget: "datetime",
+          date_format: "YYYY-MM-DD",
+          time_format: false,
+          format: "YYYY-MM-DD",
+        }
+      - { label: "Title", name: "title", widget: "string" }
+      - label: "Category"
+        name: "category"
+        widget: "select"
+        options:
+          - { label: "Award", value: "award" }
+          - { label: "Publication", value: "publication" }
+          - { label: "Conference", value: "conference" }
+          - { label: "Social", value: "social" }
+          - { label: "General", value: "general" }
+        default: "general"
+        required: false
+      - {
+          label: "Cover image",
+          name: "image",
+          widget: "image",
+          required: false,
+          allow_multiple: false,
+        }
+      - { label: "Body", name: "body", widget: "markdown" }
+  # ============ GALLERY ============
+  - name: "gallery"
+    label: "Gallery"
+    label_singular: "Gallery item"
+    folder: "content/gallery"
+    create: true
+    delete: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    summary: "{{date}} — {{title}}"
+    sortable_fields: ["date", "title"]
+    fields:
+      - {
+          label: "Date",
+          name: "date",
+          widget: "datetime",
+          date_format: "YYYY-MM-DD",
+          time_format: false,
+          format: "YYYY-MM-DD",
+        }
+      - { label: "Title", name: "title", widget: "string" }
+      - label: "Category"
+        name: "category"
+        widget: "select"
+        options:
+          - { label: "Lab Activity", value: "Lab Activity" }
+          - { label: "Conference", value: "Conference" }
+          - { label: "Seminar", value: "Seminar" }
+          - { label: "Experiment", value: "Experiment" }
+          - { label: "Group Event", value: "Group Event" }
+        default: "Lab Activity"
+        required: false
+      - {
+          label: "Cover image",
+          name: "cover",
+          widget: "image",
+          required: false,
+          allow_multiple: false,
+        }
+      - { label: "Caption", name: "caption", widget: "text", required: false }
+      - label: "Additional images"
+        name: "images"
+        widget: "list"
+        required: false
+        field:
+          label: "Image"
+          name: "image"
+          widget: "image"
+      - { label: "Body", name: "body", widget: "markdown", required: false }
+  # ============ MEMBERS (single file with multiple lists) ============
+  - name: "members"
+    label: "Members"
+    files:
+      - file: "data/members.json"
+        label: "All members"
+        name: "members"
+        fields:
+          - label: "Principal Investigators"
+            name: "pi"
+            widget: "list"
+            fields:
+              - {
+                  label: "ID (slug)",
+                  name: "id",
+                  widget: "string",
+                  hint: "lowercase-with-dashes",
+                }
+              - { label: "Name (English)", name: "name_en", widget: "string" }
+              - { label: "Name (Korean)", name: "name_kr", widget: "string" }
+              - {
+                  label: "Title",
+                  name: "title",
+                  widget: "string",
+                  default: "Ph.D.",
+                  required: false,
+                }
+              - {
+                  label: "Role",
+                  name: "role",
+                  widget: "string",
+                  default: "Principal Investigator",
+                }
+              - {
+                  label: "Subtitle",
+                  name: "subtitle",
+                  widget: "string",
+                  required: false,
+                }
+              - {
+                  label: "Office",
+                  name: "office",
+                  widget: "string",
+                  required: false,
+                }
+              - {
+                  label: "Email",
+                  name: "email",
+                  widget: "string",
+                  required: false,
+                }
+              - {
+                  label: "Focus",
+                  name: "focus",
+                  widget: "string",
+                  required: false,
+                }
+              - {
+                  label: "Initials",
+                  name: "initials",
+                  widget: "string",
+                  hint: "Two letters, e.g. SH",
+                }
+              - {
+                  label: "Photo",
+                  name: "photo",
+                  widget: "image",
+                  required: false,
+                }
+
+          - label: "Ph.D. Candidates"
+            name: "phd"
+            widget: "list"
+            fields:
+              - { label: "ID (slug)", name: "id", widget: "string" }
+              - { label: "Name (English)", name: "name_en", widget: "string" }
+              - { label: "Name (Korean)", name: "name_kr", widget: "string" }
+              - {
+                  label: "Role",
+                  name: "role",
+                  widget: "string",
+                  default: "Ph.D. · Integrated",
+                }
+              - {
+                  label: "Office",
+                  name: "office",
+                  widget: "string",
+                  required: false,
+                }
+              - {
+                  label: "Email",
+                  name: "email",
+                  widget: "string",
+                  required: false,
+                }
+              - { label: "Initials", name: "initials", widget: "string" }
+              - {
+                  label: "Photo",
+                  name: "photo",
+                  widget: "image",
+                  required: false,
+                }
+
+          - label: "M.S. Course"
+            name: "ms"
+            widget: "list"
+            fields:
+              - { label: "ID (slug)", name: "id", widget: "string" }
+              - { label: "Name (English)", name: "name_en", widget: "string" }
+              - { label: "Name (Korean)", name: "name_kr", widget: "string" }
+              - {
+                  label: "Role",
+                  name: "role",
+                  widget: "string",
+                  default: "M.S. Course",
+                }
+              - {
+                  label: "Office",
+                  name: "office",
+                  widget: "string",
+                  required: false,
+                }
+              - {
+                  label: "Email",
+                  name: "email",
+                  widget: "string",
+                  required: false,
+                }
+              - { label: "Initials", name: "initials", widget: "string" }
+              - {
+                  label: "Photo",
+                  name: "photo",
+                  widget: "image",
+                  required: false,
+                }
+
+          - label: "Undergraduates"
+            name: "undergrad"
+            widget: "list"
+            fields:
+              - { label: "ID (slug)", name: "id", widget: "string" }
+              - { label: "Name (English)", name: "name_en", widget: "string" }
+              - { label: "Name (Korean)", name: "name_kr", widget: "string" }
+              - {
+                  label: "Role",
+                  name: "role",
+                  widget: "string",
+                  default: "Undergraduate",
+                }
+              - {
+                  label: "Office",
+                  name: "office",
+                  widget: "string",
+                  required: false,
+                }
+              - {
+                  label: "Email",
+                  name: "email",
+                  widget: "string",
+                  required: false,
+                }
+              - { label: "Initials", name: "initials", widget: "string" }
+              - {
+                  label: "Photo",
+                  name: "photo",
+                  widget: "image",
+                  required: false,
+                }
+
+          - label: "Alumni"
+            name: "alumni"
+            widget: "list"
+            fields:
+              - { label: "ID (slug)", name: "id", widget: "string" }
+              - { label: "Name (English)", name: "name_en", widget: "string" }
+              - { label: "Name (Korean)", name: "name_kr", widget: "string" }
+              - {
+                  label: "Role",
+                  name: "role",
+                  widget: "string",
+                  default: "Alumni",
+                }
+              - { label: "Initials", name: "initials", widget: "string" }
+              - {
+                  label: "Photo",
+                  name: "photo",
+                  widget: "image",
+                  required: false,
+                }
+
+  # ============ PUBLICATIONS ============
+  - name: "publications"
+    label: "Publications"
+    files:
+      - file: "data/publications.json"
+        label: "All publications"
+        name: "publications"
+        fields:
+          - label: "Publications"
+            name: "publications"
+            widget: "list"
+            fields:
+              - {
+                  label: "ID (number)",
+                  name: "id",
+                  widget: "number",
+                  hint: "Use the global numbering (e.g. 191)",
+                }
+              - { label: "Year", name: "year", widget: "number" }
+              - {
+                  label: "PI(s)",
+                  name: "pi",
+                  widget: "list",
+                  default: ["Baek"],
+                  hint: "['Baek'], ['Kim'], or ['Baek', 'Kim']",
+                }
+              - { label: "Title", name: "title", widget: "string" }
+              - {
+                  label: "Authors",
+                  name: "authors",
+                  widget: "string",
+                  hint: "Wrap BK Lab names with **double asterisks** to highlight",
+                }
+              - { label: "Venue (journal)", name: "venue", widget: "string" }
+              - {
+                  label: "Details (vol, pages)",
+                  name: "details",
+                  widget: "string",
+                  required: false,
+                }
+              - { label: "DOI", name: "doi", widget: "string", required: false }
+              - {
+                  label: "Featured?",
+                  name: "featured",
+                  widget: "boolean",
+                  default: false,
+                  hint: "Featured pubs appear on the home page",
+                }
+
+  # ============ RESEARCH TOPICS ============
+  - name: "research"
+    label: "Research"
+    files:
+      - file: "data/research.json"
+        label: "Research topics"
+        name: "research"
+        fields:
+          - label: "Topics"
+            name: "topics"
+            widget: "list"
+            fields:
+              - { label: "ID (slug)", name: "id", widget: "string" }
+              - {
+                  label: "Number",
+                  name: "number",
+                  widget: "string",
+                  hint: "e.g. 01, 02, 03",
+                }
+              - { label: "Tag", name: "tag", widget: "string" }
+              - label: "Tag color"
+                name: "tagColor"
+                widget: "select"
+                options: ["blue", "green", "violet"]
+                default: "blue"
+              - { label: "Title", name: "title", widget: "string" }
+              - { label: "Summary (short)", name: "summary", widget: "text" }
+              - {
+                  label: "Description (long)",
+                  name: "description",
+                  widget: "text",
+                }
+              - label: "Keywords"
+                name: "keywords"
+                widget: "list"
+                fields:
+                  - { label: "Label", name: "label", widget: "string" }
+                  - { label: "Value", name: "value", widget: "string" }
+              - {
+                  label: "Image",
+                  name: "image",
+                  widget: "image",
+                  required: false,
+                }
+
+  # ============ FACILITIES ============
+  - name: "facilities"
+    label: "Facilities"
+    files:
+      - file: "data/facilities.json"
+        label: "All facilities"
+        name: "facilities"
+        fields:
+          - label: "Ceramic Synthesis"
+            name: "ceramic"
+            widget: "object"
+            fields:
+              - { label: "Section title", name: "title", widget: "string" }
+              - label: "Items"
+                name: "items"
+                widget: "list"
+                fields:
+                  - { label: "ID", name: "id", widget: "string" }
+                  - { label: "Name", name: "name", widget: "string" }
+                  - { label: "Model", name: "model", widget: "string" }
+                  - { label: "Tag", name: "tag", widget: "string" }
+                  - {
+                      label: "Icon key",
+                      name: "icon",
+                      widget: "string",
+                      hint: "furnace-low, furnace-high, ball-mill, press, vacuum-press, ultrasonic, pld, tube-furnace, rf-sputter, multi-sputter, ebeam, glad, xrd, sem, afm, ferroelectric, te, ppms",
+                    }
+                  - {
+                      label: "Photo (overrides icon)",
+                      name: "photo",
+                      widget: "image",
+                      required: false,
+                    }
+                  - label: "Specs"
+                    name: "specs"
+                    widget: "list"
+                    fields:
+                      - { label: "Label", name: "label", widget: "string" }
+                      - { label: "Value", name: "value", widget: "string" }
+
+          - label: "Thin-Film Growth"
+            name: "thinfilm"
+            widget: "object"
+            fields:
+              - { label: "Section title", name: "title", widget: "string" }
+              - label: "Items"
+                name: "items"
+                widget: "list"
+                fields:
+                  - { label: "ID", name: "id", widget: "string" }
+                  - { label: "Name", name: "name", widget: "string" }
+                  - { label: "Model", name: "model", widget: "string" }
+                  - { label: "Tag", name: "tag", widget: "string" }
+                  - { label: "Icon key", name: "icon", widget: "string" }
+                  - {
+                      label: "Photo (overrides icon)",
+                      name: "photo",
+                      widget: "image",
+                      required: false,
+                    }
+                  - label: "Specs"
+                    name: "specs"
+                    widget: "list"
+                    fields:
+                      - { label: "Label", name: "label", widget: "string" }
+                      - { label: "Value", name: "value", widget: "string" }
+
+          - label: "Characterization"
+            name: "character"
+            widget: "object"
+            fields:
+              - { label: "Section title", name: "title", widget: "string" }
+              - label: "Items"
+                name: "items"
+                widget: "list"
+                fields:
+                  - { label: "ID", name: "id", widget: "string" }
+                  - { label: "Name", name: "name", widget: "string" }
+                  - { label: "Model", name: "model", widget: "string" }
+                  - { label: "Tag", name: "tag", widget: "string" }
+                  - { label: "Icon key", name: "icon", widget: "string" }
+                  - {
+                      label: "Photo (overrides icon)",
+                      name: "photo",
+                      widget: "image",
+                      required: false,
+                    }
+                  - label: "Specs"
+                    name: "specs"
+                    widget: "list"
+                    fields:
+                      - { label: "Label", name: "label", widget: "string" }
+                      - { label: "Value", name: "value", widget: "string" }

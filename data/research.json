@@ -1,0 +1,92 @@
+{
+  "overview": {
+    "title_en": "BK Lab focuses on the synthesis, characterization, and device integration of complex oxide thin films, thermoelectric materials, and ferroelectric heterostructures.",
+    "title_kr": "복합 산화물 박막, 열전소재, 강유전 이종구조를 성장·분석하고, 이를 차세대 전자소자와 에너지 소재로 연결하는 연구실",
+    "lead": "We bridge atomic-scale materials design with device-level functionality — across epitaxial growth, microstructure engineering, and electrical characterization."
+  },
+  "topics": [
+    {
+      "id": "oxide-thin-films",
+      "number": "01",
+      "visual": "oxide",
+      "tag": "Epitaxy · Interfaces",
+      "tagColor": "blue",
+      "title": "Multifunctional Oxide Thin Films",
+      "title_kr": "복합 산화물 박막",
+      "summary": "Atomic-scale design of complex oxide thin films and heterostructures for emergent electronic and interfacial functionalities.",
+      "description": "Epitaxial growth and characterization of perovskite, ferroelectric, and multiferroic oxide heterostructures on silicon. We engineer domain structures, interfacial 2D electron gases, and strain states to enable non-volatile memory, sensing, and oxide electronics.",
+      "keywords": [
+        "Perovskite oxide thin films",
+        "Epitaxial heterostructures",
+        "Interface engineering",
+        "Strain-controlled properties",
+        "Oxide electronics"
+      ],
+      "image": ""
+    },
+    {
+      "id": "thermoelectric-materials",
+      "number": "02",
+      "visual": "thermoelectric",
+      "tag": "Energy · ZT",
+      "tagColor": "amber",
+      "title": "Thermoelectric Materials",
+      "title_kr": "열전소재",
+      "summary": "Microstructure and interface engineering of Bi2Te3-based thermoelectrics to push ZT beyond classical limits.",
+      "description": "We develop Bi2Te3-based thermoelectrics with tailored microstructures through mechanical deformation, texturing, and atomic-layer interface control. The goal: efficient thermal-to-electrical conversion driven by enhanced phonon scattering and carrier transport.",
+      "keywords": [
+        "Bi2Te3-based thermoelectrics",
+        "Microstructure engineering",
+        "Interface scattering",
+        "Atomic layer deposition",
+        "ZT enhancement"
+      ],
+      "image": ""
+    },
+    {
+      "id": "ferroelectric-devices",
+      "number": "03",
+      "visual": "ferroelectric",
+      "tag": "FeFET · MEMS · Synapses",
+      "tagColor": "violet",
+      "title": "Ferroelectric & Piezoelectric Devices",
+      "title_kr": "강유전·압전 소자",
+      "summary": "Ferroelectric thin films and devices for memory, MEMS, neuromorphic electronics, and polarization-driven functionality.",
+      "description": "BiFeO3, HfZrO2, and PMN-PT thin-film systems for FeFETs, piezoelectric MEMS, and artificial synapses. From polarization switching dynamics and domain-wall motion to wafer-scale device integration on silicon.",
+      "keywords": [
+        "BiFeO3 · HfZrO2 · PMN-PT",
+        "FeFETs",
+        "Piezoelectric MEMS",
+        "Artificial synapses",
+        "Domain dynamics"
+      ],
+      "image": ""
+    }
+  ],
+  "highlights": [
+    {
+      "id": "highlight-01",
+      "title": "Giant Piezoelectricity on Si for Hyperactive MEMS",
+      "venue": "Science · 334 · 958",
+      "year": 2011,
+      "image": "/images/research/research-highlight-01.jpg",
+      "summary": "Demonstrated record-high piezoelectric response in PMN-PT thin films integrated onto silicon — opening the path to high-performance MEMS actuators."
+    },
+    {
+      "id": "highlight-02",
+      "title": "Ferroelastic switching for nanoscale magnetoelectric devices",
+      "venue": "Nature Materials · 9 · 309",
+      "year": 2010,
+      "image": "/images/research/research-highlight-02.jpg",
+      "summary": "Discovered a deterministic ferroelastic switching pathway in BiFeO3, enabling reproducible non-volatile magnetoelectric control."
+    },
+    {
+      "id": "highlight-03",
+      "title": "Ultrahigh dielectric permittivity in oxide ceramics by hydrogenation",
+      "venue": "Science Advances · 9 · eadd8328",
+      "year": 2023,
+      "image": "/images/research/research-highlight-03.jpg",
+      "summary": "Achieved >10^5 effective permittivity in protonated oxide ceramics — a step toward miniaturized high-density capacitors."
+    }
+  ]
+}

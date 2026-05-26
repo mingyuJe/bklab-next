@@ -1,0 +1,537 @@
+{
+  "ceramic": {
+    "title": "Ceramic Synthesis",
+    "items": [
+      {
+        "id": "electric-furnace-lindberg-1200",
+        "name": "Electric Furnace",
+        "model": "LINDBERG",
+        "tag": "Furnace",
+        "icon": "furnace-low",
+        "photo": "/images/facilities/electric-furnace-lindberg-1200.jpg",
+        "specs": [
+          {
+            "label": "Max",
+            "value": "1200 °C"
+          },
+          {
+            "label": "Heating element",
+            "value": "SiC"
+          },
+          {
+            "label": "Operating voltage",
+            "value": "220 V"
+          }
+        ]
+      },
+      {
+        "id": "electric-furnace-fine-therm-1200",
+        "name": "Electric Furnace",
+        "model": "Fine Therm",
+        "tag": "Furnace",
+        "icon": "furnace-low",
+        "photo": "/images/facilities/electric-furnace-fine-therm-1200.jpg",
+        "specs": [
+          {
+            "label": "Max",
+            "value": "1200 °C"
+          },
+          {
+            "label": "Heating element",
+            "value": "SiC"
+          },
+          {
+            "label": "Operating voltage",
+            "value": "220 V"
+          }
+        ]
+      },
+      {
+        "id": "high-temperature-furnace-lindberg-1700",
+        "name": "High-Temperature Furnace",
+        "model": "LINDBERG",
+        "tag": "Furnace",
+        "icon": "furnace-high",
+        "photo": "/images/facilities/high-temperature-furnace-lindberg-1700.jpg",
+        "specs": [
+          {
+            "label": "Max",
+            "value": "1700 °C"
+          },
+          {
+            "label": "Heating element",
+            "value": "MoSi₂"
+          },
+          {
+            "label": "Operating voltage",
+            "value": "240 V"
+          }
+        ]
+      },
+      {
+        "id": "oven",
+        "name": "Oven",
+        "model": "Oven",
+        "tag": "Drying",
+        "icon": "furnace-low",
+        "photo": "/images/facilities/oven.jpg",
+        "specs": [
+          {
+            "label": "Use",
+            "value": "Drying & heat treatment"
+          }
+        ]
+      },
+      {
+        "id": "ball-mill-1",
+        "name": "Ball Mill (1)",
+        "model": "BALL MILL (1)",
+        "tag": "Powder",
+        "icon": "ball-mill",
+        "photo": "/images/facilities/ball-mill-1.jpg",
+        "specs": [
+          {
+            "label": "Use",
+            "value": "Powder mixing & grinding"
+          }
+        ]
+      },
+      {
+        "id": "ball-mill-2",
+        "name": "Ball Mill (2)",
+        "model": "BALL MILL (2)",
+        "tag": "Powder",
+        "icon": "ball-mill",
+        "photo": "/images/facilities/ball-mill-2.jpg",
+        "specs": [
+          {
+            "label": "Use",
+            "value": "Powder mixing & grinding"
+          }
+        ]
+      },
+      {
+        "id": "hydraulic-press-carver-3855",
+        "name": "Hydraulic Press",
+        "model": "CARVER 3855",
+        "tag": "Press",
+        "icon": "press",
+        "photo": "/images/facilities/hydraulic-press-carver-3855.jpg",
+        "specs": [
+          {
+            "label": "Model",
+            "value": "3855"
+          },
+          {
+            "label": "Clamping force",
+            "value": "25 tons"
+          }
+        ]
+      },
+      {
+        "id": "vacuum-hot-press-home-made",
+        "name": "Vacuum Hot Press",
+        "model": "에이스 진공(우성E&H) · Home made",
+        "tag": "Press",
+        "icon": "vacuum-press",
+        "photo": "/images/facilities/vacuum-hot-press-home-made.jpg",
+        "specs": [
+          {
+            "label": "Clamping force",
+            "value": "2000 kgf"
+          },
+          {
+            "label": "T<sub>max</sub>",
+            "value": "600 °C"
+          },
+          {
+            "label": "Vacuum",
+            "value": "~10⁻³ Torr"
+          }
+        ]
+      },
+      {
+        "id": "hot-press-samhan-shh-050",
+        "name": "Hot Press",
+        "model": "삼한기술 SHH-050",
+        "tag": "Press",
+        "icon": "press",
+        "photo": "/images/facilities/hot-press-samhan-shh-050.jpg",
+        "specs": [
+          {
+            "label": "Model",
+            "value": "SHH-050"
+          },
+          {
+            "label": "Clamping force",
+            "value": "50 kgf"
+          },
+          {
+            "label": "T<sub>max</sub>",
+            "value": "250 °C"
+          }
+        ]
+      },
+      {
+        "id": "ultrasonic-cleaner-jeiotech-uc05",
+        "name": "Ultrasonic Cleaner",
+        "model": "JEIOTECH UC-05",
+        "tag": "Cleaning",
+        "icon": "ultrasonic",
+        "photo": "/images/facilities/ultrasonic-cleaner-jeiotech-uc05.jpg",
+        "specs": [
+          {
+            "label": "Use",
+            "value": "Sample cleaning"
+          }
+        ]
+      },
+      {
+        "id": "hood",
+        "name": "Hood",
+        "model": "Hood",
+        "tag": "Safety",
+        "icon": "furnace-low",
+        "photo": "/images/facilities/hood.jpg",
+        "specs": [
+          {
+            "label": "Use",
+            "value": "Chemical handling"
+          }
+        ]
+      },
+      {
+        "id": "glove-box",
+        "name": "Glove Box",
+        "model": "Glove Box",
+        "tag": "Atmosphere",
+        "icon": "hood",
+        "photo": "/images/facilities/glove-box.jpg",
+        "specs": [
+          {
+            "label": "Use",
+            "value": "Sample handling in controlled atmosphere"
+          }
+        ]
+      }
+    ]
+  },
+  "thinfilm": {
+    "title": "Thin-Film Growth",
+    "items": [
+      {
+        "id": "pld-compex-102f",
+        "name": "Pulsed Laser Deposition (PLD)",
+        "model": "COMPex 102F",
+        "tag": "Deposition",
+        "icon": "pld",
+        "photo": "/images/facilities/pld-compex-102f.jpg",
+        "specs": [
+          {
+            "label": "System",
+            "value": "Pulsed Laser Deposition"
+          },
+          {
+            "label": "Model",
+            "value": "COMPex 102F"
+          }
+        ]
+      },
+      {
+        "id": "tube-furnace-lindberg-blue-m-1200",
+        "name": "Tube Furnace",
+        "model": "Lindberg/Blue M™ 1200 °C Split-Hinge Tube Furnace",
+        "tag": "Furnace",
+        "icon": "tube-furnace",
+        "photo": "/images/facilities/tube-furnace-lindberg-blue-m-1200.jpg",
+        "specs": [
+          {
+            "label": "Heating zone",
+            "value": "12 in."
+          },
+          {
+            "label": "Temperature",
+            "value": "100 to 1200 °C"
+          },
+          {
+            "label": "Display",
+            "value": "LED"
+          },
+          {
+            "label": "Controller",
+            "value": "Independent CC58114C"
+          }
+        ]
+      },
+      {
+        "id": "rf-sputter-home-made",
+        "name": "RF Sputter",
+        "model": "Home made",
+        "tag": "Sputter",
+        "icon": "rf-sputter",
+        "photo": "/images/facilities/rf-sputter-home-made.jpg",
+        "specs": [
+          {
+            "label": "Pressure",
+            "value": "Max 10⁻⁶ ~ 10⁻⁷ Torr"
+          },
+          {
+            "label": "Gun #1",
+            "value": "2 inch on-axis gun"
+          },
+          {
+            "label": "Gun #2",
+            "value": "1.5 inch off-axis gun"
+          },
+          {
+            "label": "Power range",
+            "value": "1~300 W"
+          }
+        ]
+      },
+      {
+        "id": "multi-gun-sputter-home-made",
+        "name": "Multi-Gun Sputter",
+        "model": "Home made",
+        "tag": "Sputter",
+        "icon": "multi-sputter",
+        "photo": "/images/facilities/multi-gun-sputter-home-made.jpg",
+        "specs": [
+          {
+            "label": "Pressure",
+            "value": "Max 10⁻⁶ ~ 10⁻⁷ Torr"
+          },
+          {
+            "label": "Gun",
+            "value": "2 inch on-axis gun 5 EA"
+          },
+          {
+            "label": "Power range",
+            "value": "1~300 W"
+          }
+        ]
+      },
+      {
+        "id": "turbo-molecular-pump-tg450f8",
+        "name": "Turbo Molecular Pump & Power Supply",
+        "model": "TG450F/8",
+        "tag": "Vacuum",
+        "icon": "rf-sputter",
+        "photo": "/images/facilities/turbo-molecular-pump-tg450f8.jpg",
+        "specs": [
+          {
+            "label": "Pressure",
+            "value": "Max 10⁻⁶ ~ 10⁻⁷ Torr"
+          },
+          {
+            "label": "Inlet flange",
+            "value": "VG150 / ISO-B160 / CF160"
+          },
+          {
+            "label": "Max throughput",
+            "value": "500 sccm"
+          },
+          {
+            "label": "Controller",
+            "value": "TC353"
+          }
+        ]
+      },
+      {
+        "id": "rf-generator-ysr-06mf",
+        "name": "RF Generator",
+        "model": "YSR-06MF · YOUNGSIN RF",
+        "tag": "Power",
+        "icon": "rf-sputter",
+        "photo": "/images/facilities/rf-generator-ysr-06mf.jpg",
+        "specs": [
+          {
+            "label": "Output frequency",
+            "value": "13.56 MHz"
+          },
+          {
+            "label": "Stability",
+            "value": "±0.005%"
+          },
+          {
+            "label": "Max power",
+            "value": "600 W @ 50 Ω"
+          },
+          {
+            "label": "Input",
+            "value": "220 Vac / single phase / 50–60 Hz"
+          }
+        ]
+      },
+      {
+        "id": "ebeam-evaporator-she-6t-3500",
+        "name": "E-beam Evaporator",
+        "model": "SHE-6T-3500",
+        "tag": "Evaporator",
+        "icon": "ebeam",
+        "photo": "/images/facilities/ebeam-evaporator-she-6t-3500.jpg",
+        "specs": [
+          {
+            "label": "Pressure",
+            "value": "Max 10⁻⁶ ~ 10⁻⁷ Torr"
+          },
+          {
+            "label": "Acceleration voltage",
+            "value": "4~10 kV"
+          },
+          {
+            "label": "Filament current",
+            "value": "50 A @ 10 Vac"
+          },
+          {
+            "label": "Beam deflection",
+            "value": "270°"
+          },
+          {
+            "label": "Max output",
+            "value": "6 kW"
+          }
+        ]
+      },
+      {
+        "id": "glad-ebeam-evaporator-home-made",
+        "name": "GLAD E-beam Evaporator",
+        "model": "Home made",
+        "tag": "Evaporator",
+        "icon": "glad",
+        "photo": "/images/facilities/glad-ebeam-evaporator-home-made.jpg",
+        "specs": [
+          {
+            "label": "Pressure",
+            "value": "Max 10⁻⁶ ~ 10⁻⁷ Torr"
+          },
+          {
+            "label": "Substrate angle",
+            "value": "0 ~ 90°"
+          },
+          {
+            "label": "AC current",
+            "value": "4 A"
+          }
+        ]
+      },
+      {
+        "id": "dc-sputtering-system-home-made",
+        "name": "DC Sputtering System",
+        "model": "Home made",
+        "tag": "Sputter",
+        "icon": "rf-sputter",
+        "photo": "/images/facilities/dc-sputtering-system-home-made.jpg",
+        "specs": [
+          {
+            "label": "Pressure",
+            "value": "Max 10⁻⁶ ~ 10⁻⁷ Torr"
+          },
+          {
+            "label": "Target",
+            "value": "4 inch"
+          },
+          {
+            "label": "DC power supply",
+            "value": "D1313 · SAM WON VACUUM"
+          }
+        ]
+      }
+    ]
+  },
+  "character": {
+    "title": "Characterization",
+    "items": [
+      {
+        "id": "premier-ii-ferroelectric-test-system",
+        "name": "Premier II Ferroelectric Test System",
+        "model": "Radiant Technology, Inc.",
+        "tag": "Electrical",
+        "icon": "ferroelectric",
+        "photo": "/images/facilities/premier-ii-ferroelectric-test-system.jpg",
+        "specs": [
+          {
+            "label": "Voltage range",
+            "value": "10, 30, 100, 200, 500 V"
+          },
+          {
+            "label": "External amp",
+            "value": "10 kV"
+          },
+          {
+            "label": "Max hysteresis frequency",
+            "value": "250 kHz"
+          },
+          {
+            "label": "Min hysteresis frequency",
+            "value": "0.03 Hz"
+          },
+          {
+            "label": "Min pulse width",
+            "value": "0.5 μs"
+          }
+        ]
+      },
+      {
+        "id": "agilent-4294a-precision-impedance-analyzer",
+        "name": "Agilent 4294A Precision Impedance Analyzer",
+        "model": "Agilent Technologies Japan, Ltd.",
+        "tag": "Electrical",
+        "icon": "ferroelectric",
+        "photo": "/images/facilities/agilent-4294a-precision-impedance-analyzer.jpg",
+        "specs": [
+          {
+            "label": "Frequency",
+            "value": "40 Hz–110 MHz"
+          },
+          {
+            "label": "Frequency resolution",
+            "value": "1 mHz"
+          },
+          {
+            "label": "DC bias voltage",
+            "value": "40 V, 1 mV resolution"
+          },
+          {
+            "label": "DC bias current",
+            "value": "100 mA, 40 μA resolution"
+          },
+          {
+            "label": "Sweep points",
+            "value": "2 to 801 points"
+          }
+        ]
+      },
+      {
+        "id": "optical-microscope-olympus-bx53m-rb",
+        "name": "Optical Microscope",
+        "model": "OLYMPUS BX53M-RB",
+        "tag": "Optical",
+        "icon": "sem",
+        "photo": "/images/facilities/optical-microscope-olympus-bx53m-rb.jpg",
+        "specs": [
+          {
+            "label": "Microscope",
+            "value": "OLYMPUS BX53M-RB"
+          },
+          {
+            "label": "Objectives",
+            "value": "5X, 10X, 20X, 50X, 100X"
+          },
+          {
+            "label": "Observation",
+            "value": "BF / POL / FL"
+          },
+          {
+            "label": "XY stage",
+            "value": "76 × 52 mm"
+          },
+          {
+            "label": "Analyzer SW",
+            "value": "Leopard Software"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,5145 @@
+{
+  "summary": {
+    "Baek": {
+      "registration": 99,
+      "application": 147
+    },
+    "Kim": {
+      "registration": 4,
+      "application": 6
+    },
+    "total": 256
+  },
+  "patents": [
+    {
+      "year": 2025,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "이종 접합 반도체 유연기판, 그의 제조방법 및 그를 이용한 전자소자",
+      "title_ko": "이종 접합 반도체 유연기판, 그의 제조방법 및 그를 이용한 전자소자",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2025-04-04",
+      "indexByPiStatus": {
+        "Baek_registration": 99
+      },
+      "source": "Baek registration",
+      "id": 1
+    },
+    {
+      "year": 2024,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "상경계 조성영역에서 압전성이 우수한 PYN-PMN-PT 압전체 및 그 제조방법",
+      "title_ko": "상경계 조성영역에서 압전성이 우수한 PYN-PMN-PT 압전체 및 그 제조방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2024-11-19",
+      "indexByPiStatus": {
+        "Baek_registration": 98
+      },
+      "source": "Baek registration",
+      "id": 2
+    },
+    {
+      "year": 2024,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "준안정상의 rutile 구조의 TiO2 박막 형성 방법",
+      "title_ko": "준안정상의 rutile 구조의 TiO2 박막 형성 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2024-09-06",
+      "indexByPiStatus": {
+        "Baek_application": 147
+      },
+      "source": "Baek application",
+      "id": 3
+    },
+    {
+      "year": 2024,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "원자층증착법을 이용한 고유전 SrTiO3 박막 형성 및 이를 이용한 커패시터 제조 방법",
+      "title_ko": "원자층증착법을 이용한 고유전 SrTiO3 박막 형성 및 이를 이용한 커패시터 제조 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2024-09-04",
+      "indexByPiStatus": {
+        "Baek_application": 144
+      },
+      "source": "Baek application",
+      "id": 4
+    },
+    {
+      "year": 2024,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "고용량, 고수명의 투명 전고상 리튬 박막 이차 전지를 위하여 전기전도도를 향상시킨 투명한 음극 활물질 및 전고상 박막 전지와 그 제조 방법",
+      "title_ko": "고용량, 고수명의 투명 전고상 리튬 박막 이차 전지를 위하여 전기전도도를 향상시킨 투명한 음극 활물질 및 전고상 박막 전지와 그 제조 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2024-08-27",
+      "indexByPiStatus": {
+        "Baek_application": 138
+      },
+      "source": "Baek application",
+      "id": 5
+    },
+    {
+      "year": 2024,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "원자층증착법을 이용한 귀금속박막의 영역선택적 증착 방법",
+      "title_ko": "원자층증착법을 이용한 귀금속박막의 영역선택적 증착 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2024-08-05",
+      "indexByPiStatus": {
+        "Baek_application": 139
+      },
+      "source": "Baek application",
+      "id": 6
+    },
+    {
+      "year": 2024,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "세라믹 파우더 표면처리를 통한 고배향 거대결정 벌크 세라믹스와 그 제조 방법",
+      "title_ko": "세라믹 파우더 표면처리를 통한 고배향 거대결정 벌크 세라믹스와 그 제조 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2024-07-17",
+      "indexByPiStatus": {
+        "Baek_registration": 97
+      },
+      "source": "Baek registration",
+      "id": 7
+    },
+    {
+      "year": 2024,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "금속층이 포함된 이종물질 결정립계 고효율 열전소재 제조방",
+      "title_ko": "금속층이 포함된 이종물질 결정립계 고효율 열전소재 제조방",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2024-06-10",
+      "indexByPiStatus": {
+        "Baek_application": 146
+      },
+      "source": "Baek application",
+      "id": 8
+    },
+    {
+      "year": 2024,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "유전체 나노시트 박막을 이용한 고에너지 밀도의 고분자 나노복합체 및 이의 제조방법",
+      "title_ko": "유전체 나노시트 박막을 이용한 고에너지 밀도의 고분자 나노복합체 및 이의 제조방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2024-05-20",
+      "indexByPiStatus": {
+        "Baek_application": 137
+      },
+      "source": "Baek application",
+      "id": 9
+    },
+    {
+      "year": 2024,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "열전 성능 향상을 위한 계면 나노 구조 및 형성 방법",
+      "title_ko": "열전 성능 향상을 위한 계면 나노 구조 및 형성 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2024-05-03",
+      "indexByPiStatus": {
+        "Baek_application": 145
+      },
+      "source": "Baek application",
+      "id": 10
+    },
+    {
+      "year": 2024,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "동적 방열판을 활용한 발전 시스템",
+      "title_ko": "동적 방열판을 활용한 발전 시스템",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2024-03-06",
+      "indexByPiStatus": {
+        "Baek_application": 141
+      },
+      "source": "Baek application",
+      "id": 11
+    },
+    {
+      "year": 2024,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "원자층증착법을 이용한 고유전 SrTiO3 박막 형성 및 이를 이용한 커패시터 제조 방법",
+      "title_ko": "원자층증착법을 이용한 고유전 SrTiO3 박막 형성 및 이를 이용한 커패시터 제조 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2024-03-04",
+      "indexByPiStatus": {
+        "Baek_application": 143
+      },
+      "source": "Baek application",
+      "id": 12
+    },
+    {
+      "year": 2024,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "광열처리 기술을 통한 구조화된 금속산화물 표면의 다성분계 나노촉매 용출방법 및 가스센서 제조방법",
+      "title_ko": "광열처리 기술을 통한 구조화된 금속산화물 표면의 다성분계 나노촉매 용출방법 및 가스센서 제조방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2024-02-13",
+      "indexByPiStatus": {
+        "Baek_application": 142
+      },
+      "source": "Baek application",
+      "id": 13
+    },
+    {
+      "year": 2024,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "자가발전이 가능한 하이드로겔/탄소　복합소재 기반의　전기발생　장치　및　그　제조방법",
+      "title_ko": "자가발전이 가능한 하이드로겔/탄소　복합소재 기반의　전기발생　장치　및　그　제조방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2024-01-17",
+      "indexByPiStatus": {
+        "Baek_application": 140
+      },
+      "source": "Baek application",
+      "id": 14
+    },
+    {
+      "year": 2024,
+      "pi": [
+        "Kim"
+      ],
+      "status": "registration",
+      "title": "페로브스카이트 구조의 독립형 단결정 멤브레인의 제조방법 및 페로브스카이트 구조의 독립형 단결정 멤브레인의 전사방법",
+      "title_ko": "페로브스카이트 구조의 독립형 단결정 멤브레인의 제조방법 및 페로브스카이트 구조의 독립형 단결정 멤브레인의 전사방법",
+      "title_en": "Method for manufacturing a free-standing single-crystal membrane of perovskite structure and Method for transferring a free-standing single-crystal membrane of perovskite structure",
+      "inventors": "Tae Heon Kim, Chang Won Ahn, and Muhammad Sheeraz",
+      "number": "10-2622207",
+      "numberType": "Registration of Korea Patent",
+      "country": "Korea",
+      "date": "2024-01-03",
+      "indexByPiStatus": {
+        "Kim_registration": 4
+      },
+      "source": "Kim registration",
+      "rawKind": "Registration of Korea Patent No. 10-2622207",
+      "id": 15
+    },
+    {
+      "year": 2023,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "저온 결정화 가능한 원자층 증착 SrTiO3 박막 제조 및 커패시터 제조 방법",
+      "title_ko": "저온 결정화 가능한 원자층 증착 SrTiO3 박막 제조 및 커패시터 제조 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2023-12-13",
+      "indexByPiStatus": {
+        "Baek_application": 136
+      },
+      "source": "Baek application",
+      "id": 16
+    },
+    {
+      "year": 2023,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "비접촉식 인터페이스 장치 및 이의 제어 방법",
+      "title_ko": "비접촉식 인터페이스 장치 및 이의 제어 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2023-12-11",
+      "indexByPiStatus": {
+        "Baek_application": 133
+      },
+      "source": "Baek application",
+      "id": 17
+    },
+    {
+      "year": 2023,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "광대역 주파수 범위를 갖는 자기공진조절 압전 에너지 하베스터",
+      "title_ko": "광대역 주파수 범위를 갖는 자기공진조절 압전 에너지 하베스터",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2023-12-05",
+      "indexByPiStatus": {
+        "Baek_registration": 96
+      },
+      "source": "Baek registration",
+      "id": 18
+    },
+    {
+      "year": 2023,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "유전특성이 우수한 이종 접합 반도체 기판, 그의 제조방법 및 그를 이용한 전자소자",
+      "title_ko": "유전특성이 우수한 이종 접합 반도체 기판, 그의 제조방법 및 그를 이용한 전자소자",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2023-11-29",
+      "indexByPiStatus": {
+        "Baek_application": 126
+      },
+      "source": "Baek application",
+      "id": 19
+    },
+    {
+      "year": 2023,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "유전분산이 억제된 유전특성을 가지는 리튬나이오베이트 층이 첨가된 칼슘리튬나이오베이트 유전체 조성물",
+      "title_ko": "유전분산이 억제된 유전특성을 가지는 리튬나이오베이트 층이 첨가된 칼슘리튬나이오베이트 유전체 조성물",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2023-11-27",
+      "indexByPiStatus": {
+        "Baek_registration": 95
+      },
+      "source": "Baek registration",
+      "id": 20
+    },
+    {
+      "year": 2023,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "비접촉식 인터페이스 장치 및 이의 제어 방법",
+      "title_ko": "비접촉식 인터페이스 장치 및 이의 제어 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2023-11-20",
+      "indexByPiStatus": {
+        "Baek_application": 134
+      },
+      "source": "Baek application",
+      "id": 21
+    },
+    {
+      "year": 2023,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "이종 접합 반도체 유연기판, 그의 제조방법 및 그를 이용한 전자소자",
+      "title_ko": "이종 접합 반도체 유연기판, 그의 제조방법 및 그를 이용한 전자소자",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2023-11-16",
+      "indexByPiStatus": {
+        "Baek_application": 125
+      },
+      "source": "Baek application",
+      "id": 22
+    },
+    {
+      "year": 2023,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "산화물 반도체 박막 인버터 소자 및 그 제조 방법",
+      "title_ko": "산화물 반도체 박막 인버터 소자 및 그 제조 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2023-10-23",
+      "indexByPiStatus": {
+        "Baek_application": 130
+      },
+      "source": "Baek application",
+      "id": 23
+    },
+    {
+      "year": 2023,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "원자층증착법을 이용한 귀금속박막의 영역선택적 증착 방법",
+      "title_ko": "원자층증착법을 이용한 귀금속박막의 영역선택적 증착 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2023-10-19",
+      "indexByPiStatus": {
+        "Baek_application": 135
+      },
+      "source": "Baek application",
+      "id": 24
+    },
+    {
+      "year": 2023,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "이종 접합 반도체 기판, 그의 제조방법 및 그를 이용한 전자소자",
+      "title_ko": "이종 접합 반도체 기판, 그의 제조방법 및 그를 이용한 전자소자",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2023-10-12",
+      "indexByPiStatus": {
+        "Baek_registration": 94
+      },
+      "source": "Baek registration",
+      "id": 25
+    },
+    {
+      "year": 2023,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "n형 고성능 열전소재 및 그 제조방법",
+      "title_ko": "n형 고성능 열전소재 및 그 제조방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2023-10-06",
+      "indexByPiStatus": {
+        "Baek_registration": 93
+      },
+      "source": "Baek registration",
+      "id": 26
+    },
+    {
+      "year": 2023,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "고용량, 고수명의 투명 전고상 리튬 박막 이차 전지를 위하여 전기전도도를 향상시킨 투명한 음극 활물질 및 전고상 박막 전지와 그 제조 방법",
+      "title_ko": "고용량, 고수명의 투명 전고상 리튬 박막 이차 전지를 위하여 전기전도도를 향상시킨 투명한 음극 활물질 및 전고상 박막 전지와 그 제조 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2023-08-29",
+      "indexByPiStatus": {
+        "Baek_application": 131
+      },
+      "source": "Baek application",
+      "id": 27
+    },
+    {
+      "year": 2023,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "압전 직류 발전기",
+      "title_ko": "압전 직류 발전기",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2023-08-24",
+      "indexByPiStatus": {
+        "Baek_registration": 92
+      },
+      "source": "Baek registration",
+      "id": 28
+    },
+    {
+      "year": 2023,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "스마트렌즈용 전고상 박막 이차전지",
+      "title_ko": "스마트렌즈용 전고상 박막 이차전지",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2023-08-22",
+      "indexByPiStatus": {
+        "Baek_registration": 91
+      },
+      "source": "Baek registration",
+      "id": 29
+    },
+    {
+      "year": 2023,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "비접촉식 인터페이스 장치 및 이의 제어 방법",
+      "title_ko": "비접촉식 인터페이스 장치 및 이의 제어 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2023-07-27",
+      "indexByPiStatus": {
+        "Baek_application": 132
+      },
+      "source": "Baek application",
+      "id": 30
+    },
+    {
+      "year": 2023,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "나이오베이트 유전체를 포함하는 나노시트 및 이를 포함하는 유전체 박막",
+      "title_ko": "나이오베이트 유전체를 포함하는 나노시트 및 이를 포함하는 유전체 박막",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2023-07-18",
+      "indexByPiStatus": {
+        "Baek_registration": 90
+      },
+      "source": "Baek registration",
+      "id": 31
+    },
+    {
+      "year": 2023,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "질화규소 투명 음극 활물질 조성물, 이를 이용한 리튬 박막 이차전지",
+      "title_ko": "질화규소 투명 음극 활물질 조성물, 이를 이용한 리튬 박막 이차전지",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2023-07-18",
+      "indexByPiStatus": {
+        "Baek_registration": 89
+      },
+      "source": "Baek registration",
+      "id": 32
+    },
+    {
+      "year": 2023,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "원자층 증착법을 이용한 주석 칼코게나이드 2차원 박막의 영역 선택적 증착 방법",
+      "title_ko": "원자층 증착법을 이용한 주석 칼코게나이드 2차원 박막의 영역 선택적 증착 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2023-07-14",
+      "indexByPiStatus": {
+        "Baek_registration": 88
+      },
+      "source": "Baek registration",
+      "id": 33
+    },
+    {
+      "year": 2023,
+      "pi": [
+        "Kim"
+      ],
+      "status": "registration",
+      "title": "기계적 분쇄를 이용한 페로브스카이트 기반 할로겐화물의 제조방법",
+      "title_ko": "기계적 분쇄를 이용한 페로브스카이트 기반 할로겐화물의 제조방법",
+      "title_en": "Method for producing perovskite-based halides using mechanical milling",
+      "inventors": "Tae Heon Kim, Chang Won Ahn, Jae Hun Jo, Jin San Choi, and Ill Won Kim",
+      "number": "10-2541785",
+      "numberType": "Registration of Korea Patent",
+      "country": "Korea",
+      "date": "2023-06-05",
+      "indexByPiStatus": {
+        "Kim_registration": 3
+      },
+      "source": "Kim registration",
+      "rawKind": "Registration of Korea Patent No. 10-2541785",
+      "id": 34
+    },
+    {
+      "year": 2023,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "유전체 나노시트 박막을 이용한 고에너지 밀도의 고분자 나노복합체 및 이의 제조방법",
+      "title_ko": "유전체 나노시트 박막을 이용한 고에너지 밀도의 고분자 나노복합체 및 이의 제조방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2023-05-22",
+      "indexByPiStatus": {
+        "Baek_application": 129
+      },
+      "source": "Baek application",
+      "id": 35
+    },
+    {
+      "year": 2023,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "산화물 반도체의 다성분계 나노촉매 합성방법",
+      "title_ko": "산화물 반도체의 다성분계 나노촉매 합성방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2023-05-22",
+      "indexByPiStatus": {
+        "Baek_application": 128
+      },
+      "source": "Baek application",
+      "id": 36
+    },
+    {
+      "year": 2023,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "반도체 메모리 소자의 커패시터 유전막 및 그 제조 방법",
+      "title_ko": "반도체 메모리 소자의 커패시터 유전막 및 그 제조 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2023-05-19",
+      "indexByPiStatus": {
+        "Baek_registration": 87
+      },
+      "source": "Baek registration",
+      "id": 37
+    },
+    {
+      "year": 2023,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "결정 희생층의 자가 확산 방식으로 도핑된 고결정 산화물 박막과 그 제조 방법",
+      "title_ko": "결정 희생층의 자가 확산 방식으로 도핑된 고결정 산화물 박막과 그 제조 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2023-03-13",
+      "indexByPiStatus": {
+        "Baek_registration": 86
+      },
+      "source": "Baek registration",
+      "id": 38
+    },
+    {
+      "year": 2023,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "에피택시 강유전 HfO2 게이트를 이용한 FeFET",
+      "title_ko": "에피택시 강유전 HfO2 게이트를 이용한 FeFET",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2023-02-27",
+      "indexByPiStatus": {
+        "Baek_application": 127
+      },
+      "source": "Baek application",
+      "id": 39
+    },
+    {
+      "year": 2022,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "유전특성이 우수한 이종 접합 반도체 기판, 그의 제조방법 및 그를 이용한 전자소자",
+      "title_ko": "유전특성이 우수한 이종 접합 반도체 기판, 그의 제조방법 및 그를 이용한 전자소자",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2022-11-30",
+      "indexByPiStatus": {
+        "Baek_application": 124
+      },
+      "source": "Baek application",
+      "id": 40
+    },
+    {
+      "year": 2022,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "이종 접합 반도체 유연기판, 그의 제조방법 및 그를 이용한 전자소자",
+      "title_ko": "이종 접합 반도체 유연기판, 그의 제조방법 및 그를 이용한 전자소자",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2022-11-29",
+      "indexByPiStatus": {
+        "Baek_application": 123
+      },
+      "source": "Baek application",
+      "id": 41
+    },
+    {
+      "year": 2022,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "다결정 박막 트랜지스터 제조 방법",
+      "title_ko": "다결정 박막 트랜지스터 제조 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2022-11-22",
+      "indexByPiStatus": {
+        "Baek_registration": 85
+      },
+      "source": "Baek registration",
+      "id": 42
+    },
+    {
+      "year": 2022,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "원자층 증착법을 이용한 주석 칼코게나이드 2차원 박막의 영역 선택적 증착 방법",
+      "title_ko": "원자층 증착법을 이용한 주석 칼코게나이드 2차원 박막의 영역 선택적 증착 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2022-10-12",
+      "indexByPiStatus": {
+        "Baek_application": 122
+      },
+      "source": "Baek application",
+      "id": 43
+    },
+    {
+      "year": 2022,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "에피택시 산화물 박막의 제조방법 및 그로부터 제조된 결정질이 향상된 에피택시 산화물 박막",
+      "title_ko": "에피택시 산화물 박막의 제조방법 및 그로부터 제조된 결정질이 향상된 에피택시 산화물 박막",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2022-10-07",
+      "indexByPiStatus": {
+        "Baek_application": 117
+      },
+      "source": "Baek application",
+      "id": 44
+    },
+    {
+      "year": 2022,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "상경계 조성영역에서 압전성이 우수한 PYN-PMN-PT 압전체 및 그 제조방법",
+      "title_ko": "상경계 조성영역에서 압전성이 우수한 PYN-PMN-PT 압전체 및 그 제조방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2022-09-06",
+      "indexByPiStatus": {
+        "Baek_application": 121
+      },
+      "source": "Baek application",
+      "id": 45
+    },
+    {
+      "year": 2022,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "질화규소 투명 음극 활물질 조성물, 이를 이용한 리튬 박막 이차전지",
+      "title_ko": "질화규소 투명 음극 활물질 조성물, 이를 이용한 리튬 박막 이차전지",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2022-08-23",
+      "indexByPiStatus": {
+        "Baek_registration": 84
+      },
+      "source": "Baek registration",
+      "id": 46
+    },
+    {
+      "year": 2022,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "세라믹 파우더 표면처리를 통한 고배향 거대결정 벌크 세라믹스와 그 제조 방법",
+      "title_ko": "세라믹 파우더 표면처리를 통한 고배향 거대결정 벌크 세라믹스와 그 제조 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2022-08-17",
+      "indexByPiStatus": {
+        "Baek_application": 120
+      },
+      "source": "Baek application",
+      "id": 47
+    },
+    {
+      "year": 2022,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "압전 직류 발전기",
+      "title_ko": "압전 직류 발전기",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2022-08-17",
+      "indexByPiStatus": {
+        "Baek_application": 116
+      },
+      "source": "Baek application",
+      "id": 48
+    },
+    {
+      "year": 2022,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "반도체 메모리 소자의 커패시터 유전막 및 그 제조 방법",
+      "title_ko": "반도체 메모리 소자의 커패시터 유전막 및 그 제조 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2022-08-16",
+      "indexByPiStatus": {
+        "Baek_registration": 83
+      },
+      "source": "Baek registration",
+      "id": 49
+    },
+    {
+      "year": 2022,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "실시간 박테리아 측정을 통한 사후 경과 시간 예측 시스템",
+      "title_ko": "실시간 박테리아 측정을 통한 사후 경과 시간 예측 시스템",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2022-08-12",
+      "indexByPiStatus": {
+        "Baek_registration": 82
+      },
+      "source": "Baek registration",
+      "id": 50
+    },
+    {
+      "year": 2022,
+      "pi": [
+        "Kim"
+      ],
+      "status": "registration",
+      "title": "6H-육방정계 망간 산화물 및 이를 포함하는 세라믹 복합체의 제조방법",
+      "title_ko": "6H-육방정계 망간 산화물 및 이를 포함하는 세라믹 복합체의 제조방법",
+      "title_en": "Preparation method of manganese oxide with 6H-hexagonal polymorph and ceramic complex comprising the same",
+      "inventors": "Tae Heon Kim, Chang Won Ahn, Muhammad Sheeraz, and Ho Jeong Lee",
+      "number": "10-2432089",
+      "numberType": "Registration of Korea Patent",
+      "country": "Korea",
+      "date": "2022-08-09",
+      "indexByPiStatus": {
+        "Kim_registration": 2
+      },
+      "source": "Kim registration",
+      "rawKind": "Registration of Korea Patent No. 10-2432089",
+      "id": 51
+    },
+    {
+      "year": 2022,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "전극막 제조 방법 및 이를 이용한 커패시터의 제조 방법",
+      "title_ko": "전극막 제조 방법 및 이를 이용한 커패시터의 제조 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2022-07-26",
+      "indexByPiStatus": {
+        "Baek_registration": 81
+      },
+      "source": "Baek registration",
+      "id": 52
+    },
+    {
+      "year": 2022,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "다결정 박막 트랜지스터의 제조 방법",
+      "title_ko": "다결정 박막 트랜지스터의 제조 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2022-07-14",
+      "indexByPiStatus": {
+        "Baek_registration": 80
+      },
+      "source": "Baek registration",
+      "id": 53
+    },
+    {
+      "year": 2022,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "다공체 열전소재 및 그 제조 방법",
+      "title_ko": "다공체 열전소재 및 그 제조 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2022-07-01",
+      "indexByPiStatus": {
+        "Baek_registration": 79
+      },
+      "source": "Baek registration",
+      "id": 54
+    },
+    {
+      "year": 2022,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "유전분산이 억제된 유전특성을 가지는 리튬나이오베이트 층이 첨가된 칼슘리튬나이오베이트 유전체 조성물",
+      "title_ko": "유전분산이 억제된 유전특성을 가지는 리튬나이오베이트 층이 첨가된 칼슘리튬나이오베이트 유전체 조성물",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2022-06-30",
+      "indexByPiStatus": {
+        "Baek_registration": 78
+      },
+      "source": "Baek registration",
+      "id": 55
+    },
+    {
+      "year": 2022,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "결정 희생층의 자가 확산 방식으로 도핑된 고결정 산화물 박막과 그 제조 방법",
+      "title_ko": "결정 희생층의 자가 확산 방식으로 도핑된 고결정 산화물 박막과 그 제조 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2022-06-21",
+      "indexByPiStatus": {
+        "Baek_application": 118
+      },
+      "source": "Baek application",
+      "id": 56
+    },
+    {
+      "year": 2022,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "이종 접합 반도체 기판, 그의 제조방법 및 그를 이용한 전자소자",
+      "title_ko": "이종 접합 반도체 기판, 그의 제조방법 및 그를 이용한 전자소자",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2022-06-13",
+      "indexByPiStatus": {
+        "Baek_application": 115
+      },
+      "source": "Baek application",
+      "id": 57
+    },
+    {
+      "year": 2022,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "n형 고성능 열전소재 및 그 제조방법",
+      "title_ko": "n형 고성능 열전소재 및 그 제조방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2022-05-20",
+      "indexByPiStatus": {
+        "Baek_application": 119
+      },
+      "source": "Baek application",
+      "id": 58
+    },
+    {
+      "year": 2022,
+      "pi": [
+        "Kim"
+      ],
+      "status": "application",
+      "title": "페로브스카이트 구조의 독립형 단결정 멤브레인의 제조방법 및 페로브스카이트 구조의 독립형 단결정 멤브레인의 전사방법",
+      "title_ko": "페로브스카이트 구조의 독립형 단결정 멤브레인의 제조방법 및 페로브스카이트 구조의 독립형 단결정 멤브레인의 전사방법",
+      "title_en": "Method for manufacturing a free-standing single-crystal membrane of perovskite structure and Method for transferring a free-standing single-crystal membrane of perovskite structure",
+      "inventors": "Tae Heon Kim, Chang Won Ahn, and Muhammad Sheeraz",
+      "number": "PCT/KR2022/003228",
+      "numberType": "PCT Patent Application published",
+      "country": "PCT",
+      "date": "2022-03-08",
+      "indexByPiStatus": {
+        "Kim_application": 6
+      },
+      "source": "Kim application",
+      "rawKind": "PCT Patent Application published No. PCT/KR2022/003228",
+      "id": 59
+    },
+    {
+      "year": 2022,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "유전분산이 억제된 유전특성을 가지는 리튬나이오베이트 층이 첨가된 칼슘리튬나이오베이트 유전체 조성물",
+      "title_ko": "유전분산이 억제된 유전특성을 가지는 리튬나이오베이트 층이 첨가된 칼슘리튬나이오베이트 유전체 조성물",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2022-03-07",
+      "indexByPiStatus": {
+        "Baek_application": 114
+      },
+      "source": "Baek application",
+      "id": 60
+    },
+    {
+      "year": 2022,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "내습성 및 기계적 성질이 우수한 산화물 투명박막 히터",
+      "title_ko": "내습성 및 기계적 성질이 우수한 산화물 투명박막 히터",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2022-02-15",
+      "indexByPiStatus": {
+        "Baek_registration": 77
+      },
+      "source": "Baek registration",
+      "id": 61
+    },
+    {
+      "year": 2022,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "넓은 동작 주파수 범위를 갖는 자가 공진 조절 압전 발생 장치",
+      "title_ko": "넓은 동작 주파수 범위를 갖는 자가 공진 조절 압전 발생 장치",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2022-02-08",
+      "indexByPiStatus": {
+        "Baek_registration": 76
+      },
+      "source": "Baek registration",
+      "id": 62
+    },
+    {
+      "year": 2022,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "적응형 클램프를 이용한 자기공진 조절 에너지 하베스터",
+      "title_ko": "적응형 클램프를 이용한 자기공진 조절 에너지 하베스터",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2022-01-06",
+      "indexByPiStatus": {
+        "Baek_registration": 75
+      },
+      "source": "Baek registration",
+      "id": 63
+    },
+    {
+      "year": 2022,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "전기화학 에너지 하베스터",
+      "title_ko": "전기화학 에너지 하베스터",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2022-01-06",
+      "indexByPiStatus": {
+        "Baek_registration": 74
+      },
+      "source": "Baek registration",
+      "id": 64
+    },
+    {
+      "year": 2022,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "압전 전자기 하이브리드 에너지 하베스터",
+      "title_ko": "압전 전자기 하이브리드 에너지 하베스터",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2022-01-06",
+      "indexByPiStatus": {
+        "Baek_registration": 73
+      },
+      "source": "Baek registration",
+      "id": 65
+    },
+    {
+      "year": 2021,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "나이오베이트 유전체를 포함하는 나노시트 및 이를 포함하는 유전체 박막",
+      "title_ko": "나이오베이트 유전체를 포함하는 나노시트 및 이를 포함하는 유전체 박막",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2021-11-29",
+      "indexByPiStatus": {
+        "Baek_application": 107
+      },
+      "source": "Baek application",
+      "id": 66
+    },
+    {
+      "year": 2021,
+      "pi": [
+        "Kim"
+      ],
+      "status": "application",
+      "title": "페로브스카이트 구조의 독립형 단결정 멤브레인의 제조방법 및 페로브스카이트 구조의 독립형 단결정 멤브레인의 전사방법",
+      "title_ko": "페로브스카이트 구조의 독립형 단결정 멤브레인의 제조방법 및 페로브스카이트 구조의 독립형 단결정 멤브레인의 전사방법",
+      "title_en": "Method for manufacturing a free-standing single-crystal membrane of perovskite structure and Method for transferring a free-standing single-crystal membrane of perovskite structure",
+      "inventors": "Tae Heon Kim, Chang Won Ahn, and Muhammad Sheeraz",
+      "number": "10-2021-0158148",
+      "numberType": "Korean Patent Application published",
+      "country": "Korea",
+      "date": "2021-11-17",
+      "indexByPiStatus": {
+        "Kim_application": 5
+      },
+      "source": "Kim application",
+      "rawKind": "Korean Patent Application published No. 10-2021-0158148",
+      "id": 67
+    },
+    {
+      "year": 2021,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "기계적으로 결합된 에너지 하베스터 어레이",
+      "title_ko": "기계적으로 결합된 에너지 하베스터 어레이",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2021-11-17",
+      "indexByPiStatus": {
+        "Baek_application": 112
+      },
+      "source": "Baek application",
+      "id": 68
+    },
+    {
+      "year": 2021,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "에피택시 산화물 박막의 제조방법 및 그로부터 제조된 결정질이 향상된 에피택시 산화물 박막",
+      "title_ko": "에피택시 산화물 박막의 제조방법 및 그로부터 제조된 결정질이 향상된 에피택시 산화물 박막",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2021-11-11",
+      "indexByPiStatus": {
+        "Baek_application": 113
+      },
+      "source": "Baek application",
+      "id": 69
+    },
+    {
+      "year": 2021,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "발전용 유연 열전 모듈의 제조 방법",
+      "title_ko": "발전용 유연 열전 모듈의 제조 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2021-10-18",
+      "indexByPiStatus": {
+        "Baek_registration": 72
+      },
+      "source": "Baek registration",
+      "id": 70
+    },
+    {
+      "year": 2021,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "커패시터 및 이를 포함하는 메모리 소자",
+      "title_ko": "커패시터 및 이를 포함하는 메모리 소자",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2021-09-27",
+      "indexByPiStatus": {
+        "Baek_registration": 71
+      },
+      "source": "Baek registration",
+      "id": 71
+    },
+    {
+      "year": 2021,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "내습성 및 기계적 성질이 우수한 산화물 투명박막 히터",
+      "title_ko": "내습성 및 기계적 성질이 우수한 산화물 투명박막 히터",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2021-09-15",
+      "indexByPiStatus": {
+        "Baek_application": 106
+      },
+      "source": "Baek application",
+      "id": 72
+    },
+    {
+      "year": 2021,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "압전 직류 발전기",
+      "title_ko": "압전 직류 발전기",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2021-08-19",
+      "indexByPiStatus": {
+        "Baek_application": 111
+      },
+      "source": "Baek application",
+      "id": 73
+    },
+    {
+      "year": 2021,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "이종 접합 반도체 기판, 그의 제조방법 및 그를 이용한 전자소자",
+      "title_ko": "이종 접합 반도체 기판, 그의 제조방법 및 그를 이용한 전자소자",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2021-07-06",
+      "indexByPiStatus": {
+        "Baek_application": 110
+      },
+      "source": "Baek application",
+      "id": 74
+    },
+    {
+      "year": 2021,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "복층 구조의 적외선 흡수체를 포함하는 마이크로-볼로미터 및 이의 제조방법",
+      "title_ko": "복층 구조의 적외선 흡수체를 포함하는 마이크로-볼로미터 및 이의 제조방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2021-07-05",
+      "indexByPiStatus": {
+        "Baek_registration": 70
+      },
+      "source": "Baek registration",
+      "id": 75
+    },
+    {
+      "year": 2021,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "고유전율과 저유전손실 특성의 은이 치환 된 스트론튬 나이오베이트 유전체 조성물",
+      "title_ko": "고유전율과 저유전손실 특성의 은이 치환 된 스트론튬 나이오베이트 유전체 조성물",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2021-07-02",
+      "indexByPiStatus": {
+        "Baek_registration": 69
+      },
+      "source": "Baek registration",
+      "id": 76
+    },
+    {
+      "year": 2021,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "열전발전소자용 방열 시스템",
+      "title_ko": "열전발전소자용 방열 시스템",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2021-07-01",
+      "indexByPiStatus": {
+        "Baek_registration": 68
+      },
+      "source": "Baek registration",
+      "id": 77
+    },
+    {
+      "year": 2021,
+      "pi": [
+        "Kim"
+      ],
+      "status": "application",
+      "title": "기계적 분쇄를 이용한 페로브스카이트 기반 할로겐화물의 제조방법",
+      "title_ko": "기계적 분쇄를 이용한 페로브스카이트 기반 할로겐화물의 제조방법",
+      "title_en": "Method for producing perovskite-based halides using mechanical milling",
+      "inventors": "Tae Heon Kim, Chang Won Ahn, Jae Hun Jo, Jin San Choi, and Ill Won Kim",
+      "number": "10-2021-0068012",
+      "numberType": "Korea Patent Application published",
+      "country": "Korea",
+      "date": "2021-05-27",
+      "indexByPiStatus": {
+        "Kim_application": 4
+      },
+      "source": "Kim application",
+      "rawKind": "Korea Patent Application published No. 10-2021-0068012",
+      "id": 78
+    },
+    {
+      "year": 2021,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "내습성 및 응집 안정성이 우수한 Ti와 Cr이 첨가된 Ag 계열 금속 합금 조성 개발 및 이를 적용한 다층 구조의 투명 전도성 필름",
+      "title_ko": "내습성 및 응집 안정성이 우수한 Ti와 Cr이 첨가된 Ag 계열 금속 합금 조성 개발 및 이를 적용한 다층 구조의 투명 전도성 필름",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2021-05-10",
+      "indexByPiStatus": {
+        "Baek_registration": 67
+      },
+      "source": "Baek registration",
+      "id": 79
+    },
+    {
+      "year": 2021,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "유전분산이 억제된 유전특성을 가지는 리튬나이오베이트 층이 첨가된 칼슘리튬나이오베이트 유전체 조성물",
+      "title_ko": "유전분산이 억제된 유전특성을 가지는 리튬나이오베이트 층이 첨가된 칼슘리튬나이오베이트 유전체 조성물",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2021-05-07",
+      "indexByPiStatus": {
+        "Baek_application": 109
+      },
+      "source": "Baek application",
+      "id": 80
+    },
+    {
+      "year": 2021,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "전극막 제조 방법 및 이를 이용한 커패시터의 제조 방법",
+      "title_ko": "전극막 제조 방법 및 이를 이용한 커패시터의 제조 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2021-03-04",
+      "indexByPiStatus": {
+        "Baek_registration": 66
+      },
+      "source": "Baek registration",
+      "id": 81
+    },
+    {
+      "year": 2021,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "다결정 박막 트랜지스터의 제조 방법",
+      "title_ko": "다결정 박막 트랜지스터의 제조 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2021-02-05",
+      "indexByPiStatus": {
+        "Baek_application": 108
+      },
+      "source": "Baek application",
+      "id": 82
+    },
+    {
+      "year": 2021,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "배향성을 가지는 Bi-Te 기반 다결정 열전재료 제조 방법",
+      "title_ko": "배향성을 가지는 Bi-Te 기반 다결정 열전재료 제조 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2021-01-08",
+      "indexByPiStatus": {
+        "Baek_registration": 65
+      },
+      "source": "Baek registration",
+      "id": 83
+    },
+    {
+      "year": 2021,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "맥신(MXene)을 포함하는 열전 재료",
+      "title_ko": "맥신(MXene)을 포함하는 열전 재료",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2021-01-05",
+      "indexByPiStatus": {
+        "Baek_registration": 64
+      },
+      "source": "Baek registration",
+      "id": 84
+    },
+    {
+      "year": 2020,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "얇은 유연 전극을 가지는 마찰전기 기반의 에너지 전송 장치",
+      "title_ko": "얇은 유연 전극을 가지는 마찰전기 기반의 에너지 전송 장치",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2020-12-30",
+      "indexByPiStatus": {
+        "Baek_application": 105
+      },
+      "source": "Baek application",
+      "id": 85
+    },
+    {
+      "year": 2020,
+      "pi": [
+        "Kim"
+      ],
+      "status": "application",
+      "title": "6H-육방정계 망간 산화물 및 이를 포함하는 세라믹 복합체의 제조방법",
+      "title_ko": "6H-육방정계 망간 산화물 및 이를 포함하는 세라믹 복합체의 제조방법",
+      "title_en": "Preparation method of manganese oxide with 6H-hexagonal polymorph and ceramic complex comprising the same",
+      "inventors": "Tae Heon Kim, Chang Won Ahn, Muhammad Sheeraz, and Ho Jeong Lee",
+      "number": "10-2020-0185747",
+      "numberType": "Korea Patent Application published",
+      "country": "Korea",
+      "date": "2020-12-29",
+      "indexByPiStatus": {
+        "Kim_application": 3
+      },
+      "source": "Kim application",
+      "rawKind": "Korea Patent Application published No. 10-2020-0185747",
+      "id": 86
+    },
+    {
+      "year": 2020,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "나이오베이트 유전체를 포함하는 나노시트 및 이를 포함하는 유전체 박막",
+      "title_ko": "나이오베이트 유전체를 포함하는 나노시트 및 이를 포함하는 유전체 박막",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2020-12-02",
+      "indexByPiStatus": {
+        "Baek_application": 104
+      },
+      "source": "Baek application",
+      "id": 87
+    },
+    {
+      "year": 2020,
+      "pi": [
+        "Kim"
+      ],
+      "status": "application",
+      "title": "적층 구조체 및 그 제조 방법",
+      "title_ko": "적층 구조체 및 그 제조 방법",
+      "title_en": "stacked structure and method of fabricating of the same",
+      "inventors": "Sanghan Lee, Jongmin Lee, and Tae Heon Kim",
+      "number": "10-2020-0161556",
+      "numberType": "Korea Patent Application published",
+      "country": "Korea",
+      "date": "2020-11-26",
+      "indexByPiStatus": {
+        "Kim_application": 2
+      },
+      "source": "Kim application",
+      "rawKind": "Korea Patent Application published No. 10-2020-0161556",
+      "id": 88
+    },
+    {
+      "year": 2020,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "광대역 주파수 범위를 갖는 자기공진조절 압전 에너지 하베스터",
+      "title_ko": "광대역 주파수 범위를 갖는 자기공진조절 압전 에너지 하베스터",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2020-11-20",
+      "indexByPiStatus": {
+        "Baek_application": 100
+      },
+      "source": "Baek application",
+      "id": 89
+    },
+    {
+      "year": 2020,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "질화규소 투명 음극 활물질 조성물, 이를 이용한 리튬 박막 이차전지",
+      "title_ko": "질화규소 투명 음극 활물질 조성물, 이를 이용한 리튬 박막 이차전지",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2020-11-19",
+      "indexByPiStatus": {
+        "Baek_application": 96
+      },
+      "source": "Baek application",
+      "id": 90
+    },
+    {
+      "year": 2020,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "다공체 열전소재 및 그 제조 방법",
+      "title_ko": "다공체 열전소재 및 그 제조 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2020-10-21",
+      "indexByPiStatus": {
+        "Baek_application": 103
+      },
+      "source": "Baek application",
+      "id": 91
+    },
+    {
+      "year": 2020,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "내습성 및 기계적 성질이 우수한 산화물 투명박막 히터",
+      "title_ko": "내습성 및 기계적 성질이 우수한 산화물 투명박막 히터",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2020-09-17",
+      "indexByPiStatus": {
+        "Baek_application": 102
+      },
+      "source": "Baek application",
+      "id": 92
+    },
+    {
+      "year": 2020,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "실시간 박테리아 측정을 통한 사후 경과 시간 예측 시스템",
+      "title_ko": "실시간 박테리아 측정을 통한 사후 경과 시간 예측 시스템",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2020-07-23",
+      "indexByPiStatus": {
+        "Baek_application": 101
+      },
+      "source": "Baek application",
+      "id": 93
+    },
+    {
+      "year": 2020,
+      "pi": [
+        "Kim"
+      ],
+      "status": "registration",
+      "title": "화학적 용해법에 기반한 황이온 치환 기술",
+      "title_ko": "화학적 용해법에 기반한 황이온 치환 기술",
+      "title_en": "Sulfur substitution technique based on chemical solution method",
+      "inventors": "Tae Heon Kim, Chang Won Ahn, Ill Won Kim, and Muhammad Sheeraz",
+      "number": "10-2137238",
+      "numberType": "Registration of Korea Patent",
+      "country": "Korea",
+      "date": "2020-07-17",
+      "indexByPiStatus": {
+        "Kim_registration": 1
+      },
+      "source": "Kim registration",
+      "rawKind": "Registration of Korea Patent No. 10-2137238",
+      "id": 94
+    },
+    {
+      "year": 2020,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "넓은 동작 주파수 범위를 갖는 자가 공진 조절 압전 발생 장치",
+      "title_ko": "넓은 동작 주파수 범위를 갖는 자가 공진 조절 압전 발생 장치",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2020-06-16",
+      "indexByPiStatus": {
+        "Baek_registration": 63
+      },
+      "source": "Baek registration",
+      "id": 95
+    },
+    {
+      "year": 2020,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "p형 반도체의 오믹 접촉을 위한 바인더가 첨가된 MoO2와 ReO2 페이스트 및 공정K",
+      "title_ko": "p형 반도체의 오믹 접촉을 위한 바인더가 첨가된 MoO2와 ReO2 페이스트 및 공정K",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2020-06-16",
+      "indexByPiStatus": {
+        "Baek_registration": 62
+      },
+      "source": "Baek registration",
+      "id": 96
+    },
+    {
+      "year": 2020,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "저온 형성 이차원 물질 및 그의 제조 방법",
+      "title_ko": "저온 형성 이차원 물질 및 그의 제조 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2020-05-11",
+      "indexByPiStatus": {
+        "Baek_registration": 61
+      },
+      "source": "Baek registration",
+      "id": 97
+    },
+    {
+      "year": 2020,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "광대역 주파수 범위를 갖는 자기공진조절 압전 에너지 하베스터",
+      "title_ko": "광대역 주파수 범위를 갖는 자기공진조절 압전 에너지 하베스터",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2020-04-27",
+      "indexByPiStatus": {
+        "Baek_application": 99
+      },
+      "source": "Baek application",
+      "id": 98
+    },
+    {
+      "year": 2020,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "전극막 제조 방법 및 이를 이용한 커패시터의 제조 방법",
+      "title_ko": "전극막 제조 방법 및 이를 이용한 커패시터의 제조 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2020-04-22",
+      "indexByPiStatus": {
+        "Baek_application": 95
+      },
+      "source": "Baek application",
+      "id": 99
+    },
+    {
+      "year": 2020,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "적응형 클램프를 이용한 자기공진 조절 에너지 하베스터",
+      "title_ko": "적응형 클램프를 이용한 자기공진 조절 에너지 하베스터",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2020-04-09",
+      "indexByPiStatus": {
+        "Baek_application": 97
+      },
+      "source": "Baek application",
+      "id": 100
+    },
+    {
+      "year": 2020,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "반도체 메모리 소자의 커패시터 유전막 및 그 제조 방법",
+      "title_ko": "반도체 메모리 소자의 커패시터 유전막 및 그 제조 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2020-02-27",
+      "indexByPiStatus": {
+        "Baek_registration": 60
+      },
+      "source": "Baek registration",
+      "id": 101
+    },
+    {
+      "year": 2020,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "마이크로 볼로미터를 위한 바나듐 산화물 박막 제조 방법",
+      "title_ko": "마이크로 볼로미터를 위한 바나듐 산화물 박막 제조 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2020-01-07",
+      "indexByPiStatus": {
+        "Baek_registration": 59
+      },
+      "source": "Baek registration",
+      "id": 102
+    },
+    {
+      "year": 2020,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "고효율 열전재료 및 모듈의 제조방법",
+      "title_ko": "고효율 열전재료 및 모듈의 제조방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2020-01-07",
+      "indexByPiStatus": {
+        "Baek_registration": 58
+      },
+      "source": "Baek registration",
+      "id": 103
+    },
+    {
+      "year": 2020,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "커패시터 및 이를 포함하는 메모리 소자",
+      "title_ko": "커패시터 및 이를 포함하는 메모리 소자",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2020-01-03",
+      "indexByPiStatus": {
+        "Baek_application": 98
+      },
+      "source": "Baek application",
+      "id": 104
+    },
+    {
+      "year": 2019,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "이차원 층상구조 황화주석 박막의 합성 방법",
+      "title_ko": "이차원 층상구조 황화주석 박막의 합성 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2019-12-26",
+      "indexByPiStatus": {
+        "Baek_registration": 57
+      },
+      "source": "Baek registration",
+      "id": 105
+    },
+    {
+      "year": 2019,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "전기화학 에너지 하베스터",
+      "title_ko": "전기화학 에너지 하베스터",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2019-12-17",
+      "indexByPiStatus": {
+        "Baek_application": 94
+      },
+      "source": "Baek application",
+      "id": 106
+    },
+    {
+      "year": 2019,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "압전 전자기 하이브리드 에너지 하베스터",
+      "title_ko": "압전 전자기 하이브리드 에너지 하베스터",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2019-12-17",
+      "indexByPiStatus": {
+        "Baek_application": 93
+      },
+      "source": "Baek application",
+      "id": 107
+    },
+    {
+      "year": 2019,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "질화규소 투명 음극 활물질 조성물, 이를 이용한 리튬 박막 이차전지",
+      "title_ko": "질화규소 투명 음극 활물질 조성물, 이를 이용한 리튬 박막 이차전지",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2019-11-28",
+      "indexByPiStatus": {
+        "Baek_application": 91
+      },
+      "source": "Baek application",
+      "id": 108
+    },
+    {
+      "year": 2019,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "마이크로 볼로미터를 위한 바나듐 산화물 박막 제조 방법",
+      "title_ko": "마이크로 볼로미터를 위한 바나듐 산화물 박막 제조 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2019-11-26",
+      "indexByPiStatus": {
+        "Baek_registration": 56
+      },
+      "source": "Baek registration",
+      "id": 109
+    },
+    {
+      "year": 2019,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "발전용 유연 열전 모듈의 제조 방법",
+      "title_ko": "발전용 유연 열전 모듈의 제조 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2019-11-22",
+      "indexByPiStatus": {
+        "Baek_application": 92
+      },
+      "source": "Baek application",
+      "id": 110
+    },
+    {
+      "year": 2019,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "무기 열전재료의 성형 금형, 성형 장치 및 이를 이용한 성형방법",
+      "title_ko": "무기 열전재료의 성형 금형, 성형 장치 및 이를 이용한 성형방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2019-10-01",
+      "indexByPiStatus": {
+        "Baek_registration": 55
+      },
+      "source": "Baek registration",
+      "id": 111
+    },
+    {
+      "year": 2019,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "황화주석(II) 박막 및 그 박막의 합성 방법",
+      "title_ko": "황화주석(II) 박막 및 그 박막의 합성 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2019-09-30",
+      "indexByPiStatus": {
+        "Baek_registration": 54
+      },
+      "source": "Baek registration",
+      "id": 112
+    },
+    {
+      "year": 2019,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "맥신(MXene)을 포함하는 열전 재료",
+      "title_ko": "맥신(MXene)을 포함하는 열전 재료",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2019-09-26",
+      "indexByPiStatus": {
+        "Baek_registration": 53
+      },
+      "source": "Baek registration",
+      "id": 113
+    },
+    {
+      "year": 2019,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "변위 확대를 통한 유연 압전 발전 장치",
+      "title_ko": "변위 확대를 통한 유연 압전 발전 장치",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2019-09-04",
+      "indexByPiStatus": {
+        "Baek_registration": 52
+      },
+      "source": "Baek registration",
+      "id": 114
+    },
+    {
+      "year": 2019,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "복층 구조의 적외선 흡수체를 포함하는 마이크로-볼로미터 및 이의 제조방법",
+      "title_ko": "복층 구조의 적외선 흡수체를 포함하는 마이크로-볼로미터 및 이의 제조방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2019-08-23",
+      "indexByPiStatus": {
+        "Baek_application": 86
+      },
+      "source": "Baek application",
+      "id": 115
+    },
+    {
+      "year": 2019,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "내습성 및 응집 안정성이 우수한 Ti와 Cr이 첨가된 Ag 계열 금속 합금 조성 개발 및 이를 적용한 다층 구조의 투명 전도성 필름",
+      "title_ko": "내습성 및 응집 안정성이 우수한 Ti와 Cr이 첨가된 Ag 계열 금속 합금 조성 개발 및 이를 적용한 다층 구조의 투명 전도성 필름",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2019-08-14",
+      "indexByPiStatus": {
+        "Baek_application": 90
+      },
+      "source": "Baek application",
+      "id": 116
+    },
+    {
+      "year": 2019,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "마이크로 볼로미터를 위한 바나듐 산화물 박막 제조 방법",
+      "title_ko": "마이크로 볼로미터를 위한 바나듐 산화물 박막 제조 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2019-08-06",
+      "indexByPiStatus": {
+        "Baek_registration": 51
+      },
+      "source": "Baek registration",
+      "id": 117
+    },
+    {
+      "year": 2019,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "열전발전소자용 방열 시스템",
+      "title_ko": "열전발전소자용 방열 시스템",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2019-08-01",
+      "indexByPiStatus": {
+        "Baek_application": 88
+      },
+      "source": "Baek application",
+      "id": 118
+    },
+    {
+      "year": 2019,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "리튬-철-망간 인산화합물 양극 활물질 조성물, 이를 이용한 리튬 이차전지",
+      "title_ko": "리튬-철-망간 인산화합물 양극 활물질 조성물, 이를 이용한 리튬 이차전지",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2019-07-05",
+      "indexByPiStatus": {
+        "Baek_registration": 50
+      },
+      "source": "Baek registration",
+      "id": 119
+    },
+    {
+      "year": 2019,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "전극막 제조 방법 및 이를 이용한 커패시터의 제조 방법",
+      "title_ko": "전극막 제조 방법 및 이를 이용한 커패시터의 제조 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2019-07-01",
+      "indexByPiStatus": {
+        "Baek_application": 89
+      },
+      "source": "Baek application",
+      "id": 120
+    },
+    {
+      "year": 2019,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "마이크로 볼로미터를 위한 바나듐 산화물 박막 제조 방법",
+      "title_ko": "마이크로 볼로미터를 위한 바나듐 산화물 박막 제조 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2019-06-25",
+      "indexByPiStatus": {
+        "Baek_application": 83
+      },
+      "source": "Baek application",
+      "id": 121
+    },
+    {
+      "year": 2019,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "배향성을 가지는 Bi-Te 기반 다결정 열전재료 제조 방법",
+      "title_ko": "배향성을 가지는 Bi-Te 기반 다결정 열전재료 제조 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2019-05-23",
+      "indexByPiStatus": {
+        "Baek_application": 87
+      },
+      "source": "Baek application",
+      "id": 122
+    },
+    {
+      "year": 2019,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "p형 반도체의 오믹 접촉을 위한 바인더가 첨가된 MoO2와 ReO2 페이스트 및 공정K",
+      "title_ko": "p형 반도체의 오믹 접촉을 위한 바인더가 첨가된 MoO2와 ReO2 페이스트 및 공정K",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2019-05-14",
+      "indexByPiStatus": {
+        "Baek_registration": 49
+      },
+      "source": "Baek registration",
+      "id": 123
+    },
+    {
+      "year": 2019,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "내습성 및 기계적 강도가 우수한 질소가 도핑된 산화물 기반 다층구조의 플렉서블 투명 전도성 박막 제조 방법",
+      "title_ko": "내습성 및 기계적 강도가 우수한 질소가 도핑된 산화물 기반 다층구조의 플렉서블 투명 전도성 박막 제조 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2019-05-02",
+      "indexByPiStatus": {
+        "Baek_application": 85
+      },
+      "source": "Baek application",
+      "id": 124
+    },
+    {
+      "year": 2019,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "아치형 압전 에너지 하베스터 모듈",
+      "title_ko": "아치형 압전 에너지 하베스터 모듈",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2019-04-24",
+      "indexByPiStatus": {
+        "Baek_registration": 48
+      },
+      "source": "Baek registration",
+      "id": 125
+    },
+    {
+      "year": 2019,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "넓은 동작 주파수 범위를 갖는 자가 공진 조절 압전 발생 장치",
+      "title_ko": "넓은 동작 주파수 범위를 갖는 자가 공진 조절 압전 발생 장치",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2019-03-08",
+      "indexByPiStatus": {
+        "Baek_application": 84
+      },
+      "source": "Baek application",
+      "id": 126
+    },
+    {
+      "year": 2019,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "휘어진 압전에너지 발생 장치",
+      "title_ko": "휘어진 압전에너지 발생 장치",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2019-02-26",
+      "indexByPiStatus": {
+        "Baek_registration": 47
+      },
+      "source": "Baek registration",
+      "id": 127
+    },
+    {
+      "year": 2019,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "고효율 열전재료 및 모듈의 제조방법",
+      "title_ko": "고효율 열전재료 및 모듈의 제조방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2019-01-30",
+      "indexByPiStatus": {
+        "Baek_registration": 46
+      },
+      "source": "Baek registration",
+      "id": 128
+    },
+    {
+      "year": 2019,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "이차원 이황화주석 박막의 형성 방법",
+      "title_ko": "이차원 이황화주석 박막의 형성 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2019-01-04",
+      "indexByPiStatus": {
+        "Baek_registration": 45
+      },
+      "source": "Baek registration",
+      "id": 129
+    },
+    {
+      "year": 2018,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "반도체 메모리 소자의 커패시터 유전막 및 그 제조 방법",
+      "title_ko": "반도체 메모리 소자의 커패시터 유전막 및 그 제조 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2018-12-31",
+      "indexByPiStatus": {
+        "Baek_application": 75
+      },
+      "source": "Baek application",
+      "id": 130
+    },
+    {
+      "year": 2018,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "반도체 메모리 소자의 커패시터 유전막 및 그 제조 방법",
+      "title_ko": "반도체 메모리 소자의 커패시터 유전막 및 그 제조 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2018-12-28",
+      "indexByPiStatus": {
+        "Baek_application": 77
+      },
+      "source": "Baek application",
+      "id": 131
+    },
+    {
+      "year": 2018,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "반도체 메모리 소자용 금속 전극 제조방법",
+      "title_ko": "반도체 메모리 소자용 금속 전극 제조방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2018-12-19",
+      "indexByPiStatus": {
+        "Baek_registration": 44
+      },
+      "source": "Baek registration",
+      "id": 132
+    },
+    {
+      "year": 2018,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "반도체 메모리 소자의 커패시터 유전막 및 그 제조 방법",
+      "title_ko": "반도체 메모리 소자의 커패시터 유전막 및 그 제조 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2018-12-19",
+      "indexByPiStatus": {
+        "Baek_application": 78
+      },
+      "source": "Baek application",
+      "id": 133
+    },
+    {
+      "year": 2018,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "파우더 코팅 방법 및 그 장치",
+      "title_ko": "파우더 코팅 방법 및 그 장치",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2018-11-30",
+      "indexByPiStatus": {
+        "Baek_registration": 43
+      },
+      "source": "Baek registration",
+      "id": 134
+    },
+    {
+      "year": 2018,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "복층 구조의 적외선 흡수체를 포함하는 마이크로-볼로미터 및 이의 제조방법",
+      "title_ko": "복층 구조의 적외선 흡수체를 포함하는 마이크로-볼로미터 및 이의 제조방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2018-11-16",
+      "indexByPiStatus": {
+        "Baek_application": 82
+      },
+      "source": "Baek application",
+      "id": 135
+    },
+    {
+      "year": 2018,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "저온 형성 이차원 물질 및 그의 제조 방법",
+      "title_ko": "저온 형성 이차원 물질 및 그의 제조 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2018-09-28",
+      "indexByPiStatus": {
+        "Baek_application": 81
+      },
+      "source": "Baek application",
+      "id": 136
+    },
+    {
+      "year": 2018,
+      "pi": [
+        "Kim"
+      ],
+      "status": "application",
+      "title": "화학적 용해법에 기반한 황이온 치환 기술",
+      "title_ko": "화학적 용해법에 기반한 황이온 치환 기술",
+      "title_en": "Sulfur substitution technique based on chemical solution method",
+      "inventors": "Tae Heon Kim, Chang Won Ahn, Ill Won Kim, and Muhammad Sheeraz",
+      "number": "10-2018-0103964",
+      "numberType": "Korea Patent Application published",
+      "country": "Korea",
+      "date": "2018-08-31",
+      "indexByPiStatus": {
+        "Kim_application": 1
+      },
+      "source": "Kim application",
+      "rawKind": "Korea Patent Application published No. 10-2018-0103964",
+      "id": 137
+    },
+    {
+      "year": 2018,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "넓은 동작 주파수 범위를 갖는 자가 공진 조절 압전 발생 장치",
+      "title_ko": "넓은 동작 주파수 범위를 갖는 자가 공진 조절 압전 발생 장치",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2018-08-29",
+      "indexByPiStatus": {
+        "Baek_application": 80
+      },
+      "source": "Baek application",
+      "id": 138
+    },
+    {
+      "year": 2018,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "반도체 메모리 소자용 금속 전극 제조방법",
+      "title_ko": "반도체 메모리 소자용 금속 전극 제조방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2018-08-28",
+      "indexByPiStatus": {
+        "Baek_registration": 42
+      },
+      "source": "Baek registration",
+      "id": 139
+    },
+    {
+      "year": 2018,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "반도체 메모리 소자용 커패시터 산화물 전극 제조법",
+      "title_ko": "반도체 메모리 소자용 커패시터 산화물 전극 제조법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2018-08-22",
+      "indexByPiStatus": {
+        "Baek_registration": 41
+      },
+      "source": "Baek registration",
+      "id": 140
+    },
+    {
+      "year": 2018,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "스마트렌즈용 전고상 박막 이차전지",
+      "title_ko": "스마트렌즈용 전고상 박막 이차전지",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2018-08-20",
+      "indexByPiStatus": {
+        "Baek_registration": 40
+      },
+      "source": "Baek registration",
+      "id": 141
+    },
+    {
+      "year": 2018,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "Zn이 첨가된 SnO2 투명 도전 조성물 및 다층 투명 전도 박막의 제조방법",
+      "title_ko": "Zn이 첨가된 SnO2 투명 도전 조성물 및 다층 투명 전도 박막의 제조방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2018-07-27",
+      "indexByPiStatus": {
+        "Baek_registration": 39
+      },
+      "source": "Baek registration",
+      "id": 142
+    },
+    {
+      "year": 2018,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "스마트렌즈용 전고상 박막 이차전지",
+      "title_ko": "스마트렌즈용 전고상 박막 이차전지",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2018-07-25",
+      "indexByPiStatus": {
+        "Baek_application": 70
+      },
+      "source": "Baek application",
+      "id": 143
+    },
+    {
+      "year": 2018,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "고유전율과 저유전손실 특성의 은이 치환 된 스트론튬 나이오베이트 유전체 조성물",
+      "title_ko": "고유전율과 저유전손실 특성의 은이 치환 된 스트론튬 나이오베이트 유전체 조성물",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2018-07-13",
+      "indexByPiStatus": {
+        "Baek_registration": 38
+      },
+      "source": "Baek registration",
+      "id": 144
+    },
+    {
+      "year": 2018,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "높은 유전상수를 갖는 barium strontium titanate 유전체의 제조 방법",
+      "title_ko": "높은 유전상수를 갖는 barium strontium titanate 유전체의 제조 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2018-06-07",
+      "indexByPiStatus": {
+        "Baek_registration": 37
+      },
+      "source": "Baek registration",
+      "id": 145
+    },
+    {
+      "year": 2018,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "맥신(MXene)을 포함하는 열전 재료",
+      "title_ko": "맥신(MXene)을 포함하는 열전 재료",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2018-06-04",
+      "indexByPiStatus": {
+        "Baek_application": 73
+      },
+      "source": "Baek application",
+      "id": 146
+    },
+    {
+      "year": 2018,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "p형 반도체의 오믹 접촉을 위한 바인더가 첨가된 MoO2와 ReO2 페이스트 및 공정K",
+      "title_ko": "p형 반도체의 오믹 접촉을 위한 바인더가 첨가된 MoO2와 ReO2 페이스트 및 공정K",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2018-05-29",
+      "indexByPiStatus": {
+        "Baek_application": 71
+      },
+      "source": "Baek application",
+      "id": 147
+    },
+    {
+      "year": 2018,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "이차원 층상구조 황화주석 박막의 합성 방법",
+      "title_ko": "이차원 층상구조 황화주석 박막의 합성 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2018-05-23",
+      "indexByPiStatus": {
+        "Baek_application": 79
+      },
+      "source": "Baek application",
+      "id": 148
+    },
+    {
+      "year": 2018,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "반도체 메모리 소자의 커패시터 유전막 및 그 제조 방법",
+      "title_ko": "반도체 메모리 소자의 커패시터 유전막 및 그 제조 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2018-04-25",
+      "indexByPiStatus": {
+        "Baek_application": 76
+      },
+      "source": "Baek application",
+      "id": 149
+    },
+    {
+      "year": 2018,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "열전 반도체의 열전도도 및 열전 성능지수 측정방법",
+      "title_ko": "열전 반도체의 열전도도 및 열전 성능지수 측정방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2018-04-05",
+      "indexByPiStatus": {
+        "Baek_registration": 36
+      },
+      "source": "Baek registration",
+      "id": 150
+    },
+    {
+      "year": 2018,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "리튬-철-망간 인산화합물 양극 활물질 조성물, 이를 이용한 리튬 이차전지",
+      "title_ko": "리튬-철-망간 인산화합물 양극 활물질 조성물, 이를 이용한 리튬 이차전지",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2018-03-27",
+      "indexByPiStatus": {
+        "Baek_application": 74
+      },
+      "source": "Baek application",
+      "id": 151
+    },
+    {
+      "year": 2018,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "웨어러블 디바이스용 열전발전 시스템",
+      "title_ko": "웨어러블 디바이스용 열전발전 시스템",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2018-03-26",
+      "indexByPiStatus": {
+        "Baek_registration": 35
+      },
+      "source": "Baek registration",
+      "id": 152
+    },
+    {
+      "year": 2018,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "마이크로 볼로미터를 위한 바나듐 산화물 박막 제조 방법",
+      "title_ko": "마이크로 볼로미터를 위한 바나듐 산화물 박막 제조 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2018-03-20",
+      "indexByPiStatus": {
+        "Baek_application": 72
+      },
+      "source": "Baek application",
+      "id": 153
+    },
+    {
+      "year": 2018,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "냉간 변형을 이용한 고성능 열전 압출 소재 제조 방법",
+      "title_ko": "냉간 변형을 이용한 고성능 열전 압출 소재 제조 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2018-02-14",
+      "indexByPiStatus": {
+        "Baek_registration": 34
+      },
+      "source": "Baek registration",
+      "id": 154
+    },
+    {
+      "year": 2018,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "전자빔을 이용한 단결정 금속 산화물 나노구조 제조 방법",
+      "title_ko": "전자빔을 이용한 단결정 금속 산화물 나노구조 제조 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2018-01-02",
+      "indexByPiStatus": {
+        "Baek_registration": 33
+      },
+      "source": "Baek registration",
+      "id": 155
+    },
+    {
+      "year": 2017,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "맥신(MXene)을 포함하는 열전 재료",
+      "title_ko": "맥신(MXene)을 포함하는 열전 재료",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2017-12-18",
+      "indexByPiStatus": {
+        "Baek_application": 69
+      },
+      "source": "Baek application",
+      "id": 156
+    },
+    {
+      "year": 2017,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "고유전율과 저유전손실 특성의 은이 치환 된 스트론튬 나이오베이트 유전체 조성물",
+      "title_ko": "고유전율과 저유전손실 특성의 은이 치환 된 스트론튬 나이오베이트 유전체 조성물",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2017-12-08",
+      "indexByPiStatus": {
+        "Baek_application": 54
+      },
+      "source": "Baek application",
+      "id": 157
+    },
+    {
+      "year": 2017,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "박막형 적외선 흡수체를 포함하는 적외선 흡수 부재",
+      "title_ko": "박막형 적외선 흡수체를 포함하는 적외선 흡수 부재",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2017-11-24",
+      "indexByPiStatus": {
+        "Baek_registration": 32
+      },
+      "source": "Baek registration",
+      "id": 158
+    },
+    {
+      "year": 2017,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "나노 압력 센서",
+      "title_ko": "나노 압력 센서",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2017-11-24",
+      "indexByPiStatus": {
+        "Baek_registration": 31
+      },
+      "source": "Baek registration",
+      "id": 159
+    },
+    {
+      "year": 2017,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "고효율 열전소재 제조방법",
+      "title_ko": "고효율 열전소재 제조방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2017-11-21",
+      "indexByPiStatus": {
+        "Baek_registration": 30
+      },
+      "source": "Baek registration",
+      "id": 160
+    },
+    {
+      "year": 2017,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "무기 열전재료의 성형 금형, 성형 장치 및 이를 이용한 성형방법",
+      "title_ko": "무기 열전재료의 성형 금형, 성형 장치 및 이를 이용한 성형방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2017-11-02",
+      "indexByPiStatus": {
+        "Baek_application": 60
+      },
+      "source": "Baek application",
+      "id": 161
+    },
+    {
+      "year": 2017,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "휘어진 압전에너지 발생 장치",
+      "title_ko": "휘어진 압전에너지 발생 장치",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2017-10-27",
+      "indexByPiStatus": {
+        "Baek_registration": 29
+      },
+      "source": "Baek registration",
+      "id": 162
+    },
+    {
+      "year": 2017,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "다결정 박막 트랜지스터 제조 방법",
+      "title_ko": "다결정 박막 트랜지스터 제조 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2017-10-17",
+      "indexByPiStatus": {
+        "Baek_application": 67
+      },
+      "source": "Baek application",
+      "id": 163
+    },
+    {
+      "year": 2017,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "변위 확대를 통한 유연 압전 발전 장치",
+      "title_ko": "변위 확대를 통한 유연 압전 발전 장치",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2017-10-13",
+      "indexByPiStatus": {
+        "Baek_application": 68
+      },
+      "source": "Baek application",
+      "id": 164
+    },
+    {
+      "year": 2017,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "황화주석(II) 박막 및 그 박막의 합성 방법",
+      "title_ko": "황화주석(II) 박막 및 그 박막의 합성 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2017-09-21",
+      "indexByPiStatus": {
+        "Baek_application": 66
+      },
+      "source": "Baek application",
+      "id": 165
+    },
+    {
+      "year": 2017,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "스핀 열전 소자 및 이의 제조방법",
+      "title_ko": "스핀 열전 소자 및 이의 제조방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2017-09-18",
+      "indexByPiStatus": {
+        "Baek_registration": 28
+      },
+      "source": "Baek registration",
+      "id": 166
+    },
+    {
+      "year": 2017,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "스마트렌즈용 전고상 박막 이차전지",
+      "title_ko": "스마트렌즈용 전고상 박막 이차전지",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2017-07-27",
+      "indexByPiStatus": {
+        "Baek_application": 59
+      },
+      "source": "Baek application",
+      "id": 167
+    },
+    {
+      "year": 2017,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "파우더 코팅 방법 및 그 장치",
+      "title_ko": "파우더 코팅 방법 및 그 장치",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2017-07-13",
+      "indexByPiStatus": {
+        "Baek_application": 64
+      },
+      "source": "Baek application",
+      "id": 168
+    },
+    {
+      "year": 2017,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "반도체 메모리 소자용 금속 전극 제조방법",
+      "title_ko": "반도체 메모리 소자용 금속 전극 제조방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2017-07-13",
+      "indexByPiStatus": {
+        "Baek_application": 56
+      },
+      "source": "Baek application",
+      "id": 169
+    },
+    {
+      "year": 2017,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "아치형 압전 에너지 하베스터 모듈",
+      "title_ko": "아치형 압전 에너지 하베스터 모듈",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2017-07-12",
+      "indexByPiStatus": {
+        "Baek_application": 65
+      },
+      "source": "Baek application",
+      "id": 170
+    },
+    {
+      "year": 2017,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "나노 입자 첨가를 이용한 고강도 상온 열전 소재 제작 방법",
+      "title_ko": "나노 입자 첨가를 이용한 고강도 상온 열전 소재 제작 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2017-07-10",
+      "indexByPiStatus": {
+        "Baek_registration": 27
+      },
+      "source": "Baek registration",
+      "id": 171
+    },
+    {
+      "year": 2017,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "Zn이 첨가된 SnO2 투명 도전 조성물 및 다층 투명 전도 박막의 제조방법",
+      "title_ko": "Zn이 첨가된 SnO2 투명 도전 조성물 및 다층 투명 전도 박막의 제조방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2017-07-06",
+      "indexByPiStatus": {
+        "Baek_application": 61
+      },
+      "source": "Baek application",
+      "id": 172
+    },
+    {
+      "year": 2017,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "p형 반도체의 오믹 접촉을 위한 바인더가 첨가된 MoO2와 ReO2 페이스트 및 공정K",
+      "title_ko": "p형 반도체의 오믹 접촉을 위한 바인더가 첨가된 MoO2와 ReO2 페이스트 및 공정K",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2017-06-13",
+      "indexByPiStatus": {
+        "Baek_application": 62
+      },
+      "source": "Baek application",
+      "id": 173
+    },
+    {
+      "year": 2017,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "고효율 열전재료 및 모듈의 제조방법",
+      "title_ko": "고효율 열전재료 및 모듈의 제조방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2017-05-31",
+      "indexByPiStatus": {
+        "Baek_application": 55
+      },
+      "source": "Baek application",
+      "id": 174
+    },
+    {
+      "year": 2017,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "마이크로 볼로미터를 위한 바나듐 산화물 박막 제조 방법",
+      "title_ko": "마이크로 볼로미터를 위한 바나듐 산화물 박막 제조 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2017-05-19",
+      "indexByPiStatus": {
+        "Baek_application": 63
+      },
+      "source": "Baek application",
+      "id": 175
+    },
+    {
+      "year": 2017,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "반도체 메모리 소자용 커패시터 산화물 전극 제조법",
+      "title_ko": "반도체 메모리 소자용 커패시터 산화물 전극 제조법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2017-03-09",
+      "indexByPiStatus": {
+        "Baek_application": 58
+      },
+      "source": "Baek application",
+      "id": 176
+    },
+    {
+      "year": 2017,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "반도체 메모리 소자용 금속 전극 제조방법",
+      "title_ko": "반도체 메모리 소자용 금속 전극 제조방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2017-02-28",
+      "indexByPiStatus": {
+        "Baek_application": 57
+      },
+      "source": "Baek application",
+      "id": 177
+    },
+    {
+      "year": 2017,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "주석 질산화물계 단결정 박막의 성장 방법 및 투명전극의 제조 방법",
+      "title_ko": "주석 질산화물계 단결정 박막의 성장 방법 및 투명전극의 제조 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2017-02-27",
+      "indexByPiStatus": {
+        "Baek_registration": 26
+      },
+      "source": "Baek registration",
+      "id": 178
+    },
+    {
+      "year": 2016,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "이차원 이황화주석 박막의 형성 방법",
+      "title_ko": "이차원 이황화주석 박막의 형성 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2016-12-20",
+      "indexByPiStatus": {
+        "Baek_application": 52
+      },
+      "source": "Baek application",
+      "id": 179
+    },
+    {
+      "year": 2016,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "고효율 열전재료 및 모듈의 제조방법",
+      "title_ko": "고효율 열전재료 및 모듈의 제조방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2016-11-16",
+      "indexByPiStatus": {
+        "Baek_application": 51
+      },
+      "source": "Baek application",
+      "id": 180
+    },
+    {
+      "year": 2016,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "열전 반도체의 열전도도 및 열전 성능지수 측정방법",
+      "title_ko": "열전 반도체의 열전도도 및 열전 성능지수 측정방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2016-11-14",
+      "indexByPiStatus": {
+        "Baek_application": 53
+      },
+      "source": "Baek application",
+      "id": 181
+    },
+    {
+      "year": 2016,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "저항 매칭을 이용한 열전 모듈 제조 방법",
+      "title_ko": "저항 매칭을 이용한 열전 모듈 제조 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2016-10-24",
+      "indexByPiStatus": {
+        "Baek_registration": 25
+      },
+      "source": "Baek registration",
+      "id": 182
+    },
+    {
+      "year": 2016,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "광전-열전 융합 발전 소자 제조 방법",
+      "title_ko": "광전-열전 융합 발전 소자 제조 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2016-10-06",
+      "indexByPiStatus": {
+        "Baek_registration": 24
+      },
+      "source": "Baek registration",
+      "id": 183
+    },
+    {
+      "year": 2016,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "고유전율과 저유전손실 특성의 은이 치환 된 스트론튬 나이오베이트 유전체 조성물",
+      "title_ko": "고유전율과 저유전손실 특성의 은이 치환 된 스트론튬 나이오베이트 유전체 조성물",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2016-09-30",
+      "indexByPiStatus": {
+        "Baek_application": 45
+      },
+      "source": "Baek application",
+      "id": 184
+    },
+    {
+      "year": 2016,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "냉간 성형을 이용한 고성능 열전 소재 제조 방법",
+      "title_ko": "냉간 성형을 이용한 고성능 열전 소재 제조 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2016-08-24",
+      "indexByPiStatus": {
+        "Baek_registration": 23
+      },
+      "source": "Baek registration",
+      "id": 185
+    },
+    {
+      "year": 2016,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "웨어러블 디바이스용 열전발전 시스템",
+      "title_ko": "웨어러블 디바이스용 열전발전 시스템",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2016-08-23",
+      "indexByPiStatus": {
+        "Baek_application": 50
+      },
+      "source": "Baek application",
+      "id": 186
+    },
+    {
+      "year": 2016,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "백금족 박막의 원자층 증착 방법",
+      "title_ko": "백금족 박막의 원자층 증착 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2016-08-22",
+      "indexByPiStatus": {
+        "Baek_registration": 22
+      },
+      "source": "Baek registration",
+      "id": 187
+    },
+    {
+      "year": 2016,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "높은 유전상수를 갖는 barium strontium titanate 유전체의 제조 방법",
+      "title_ko": "높은 유전상수를 갖는 barium strontium titanate 유전체의 제조 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2016-08-05",
+      "indexByPiStatus": {
+        "Baek_application": 49
+      },
+      "source": "Baek application",
+      "id": 188
+    },
+    {
+      "year": 2016,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "나노 시트로 구성 된 적층 세라믹 캐패시터 및 제조방법",
+      "title_ko": "나노 시트로 구성 된 적층 세라믹 캐패시터 및 제조방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2016-07-08",
+      "indexByPiStatus": {
+        "Baek_registration": 21
+      },
+      "source": "Baek registration",
+      "id": 189
+    },
+    {
+      "year": 2016,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "엑시머 레이저 어닐링 법을 이용하여 저온결정화 된 리튬(이온) 유연 박막전지용 양극박막 및 유연 박막전지",
+      "title_ko": "엑시머 레이저 어닐링 법을 이용하여 저온결정화 된 리튬(이온) 유연 박막전지용 양극박막 및 유연 박막전지",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2016-07-04",
+      "indexByPiStatus": {
+        "Baek_registration": 20
+      },
+      "source": "Baek registration",
+      "id": 190
+    },
+    {
+      "year": 2016,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "전자빔을 이용한 단결정 금속 산화물 나노구조 제조 방법",
+      "title_ko": "전자빔을 이용한 단결정 금속 산화물 나노구조 제조 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2016-05-31",
+      "indexByPiStatus": {
+        "Baek_application": 48
+      },
+      "source": "Baek application",
+      "id": 191
+    },
+    {
+      "year": 2016,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "휘어진 압전에너지 발생 장치",
+      "title_ko": "휘어진 압전에너지 발생 장치",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2016-05-18",
+      "indexByPiStatus": {
+        "Baek_application": 44
+      },
+      "source": "Baek application",
+      "id": 192
+    },
+    {
+      "year": 2016,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "박막형 적외선 흡수체를 포함하는 적외선 흡수 부재",
+      "title_ko": "박막형 적외선 흡수체를 포함하는 적외선 흡수 부재",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2016-05-09",
+      "indexByPiStatus": {
+        "Baek_application": 47
+      },
+      "source": "Baek application",
+      "id": 193
+    },
+    {
+      "year": 2016,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "반도체 메모리 소자용 캐패시터 제조 방법",
+      "title_ko": "반도체 메모리 소자용 캐패시터 제조 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2016-04-18",
+      "indexByPiStatus": {
+        "Baek_application": 46
+      },
+      "source": "Baek application",
+      "id": 194
+    },
+    {
+      "year": 2016,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "압전-정전식 하이브리드형 전기에너지 발생장치",
+      "title_ko": "압전-정전식 하이브리드형 전기에너지 발생장치",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2016-04-04",
+      "indexByPiStatus": {
+        "Baek_registration": 19
+      },
+      "source": "Baek registration",
+      "id": 195
+    },
+    {
+      "year": 2015,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "고유전율과 저유전손실 특성을 가지는 비스무트 니오베이트 유전체 조성물",
+      "title_ko": "고유전율과 저유전손실 특성을 가지는 비스무트 니오베이트 유전체 조성물",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2015-12-18",
+      "indexByPiStatus": {
+        "Baek_registration": 18
+      },
+      "source": "Baek registration",
+      "id": 196
+    },
+    {
+      "year": 2015,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "고효율 열전소재 제조방법",
+      "title_ko": "고효율 열전소재 제조방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2015-12-15",
+      "indexByPiStatus": {
+        "Baek_application": 43
+      },
+      "source": "Baek application",
+      "id": 197
+    },
+    {
+      "year": 2015,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "고유전율과 저유전손실 특성의 구리가 치환 된 스트론튬 나이오베이트 유전체 조성물",
+      "title_ko": "고유전율과 저유전손실 특성의 구리가 치환 된 스트론튬 나이오베이트 유전체 조성물",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2015-11-23",
+      "indexByPiStatus": {
+        "Baek_registration": 17
+      },
+      "source": "Baek registration",
+      "id": 198
+    },
+    {
+      "year": 2015,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "냉간 변형을 이용한 고성능 열전 압출 소재 제조 방법",
+      "title_ko": "냉간 변형을 이용한 고성능 열전 압출 소재 제조 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2015-11-12",
+      "indexByPiStatus": {
+        "Baek_application": 42
+      },
+      "source": "Baek application",
+      "id": 199
+    },
+    {
+      "year": 2015,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "엑시머 레이저 어닐링 법을 이용하여 저온결정화 된 리튬(이온) 유연 박막전지용 양극박막 및 유연 박막전지",
+      "title_ko": "엑시머 레이저 어닐링 법을 이용하여 저온결정화 된 리튬(이온) 유연 박막전지용 양극박막 및 유연 박막전지",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2015-10-29",
+      "indexByPiStatus": {
+        "Baek_application": 29
+      },
+      "source": "Baek application",
+      "id": 200
+    },
+    {
+      "year": 2015,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "고유전율과 저유전손실 특성의 은이 치환 된 스트론튬 나이오베이트 유전체 조성물",
+      "title_ko": "고유전율과 저유전손실 특성의 은이 치환 된 스트론튬 나이오베이트 유전체 조성물",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2015-10-19",
+      "indexByPiStatus": {
+        "Baek_application": 41
+      },
+      "source": "Baek application",
+      "id": 201
+    },
+    {
+      "year": 2015,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "압전 파우더와 중합체의 복합체를 이용한 플렉서블 압전 에너지 하베스팅 소자의 제조 방법",
+      "title_ko": "압전 파우더와 중합체의 복합체를 이용한 플렉서블 압전 에너지 하베스팅 소자의 제조 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2015-08-25",
+      "indexByPiStatus": {
+        "Baek_registration": 16
+      },
+      "source": "Baek registration",
+      "id": 202
+    },
+    {
+      "year": 2015,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "나노 입자 첨가를 이용한 고강도 상온 열전 소재 제작 방법",
+      "title_ko": "나노 입자 첨가를 이용한 고강도 상온 열전 소재 제작 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2015-08-06",
+      "indexByPiStatus": {
+        "Baek_application": 37
+      },
+      "source": "Baek application",
+      "id": 203
+    },
+    {
+      "year": 2015,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "엑시머 레이저 어닐링 법을 이용하여 저온결정화 된 리튬(이온) 유연 박막전지용 양극박막 및 유연 박막전지",
+      "title_ko": "엑시머 레이저 어닐링 법을 이용하여 저온결정화 된 리튬(이온) 유연 박막전지용 양극박막 및 유연 박막전지",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2015-07-17",
+      "indexByPiStatus": {
+        "Baek_application": 30
+      },
+      "source": "Baek application",
+      "id": 204
+    },
+    {
+      "year": 2015,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "나노 압력 센서",
+      "title_ko": "나노 압력 센서",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2015-07-01",
+      "indexByPiStatus": {
+        "Baek_application": 38
+      },
+      "source": "Baek application",
+      "id": 205
+    },
+    {
+      "year": 2015,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "스핀 열전 소자 및 이의 제조방법",
+      "title_ko": "스핀 열전 소자 및 이의 제조방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2015-06-15",
+      "indexByPiStatus": {
+        "Baek_application": 40
+      },
+      "source": "Baek application",
+      "id": 206
+    },
+    {
+      "year": 2015,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "휘어진 압전에너지 발생 장치",
+      "title_ko": "휘어진 압전에너지 발생 장치",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2015-06-10",
+      "indexByPiStatus": {
+        "Baek_application": 31
+      },
+      "source": "Baek application",
+      "id": 207
+    },
+    {
+      "year": 2015,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "백금족 박막의 원자층 증착 방법",
+      "title_ko": "백금족 박막의 원자층 증착 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2015-06-01",
+      "indexByPiStatus": {
+        "Baek_application": 39
+      },
+      "source": "Baek application",
+      "id": 208
+    },
+    {
+      "year": 2015,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "주석 질산화물계 단결정 박막의 성장 방법 및 투명전극의 제조 방법",
+      "title_ko": "주석 질산화물계 단결정 박막의 성장 방법 및 투명전극의 제조 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2015-05-19",
+      "indexByPiStatus": {
+        "Baek_application": 36
+      },
+      "source": "Baek application",
+      "id": 209
+    },
+    {
+      "year": 2015,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "나노 시트로 구성 된 적층 세라믹 캐패시터 및 제조방법",
+      "title_ko": "나노 시트로 구성 된 적층 세라믹 캐패시터 및 제조방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2015-05-18",
+      "indexByPiStatus": {
+        "Baek_registration": 15
+      },
+      "source": "Baek registration",
+      "id": 210
+    },
+    {
+      "year": 2015,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "리튬 이온 이차전지용 실리콘/알루미늄 적층 다층 음극 박막 및 그 제조방법",
+      "title_ko": "리튬 이온 이차전지용 실리콘/알루미늄 적층 다층 음극 박막 및 그 제조방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2015-04-01",
+      "indexByPiStatus": {
+        "Baek_registration": 14
+      },
+      "source": "Baek registration",
+      "id": 211
+    },
+    {
+      "year": 2015,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "저항 매칭을 이용한 열전 모듈 제조 방법",
+      "title_ko": "저항 매칭을 이용한 열전 모듈 제조 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2015-03-26",
+      "indexByPiStatus": {
+        "Baek_application": 32
+      },
+      "source": "Baek application",
+      "id": 212
+    },
+    {
+      "year": 2015,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "원자층증착법을 이용한 거대 결정 티타늄 산화물 박막의 제조 방법",
+      "title_ko": "원자층증착법을 이용한 거대 결정 티타늄 산화물 박막의 제조 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2015-03-19",
+      "indexByPiStatus": {
+        "Baek_application": 34
+      },
+      "source": "Baek application",
+      "id": 213
+    },
+    {
+      "year": 2015,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "광전-열전 융합 발전 소자 제조 방법",
+      "title_ko": "광전-열전 융합 발전 소자 제조 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2015-03-18",
+      "indexByPiStatus": {
+        "Baek_application": 35
+      },
+      "source": "Baek application",
+      "id": 214
+    },
+    {
+      "year": 2015,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "원자층증착법을 이용한 반도체 소자의 박막 제조 방법",
+      "title_ko": "원자층증착법을 이용한 반도체 소자의 박막 제조 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2015-03-12",
+      "indexByPiStatus": {
+        "Baek_application": 33
+      },
+      "source": "Baek application",
+      "id": 215
+    },
+    {
+      "year": 2015,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "고유전율과 저유전손실 특성을 가지는 비스무트 니오베이트 유전체 조성물",
+      "title_ko": "고유전율과 저유전손실 특성을 가지는 비스무트 니오베이트 유전체 조성물",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2015-02-13",
+      "indexByPiStatus": {
+        "Baek_registration": 13
+      },
+      "source": "Baek registration",
+      "id": 216
+    },
+    {
+      "year": 2014,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "나노 시트로 구성 된 적층 세라믹 캐패시터 및 제조방법",
+      "title_ko": "나노 시트로 구성 된 적층 세라믹 캐패시터 및 제조방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2014-12-16",
+      "indexByPiStatus": {
+        "Baek_application": 24
+      },
+      "source": "Baek application",
+      "id": 217
+    },
+    {
+      "year": 2014,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "관상 열전 모듈 및 그 제작 방법",
+      "title_ko": "관상 열전 모듈 및 그 제작 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2014-12-03",
+      "indexByPiStatus": {
+        "Baek_registration": 12
+      },
+      "source": "Baek registration",
+      "id": 218
+    },
+    {
+      "year": 2014,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "산화물 전자소자 및 그 제조방법",
+      "title_ko": "산화물 전자소자 및 그 제조방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2014-11-18",
+      "indexByPiStatus": {
+        "Baek_registration": 11
+      },
+      "source": "Baek registration",
+      "id": 219
+    },
+    {
+      "year": 2014,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "엑시머 레이저 어닐링 법을 이용하여 저온결정화 된 리튬(이온) 유연 박막전지용 양극박막 및 유연 박막전지",
+      "title_ko": "엑시머 레이저 어닐링 법을 이용하여 저온결정화 된 리튬(이온) 유연 박막전지용 양극박막 및 유연 박막전지",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2014-11-06",
+      "indexByPiStatus": {
+        "Baek_application": 28
+      },
+      "source": "Baek application",
+      "id": 220
+    },
+    {
+      "year": 2014,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "냉간 성형을 이용한 고성능 열전 소재 제조 방법",
+      "title_ko": "냉간 성형을 이용한 고성능 열전 소재 제조 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2014-10-22",
+      "indexByPiStatus": {
+        "Baek_registration": 10
+      },
+      "source": "Baek registration",
+      "id": 221
+    },
+    {
+      "year": 2014,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "산화물 전자 메모리 소자 및 그 제조방법",
+      "title_ko": "산화물 전자 메모리 소자 및 그 제조방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2014-10-06",
+      "indexByPiStatus": {
+        "Baek_registration": 9
+      },
+      "source": "Baek registration",
+      "id": 222
+    },
+    {
+      "year": 2014,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "평면형 다단 열전 모듈 및 그 제조방법",
+      "title_ko": "평면형 다단 열전 모듈 및 그 제조방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2014-10-06",
+      "indexByPiStatus": {
+        "Baek_registration": 8
+      },
+      "source": "Baek registration",
+      "id": 223
+    },
+    {
+      "year": 2014,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "레이저 리프트 오프 방법을 이용한 산화물 박막 평면 소자의 제조 방법",
+      "title_ko": "레이저 리프트 오프 방법을 이용한 산화물 박막 평면 소자의 제조 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2014-09-09",
+      "indexByPiStatus": {
+        "Baek_registration": 7
+      },
+      "source": "Baek registration",
+      "id": 224
+    },
+    {
+      "year": 2014,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "고유전율과 저유전손실 특성의 구리가 치환 된 스트론튬 나이오베이트 유전체 조성물",
+      "title_ko": "고유전율과 저유전손실 특성의 구리가 치환 된 스트론튬 나이오베이트 유전체 조성물",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2014-08-05",
+      "indexByPiStatus": {
+        "Baek_application": 27
+      },
+      "source": "Baek application",
+      "id": 225
+    },
+    {
+      "year": 2014,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "압전-정전식 하이브리드형 전기에너지 발생장치",
+      "title_ko": "압전-정전식 하이브리드형 전기에너지 발생장치",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2014-06-03",
+      "indexByPiStatus": {
+        "Baek_application": 26
+      },
+      "source": "Baek application",
+      "id": 226
+    },
+    {
+      "year": 2014,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "텔루르화 비스무트-셀렌화 인듐 나노복합체 열전 소재 및 그 제조 방법",
+      "title_ko": "텔루르화 비스무트-셀렌화 인듐 나노복합체 열전 소재 및 그 제조 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2014-06-02",
+      "indexByPiStatus": {
+        "Baek_registration": 6
+      },
+      "source": "Baek registration",
+      "id": 227
+    },
+    {
+      "year": 2014,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "압전 파우더와 중합체의 복합체를 이용한 플렉서블 압전 에너지 하베스팅 소자의 제조 방법",
+      "title_ko": "압전 파우더와 중합체의 복합체를 이용한 플렉서블 압전 에너지 하베스팅 소자의 제조 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2014-05-27",
+      "indexByPiStatus": {
+        "Baek_registration": 5
+      },
+      "source": "Baek registration",
+      "id": 228
+    },
+    {
+      "year": 2014,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "나이오베이트 유전체 조성물 및 이를 사용하는 나노시트 박막",
+      "title_ko": "나이오베이트 유전체 조성물 및 이를 사용하는 나노시트 박막",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2014-05-16",
+      "indexByPiStatus": {
+        "Baek_registration": 4
+      },
+      "source": "Baek registration",
+      "id": 229
+    },
+    {
+      "year": 2014,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "높은 유전율을 갖는 칼슘구리티타늄 산화물 유전체 조성물 및 박막",
+      "title_ko": "높은 유전율을 갖는 칼슘구리티타늄 산화물 유전체 조성물 및 박막",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2014-04-29",
+      "indexByPiStatus": {
+        "Baek_application": 25
+      },
+      "source": "Baek application",
+      "id": 230
+    },
+    {
+      "year": 2014,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "고유전율과 저유전손실 특성을 가지는 비스무트 니오베이트 유전체 조성물",
+      "title_ko": "고유전율과 저유전손실 특성을 가지는 비스무트 니오베이트 유전체 조성물",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2014-04-28",
+      "indexByPiStatus": {
+        "Baek_application": 22
+      },
+      "source": "Baek application",
+      "id": 231
+    },
+    {
+      "year": 2014,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "냉간 성형을 이용한 고성능 열전 소재 제조 방법",
+      "title_ko": "냉간 성형을 이용한 고성능 열전 소재 제조 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2014-04-18",
+      "indexByPiStatus": {
+        "Baek_application": 21
+      },
+      "source": "Baek application",
+      "id": 232
+    },
+    {
+      "year": 2014,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "리튬 이온 이차 전지용 Si-Al 동시 증착 음극 박막",
+      "title_ko": "리튬 이온 이차 전지용 Si-Al 동시 증착 음극 박막",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2014-02-04",
+      "indexByPiStatus": {
+        "Baek_application": 23
+      },
+      "source": "Baek application",
+      "id": 233
+    },
+    {
+      "year": 2014,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "고밀도 실장용 박막 콘덴서, 그 제조방법 및 고밀도 실장 기판",
+      "title_ko": "고밀도 실장용 박막 콘덴서, 그 제조방법 및 고밀도 실장 기판",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2014-01-28",
+      "indexByPiStatus": {
+        "Baek_registration": 3
+      },
+      "source": "Baek registration",
+      "id": 234
+    },
+    {
+      "year": 2014,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "산화물 전자소자 및 그 제조방법",
+      "title_ko": "산화물 전자소자 및 그 제조방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2014-01-02",
+      "indexByPiStatus": {
+        "Baek_registration": 2
+      },
+      "source": "Baek registration",
+      "id": 235
+    },
+    {
+      "year": 2013,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "나노 시트로 구성 된 적층 세라믹 캐패시터 및 제조방법",
+      "title_ko": "나노 시트로 구성 된 적층 세라믹 캐패시터 및 제조방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2013-12-16",
+      "indexByPiStatus": {
+        "Baek_application": 20
+      },
+      "source": "Baek application",
+      "id": 236
+    },
+    {
+      "year": 2013,
+      "pi": [
+        "Baek"
+      ],
+      "status": "registration",
+      "title": "레이저 리프트 오프 방법을 이용한 산화물 박막 평면 소자의 제조 방법",
+      "title_ko": "레이저 리프트 오프 방법을 이용한 산화물 박막 평면 소자의 제조 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2013-11-29",
+      "indexByPiStatus": {
+        "Baek_registration": 1
+      },
+      "source": "Baek registration",
+      "id": 237
+    },
+    {
+      "year": 2013,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "산화물 전자 메모리 소자 및 그 제조방법",
+      "title_ko": "산화물 전자 메모리 소자 및 그 제조방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2013-10-22",
+      "indexByPiStatus": {
+        "Baek_application": 19
+      },
+      "source": "Baek application",
+      "id": 238
+    },
+    {
+      "year": 2013,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "관상 열전 모듈 및 그 제작 방법",
+      "title_ko": "관상 열전 모듈 및 그 제작 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2013-10-22",
+      "indexByPiStatus": {
+        "Baek_application": 18
+      },
+      "source": "Baek application",
+      "id": 239
+    },
+    {
+      "year": 2013,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "상호 접합 된 열전소재를 이용한 관형 열전모듈 및 관형 열전모듈의 제작 방법",
+      "title_ko": "상호 접합 된 열전소재를 이용한 관형 열전모듈 및 관형 열전모듈의 제작 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2013-10-22",
+      "indexByPiStatus": {
+        "Baek_application": 17
+      },
+      "source": "Baek application",
+      "id": 240
+    },
+    {
+      "year": 2013,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "고유전율과 저유전손실 특성을 가지는 비스무트 니오베이트 유전체 조성물",
+      "title_ko": "고유전율과 저유전손실 특성을 가지는 비스무트 니오베이트 유전체 조성물",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2013-05-27",
+      "indexByPiStatus": {
+        "Baek_application": 16
+      },
+      "source": "Baek application",
+      "id": 241
+    },
+    {
+      "year": 2013,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "냉간 성형을 이용한 고성능 열전 소재 제조 방법",
+      "title_ko": "냉간 성형을 이용한 고성능 열전 소재 제조 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2013-04-23",
+      "indexByPiStatus": {
+        "Baek_application": 15
+      },
+      "source": "Baek application",
+      "id": 242
+    },
+    {
+      "year": 2013,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "나이오베이트 유전체 조성물 및 이를 사용하는 나노시트 박막",
+      "title_ko": "나이오베이트 유전체 조성물 및 이를 사용하는 나노시트 박막",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2013-04-09",
+      "indexByPiStatus": {
+        "Baek_application": 12
+      },
+      "source": "Baek application",
+      "id": 243
+    },
+    {
+      "year": 2013,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "텔루르화 비스무트-셀렌화 인듐 나노복합체 열전 소재 및 그 제조 방법",
+      "title_ko": "텔루르화 비스무트-셀렌화 인듐 나노복합체 열전 소재 및 그 제조 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2013-03-25",
+      "indexByPiStatus": {
+        "Baek_application": 13
+      },
+      "source": "Baek application",
+      "id": 244
+    },
+    {
+      "year": 2013,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "리튬 이온 이차전지용 실리콘/알루미늄 적층 다층 음극 박막 및 그 제조방법",
+      "title_ko": "리튬 이온 이차전지용 실리콘/알루미늄 적층 다층 음극 박막 및 그 제조방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2013-03-08",
+      "indexByPiStatus": {
+        "Baek_application": 14
+      },
+      "source": "Baek application",
+      "id": 245
+    },
+    {
+      "year": 2013,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "산화물 전자소자 및 그 제조방법",
+      "title_ko": "산화물 전자소자 및 그 제조방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2013-02-22",
+      "indexByPiStatus": {
+        "Baek_application": 10
+      },
+      "source": "Baek application",
+      "id": 246
+    },
+    {
+      "year": 2013,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "나이오베이트 유전체 조성물 및 이를 사용하는 나노시트 박막",
+      "title_ko": "나이오베이트 유전체 조성물 및 이를 사용하는 나노시트 박막",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2013-01-29",
+      "indexByPiStatus": {
+        "Baek_application": 11
+      },
+      "source": "Baek application",
+      "id": 247
+    },
+    {
+      "year": 2012,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "레이저 리프트 오프 방법을 이용한 산화물 박막 평면 소자의 제조 방법",
+      "title_ko": "레이저 리프트 오프 방법을 이용한 산화물 박막 평면 소자의 제조 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2012-12-13",
+      "indexByPiStatus": {
+        "Baek_application": 2
+      },
+      "source": "Baek application",
+      "id": 248
+    },
+    {
+      "year": 2012,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "고밀도 실장용 박막 콘덴서, 그 제조방법 및 고밀도 실장 기판",
+      "title_ko": "고밀도 실장용 박막 콘덴서, 그 제조방법 및 고밀도 실장 기판",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2012-11-15",
+      "indexByPiStatus": {
+        "Baek_application": 7
+      },
+      "source": "Baek application",
+      "id": 249
+    },
+    {
+      "year": 2012,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "압전 파우더와 중합체의 복합체를 이용한 플렉서블 압전 에너지 하베스팅 소자의 제조 방법",
+      "title_ko": "압전 파우더와 중합체의 복합체를 이용한 플렉서블 압전 에너지 하베스팅 소자의 제조 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2012-10-30",
+      "indexByPiStatus": {
+        "Baek_application": 4
+      },
+      "source": "Baek application",
+      "id": 250
+    },
+    {
+      "year": 2012,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "산화물 센서 및 그 제조방법",
+      "title_ko": "산화물 센서 및 그 제조방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2012-10-22",
+      "indexByPiStatus": {
+        "Baek_application": 9
+      },
+      "source": "Baek application",
+      "id": 251
+    },
+    {
+      "year": 2012,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "산화물 전자소자 및 그 제조방법",
+      "title_ko": "산화물 전자소자 및 그 제조방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2012-08-17",
+      "indexByPiStatus": {
+        "Baek_application": 8
+      },
+      "source": "Baek application",
+      "id": 252
+    },
+    {
+      "year": 2012,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "압전 파우더와 중합체의 복합체를 이용한 플렉서블 압전 에너지 하베스팅 소자의 제조 방법",
+      "title_ko": "압전 파우더와 중합체의 복합체를 이용한 플렉서블 압전 에너지 하베스팅 소자의 제조 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2012-06-13",
+      "indexByPiStatus": {
+        "Baek_application": 5
+      },
+      "source": "Baek application",
+      "id": 253
+    },
+    {
+      "year": 2012,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "레이저 리프트 오프 방법을 이용한 산화물 박막 평면 소자의 제조 방법",
+      "title_ko": "레이저 리프트 오프 방법을 이용한 산화물 박막 평면 소자의 제조 방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2012-06-13",
+      "indexByPiStatus": {
+        "Baek_application": 3
+      },
+      "source": "Baek application",
+      "id": 254
+    },
+    {
+      "year": 2012,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "고밀도 실장용 박막 콘덴서, 그 제조방법 및 고밀도 실장 기판",
+      "title_ko": "고밀도 실장용 박막 콘덴서, 그 제조방법 및 고밀도 실장 기판",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2012-05-23",
+      "indexByPiStatus": {
+        "Baek_application": 6
+      },
+      "source": "Baek application",
+      "id": 255
+    },
+    {
+      "year": 2012,
+      "pi": [
+        "Baek"
+      ],
+      "status": "application",
+      "title": "평면형 다단 열전 모듈 및 그 제조방법",
+      "title_ko": "평면형 다단 열전 모듈 및 그 제조방법",
+      "title_en": "",
+      "inventors": "",
+      "number": "",
+      "numberType": "",
+      "country": "Korea",
+      "date": "2012-03-07",
+      "indexByPiStatus": {
+        "Baek_application": 1
+      },
+      "source": "Baek application",
+      "id": 256
+    }
+  ]
+}

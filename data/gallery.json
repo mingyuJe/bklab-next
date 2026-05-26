@@ -1,0 +1,28 @@
+{
+  "gallery": [
+    {
+      "id": "group-outing-2026",
+      "title": "Group outing 2026",
+      "category": "Lab life",
+      "date": "2026",
+      "image": "",
+      "caption": "Group activity photo will be added after image collection."
+    },
+    {
+      "id": "sports-day",
+      "title": "Sports Day",
+      "category": "Event",
+      "date": "2026",
+      "image": "",
+      "caption": "Lab event photo slot."
+    },
+    {
+      "id": "experimental-imagery",
+      "title": "Experimental imagery",
+      "category": "Research",
+      "date": "",
+      "image": "",
+      "caption": "AI-retouched experimental image can be placed here."
+    }
+  ]
+}

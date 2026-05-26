@@ -1,0 +1,7174 @@
+{
+  "publications": [
+    {
+      "id": 263,
+      "year": 2026,
+      "pi": [
+        "Kim"
+      ],
+      "title": "Heteroepitaxial Integration of Freestanding Ferroelectric BaTiO3 on BaZrO3 Membranes",
+      "authors": "Munir Ahmad, Muhammad Sheeraz, Seungjae Lim, Jun Won Jang, Ill Won Kim, Chang Won Ahn, Jae-Ung Lee, Jieun Kim, Young-Han Shin, Tae Heon Kim (Corresponding author)",
+      "journal": "Microstructures",
+      "volume": "6",
+      "pages": "2025044",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Kim": 61
+      },
+      "globalIndex": 263,
+      "indexByPi": {
+        "Kim": 83
+      },
+      "piAuthors": [
+        "Kim"
+      ],
+      "venue": "Microstructures",
+      "details": "6 · 2025044"
+    },
+    {
+      "id": 262,
+      "year": 2026,
+      "pi": [
+        "Kim"
+      ],
+      "title": "Engineering of Crystal and Domain Structures in Epitaxial Y:HfO2 Thin Films by YSZ Substrate Miscut",
+      "authors": "Jun Young Lee, Hyung-Jin Choi, Kun Hee Ye, Haneul Choi, Byeong-hyeon Lee, Min-Seok Kim, Dong-Hun Han, June Hyuk Lee, Sung Ok Won, Tae Heon Kim (Co-corresponding author), Hye Jung Chang, Jung-Hae Choi, Seung-Hyub Baek",
+      "journal": "Adv. Sci.",
+      "volume": "e24377",
+      "pages": "",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Kim": 60
+      },
+      "globalIndex": 262,
+      "indexByPi": {
+        "Kim": 82
+      },
+      "piAuthors": [
+        "Baek",
+        "Kim"
+      ],
+      "venue": "Adv. Sci.",
+      "details": "e24377"
+    },
+    {
+      "id": 261,
+      "year": 2025,
+      "pi": [
+        "Kim"
+      ],
+      "title": "Development of two-dimensional layered ZnSb-based thermoelectric materials via alkali metal alloying",
+      "authors": "Peyala Dharmaiah, Gwang Min Park, Minsu Heo, Jaebaek Ju, Hyun-Sik Kim, Hea Jung Park, Sung Ok Won, Tae Heon Kim (co-author), Seong Keun Kim, Jin-Sang Kim, and Seung-Hyub Baek",
+      "journal": "J. Alloys Compd.",
+      "volume": "1039",
+      "pages": "183309",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Kim": 59
+      },
+      "globalIndex": 261,
+      "indexByPi": {
+        "Kim": 81
+      },
+      "piAuthors": [
+        "Baek",
+        "Kim"
+      ],
+      "venue": "J. Alloys Compd.",
+      "details": "1039 · 183309"
+    },
+    {
+      "id": 260,
+      "year": 2025,
+      "pi": [
+        "Kim"
+      ],
+      "title": "Low-voltage Driven Ferroelectric Thermal Switch",
+      "authors": "Gimin Park, Byoungjin Yoon, Jeyeon Lee, Kichan Kim, Hyun Seok Song, Rokhyeon Kim, Hyun Soo Kim, Dong-Gyu Lee, Junphil Hwang, Jungwon Kim, Heemin Kang, Sang-Goo Lee, Jungho Ryu, Yongke Yan, Jeong Min Baik, Tae Heon Kim (co-author), Hyun-Cheol Song, and Sunghoon Hur",
+      "journal": "Nano Energy",
+      "volume": "145",
+      "pages": "111410",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Kim": 58
+      },
+      "globalIndex": 260,
+      "indexByPi": {
+        "Kim": 80
+      },
+      "piAuthors": [
+        "Kim"
+      ],
+      "venue": "Nano Energy",
+      "details": "145 · 111410"
+    },
+    {
+      "id": 259,
+      "year": 2025,
+      "pi": [
+        "Kim"
+      ],
+      "title": "Optical detection of bond-dependent and frustrated spin in the two-dimensional cobalt-based honeycomb antiferromagnet Cu3Co2SbO6",
+      "authors": "Baekjune Kang, Uksam Choi, Taek Sun Jung, Seunghyeon Noh, Gye-Hyeon Kim, Uihyeon Seo, Miju Park, Jin-Hyun Choi, Min Jae Kim, GwangCheol Ji, Sehwan Song, Hyesung Jo, Seokjo Hong, Nguyen Xuan Duong, Subhasis Samanta, Heung-Sik Kim, Tae Heon Kim (co-author), Yongsoo Yang, Sungkyun Park, Jong Mok Ok, Jung-Woo Yoo, Jae Hoon Kim, and Changhee Sohn",
+      "journal": "Nat. Commun.",
+      "volume": "16",
+      "pages": "1323",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Kim": 57
+      },
+      "globalIndex": 259,
+      "indexByPi": {
+        "Kim": 79
+      },
+      "piAuthors": [
+        "Kim"
+      ],
+      "venue": "Nat. Commun.",
+      "details": "16 · 1323"
+    },
+    {
+      "id": 258,
+      "year": 2025,
+      "pi": [
+        "Kim"
+      ],
+      "title": "Insights into high electric-field-induced strain in BiAlO3 modified Bi1/2Na1/2TiO3 films",
+      "authors": "Muhammad Sheeraz, Sung Sik Won, Jong Pil Kim, Sabir Ali, Fazli Akram, Hyoung-Su Han, Bong Chan Park, Tae Heon Kim (co-author), Ill Won Kim, Aman Ullah, and Chang Won Ahn",
+      "journal": "J. Adv. Ceram.",
+      "volume": "14",
+      "pages": "9221034",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Kim": 56
+      },
+      "globalIndex": 258,
+      "indexByPi": {
+        "Kim": 78
+      },
+      "piAuthors": [
+        "Kim"
+      ],
+      "venue": "J. Adv. Ceram.",
+      "details": "14 · 9221034"
+    },
+    {
+      "id": 257,
+      "year": 2025,
+      "pi": [
+        "Kim"
+      ],
+      "title": "Vibrational, Optical and Elastic Properties of Cs2AgBiX6 (X= Br, Cl) Double Perovskite Materials: DFT, PL, Raman and Brillouin Scattering Studies",
+      "authors": "Furqanul Hassan Naqvi, Jae-Hyeon Ko, Tae Heon Kim (co-author), Chang Won Ahn, and Younghun Hwang",
+      "journal": "J. Alloys Compd.",
+      "volume": "1010",
+      "pages": "176968",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Kim": 55
+      },
+      "globalIndex": 257,
+      "indexByPi": {
+        "Kim": 77
+      },
+      "piAuthors": [
+        "Kim"
+      ],
+      "venue": "J. Alloys Compd.",
+      "details": "1010 · 176968"
+    },
+    {
+      "id": 256,
+      "year": 2024,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Extreme sputtering: Epitaxy of multifunctional oxides heterostructures",
+      "authors": "Jung, SY; Han, DH; Ning, R; Kim, MS; Choi, HJ; Jang, HW; Baek, SH",
+      "journal": "JOURNAL OF ADVANCED CERAMICS",
+      "volume": "13",
+      "pages": "1919",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 191
+      },
+      "globalIndex": 256,
+      "indexByPi": {
+        "Baek": 191
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "JOURNAL OF ADVANCED CERAMICS",
+      "details": "13 · 1919"
+    },
+    {
+      "id": 255,
+      "year": 2024,
+      "pi": [
+        "Baek",
+        "Kim"
+      ],
+      "title": "Protonation-driven Polarization Retention Failure in Nano-columnar Lead-free Ferroelectric Thin Films",
+      "authors": "Muhammad Sheeraz, Chang Won Ahn, Nguyen Xuan Duong, Soo-Yoon Hwang, Ji-Soo Jang, Eun-Young Kim, Yoon Ki Kim, Jaeyeong Lee, Jong Sung Jin, Jong-Seong Bae, Myang Hwan Lee, Hyoung-Su Han, Gi-Yeop Kim, Shinuk Cho, Tae Kwon Song, Sang Mo Yang, Sang Don Bu, Seung-Hyub Baek, Si-Young Choi, Ill Won Kim, and Tae Heon Kim (Corresponding author)",
+      "journal": "Adv. Sci.",
+      "volume": "11",
+      "pages": "2408784",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 190,
+        "Kim": 54
+      },
+      "globalIndex": 255,
+      "indexByPi": {
+        "Baek": 190,
+        "Kim": 76
+      },
+      "piAuthors": [
+        "Baek",
+        "Kim"
+      ],
+      "venue": "Adv. Sci.",
+      "details": "11 · 2408784"
+    },
+    {
+      "id": 254,
+      "year": 2024,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Controlled Engineering of Defects and Interfaces in Thermoelectric Materials With Atomic Layer Deposition",
+      "authors": "Park, GM; Lee, S; Park, TJ; Baek, SH; Kim, JS; Kim, SK",
+      "journal": "ADVANCED MATERIALS INTERFACES",
+      "volume": "",
+      "pages": "10.1002/admi.202400581",
+      "doi": "10.1002/admi.202400581",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 189
+      },
+      "globalIndex": 254,
+      "indexByPi": {
+        "Baek": 189
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "ADVANCED MATERIALS INTERFACES",
+      "details": "10.1002/admi.202400581 · 10.1002/admi.202400581"
+    },
+    {
+      "id": 253,
+      "year": 2024,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Interfacial layer suppression in ZrO2/TiN stack structured capacitors via atomic layer deposition",
+      "authors": "Jang, M; Jeon, J; Lim, WC; Chae, KH; Baek, SH; Kim, SK",
+      "journal": "CERAMICS INTERNATIONAL",
+      "volume": "50",
+      "pages": "47910",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 188
+      },
+      "globalIndex": 253,
+      "indexByPi": {
+        "Baek": 188
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "CERAMICS INTERNATIONAL",
+      "details": "50 · 47910"
+    },
+    {
+      "id": 252,
+      "year": 2024,
+      "pi": [
+        "Baek"
+      ],
+      "title": "A relaxor-ferroelectric PMN-PZT thin-film-based drop-on-demand printhead for bioprinting applications with high piezoelectricity and low heat dissipation",
+      "authors": "Park, JS; Huh, KY; Kim, MS; Jung, SY; Park, JH; Kim, SJ; Jang, HW; Hwang, KS; Kim, HN; Kim, TG; Baek, SH; Lee, BC",
+      "journal": "SENSORS AND ACTUATORS B-CHEMICAL",
+      "volume": "417",
+      "pages": "136194",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 187
+      },
+      "globalIndex": 252,
+      "indexByPi": {
+        "Baek": 187
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "SENSORS AND ACTUATORS B-CHEMICAL",
+      "details": "417 · 136194"
+    },
+    {
+      "id": 251,
+      "year": 2024,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Why is it challenging to improve the thermoelectric properties of n-type Bi2Te3 alloys?",
+      "authors": "Dharmaiah, P; Jung, SJ; Kim, JS; Kim, SK; Baek, SH",
+      "journal": "APPLIED PHYSICS REVIEWS",
+      "volume": "11",
+      "pages": "31312",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 186
+      },
+      "globalIndex": 251,
+      "indexByPi": {
+        "Baek": 186
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "APPLIED PHYSICS REVIEWS",
+      "details": "11 · 31312"
+    },
+    {
+      "id": 250,
+      "year": 2024,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Enhancement of thermoelectric properties in p-type ZnSb alloys through Cu-doping",
+      "authors": "Dharmaiah, P; Heo, M; Nagarjuna, C; Jung, SJ; Won, SO; Lee, KH; Kim, SK; Kim, JS; Ahn, B; Kim, HS; Baek, SH",
+      "journal": "JOURNAL OF ALLOYS AND COMPOUNDS",
+      "volume": "1004",
+      "pages": "175739",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 185
+      },
+      "globalIndex": 250,
+      "indexByPi": {
+        "Baek": 185
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "JOURNAL OF ALLOYS AND COMPOUNDS",
+      "details": "1004 · 175739"
+    },
+    {
+      "id": 249,
+      "year": 2024,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Unlocking the Potential of Porous Bi2Te3-Based Thermoelectrics Using Precise Interface Engineering through Atomic Layer Deposition",
+      "authors": "Lee, S; Park, GM; Kim, Y; Lee, SH; Jung, SJ; Hong, J; Kim, SC; Won, SO; Lee, AS; Chung, YJ; Kim, JY; Kim, H; Baek, SH; Kim, JS; Park, TJ; Kim, SK",
+      "journal": "ACS APPLIED MATERIALS & INTERFACES",
+      "volume": "16",
+      "pages": "17683",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 184
+      },
+      "globalIndex": 249,
+      "indexByPi": {
+        "Baek": 184
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "ACS APPLIED MATERIALS & INTERFACES",
+      "details": "16 · 17683"
+    },
+    {
+      "id": 248,
+      "year": 2024,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Evolution of magnetic anisotropy in La0.67Sr0.33MnO3 thin films due to the appearance of out-of-plane magnetization at low temperature",
+      "authors": "Choi, EY; Park, SY; Baek, SH; Kim, Y; Lee, DW; Seo, JW",
+      "journal": "CURRENT APPLIED PHYSICS",
+      "volume": "61",
+      "pages": "71",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 183
+      },
+      "globalIndex": 248,
+      "indexByPi": {
+        "Baek": 183
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "CURRENT APPLIED PHYSICS",
+      "details": "61 · 71"
+    },
+    {
+      "id": 247,
+      "year": 2024,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Atomic Layer Deposition of Epitaxial Ferroelectric Hf0.5Zr0.5O2 Thin Films",
+      "authors": "Cho, JW; Song, MS; Choi, IH; Go, KJ; Han, J; Lee, TY; An, C; Choi, HJ; Sohn, C; Park, MH; Baek, SH; Lee, JS; Choi, SY; Chae, SC",
+      "journal": "ADVANCED FUNCTIONAL MATERIALS",
+      "volume": "34",
+      "pages": "10.1002/adfm.202314396",
+      "doi": "10.1002/adfm.202314396",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 182
+      },
+      "globalIndex": 247,
+      "indexByPi": {
+        "Baek": 182
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "ADVANCED FUNCTIONAL MATERIALS",
+      "details": "34 · 10.1002/adfm.202314396 · 10.1002/adfm.202314396"
+    },
+    {
+      "id": 246,
+      "year": 2024,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Evolution of Microcracks in Epitaxial CeO2 Thin Films on YSZ-Buffered Si",
+      "authors": "Jung, SY; Choi, HJ; Lee, JY; Kim, MS; Ning, RG; Han, DH; Kim, SK; Won, SO; Lee, JH; Jang, JS; Jang, HW; Baek, SH",
+      "journal": "ELECTRONIC MATERIALS LETTERS",
+      "volume": "20",
+      "pages": "484",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 181
+      },
+      "globalIndex": 246,
+      "indexByPi": {
+        "Baek": 181
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "ELECTRONIC MATERIALS LETTERS",
+      "details": "20 · 484"
+    },
+    {
+      "id": 245,
+      "year": 2024,
+      "pi": [
+        "Kim"
+      ],
+      "title": "Defect Engineering of Ferroelectric Hysteresis in Lead-Free Bi1/2(Na,K)1/2TiO3 Thin Films",
+      "authors": "Muhammad Sheeraz, Viet-Dung Tran, Yong Jin Jo, Gyehyeon Kim, Shinuk Cho, Changhee Sohn, Ill Won Kim, Young-Han Shin, Chang Won Ahn, and Tae Heon Kim (Corresponding author)",
+      "journal": "ACS Appl. Electron. Mater.",
+      "volume": "6",
+      "pages": "8328",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Kim": 53
+      },
+      "globalIndex": 245,
+      "indexByPi": {
+        "Kim": 75
+      },
+      "piAuthors": [
+        "Kim"
+      ],
+      "venue": "ACS Appl. Electron. Mater.",
+      "details": "6 · 8328"
+    },
+    {
+      "id": 244,
+      "year": 2024,
+      "pi": [
+        "Kim"
+      ],
+      "title": "Flexoelectric polarizing and control of a ferromagnetic metal",
+      "authors": "Wei Peng, Se Young Park, Chang Jae Roh, Junsik Mun, Hwiin Ju, Jinkwon Kim, Eun Kyo Ko, Zhengguo Liang, Sungsoo Hahn, Jinfeng Zhang, Ana M. Sanchez, David Walker, Steven Hindmarsh, Liang Si, Yong Jin Jo, Yongjoo Jo, Tae Heon Kim (co-author), Changyoung Kim, Lingfei Wang, Miyoung Kim, Jong Seok Lee, Tae Won Noh, and Daesu Lee",
+      "journal": "Nat. Phys.",
+      "volume": "20",
+      "pages": "450",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Kim": 52
+      },
+      "globalIndex": 244,
+      "indexByPi": {
+        "Kim": 74
+      },
+      "piAuthors": [
+        "Kim"
+      ],
+      "venue": "Nat. Phys.",
+      "details": "20 · 450"
+    },
+    {
+      "id": 243,
+      "year": 2023,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Understanding secondary phase inclusion and composition variations in the microstructure design of n-type Bi2Te3 alloys via selective dissolution of KCl",
+      "authors": "Park, GM; Lee, S; Kang, JY; Baek, SH; Kim, H; Kim, JS; Kim, SK",
+      "journal": "JOURNAL OF ADVANCED CERAMICS",
+      "volume": "12",
+      "pages": "2360",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 180
+      },
+      "globalIndex": 243,
+      "indexByPi": {
+        "Baek": 180
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "JOURNAL OF ADVANCED CERAMICS",
+      "details": "12 · 2360"
+    },
+    {
+      "id": 242,
+      "year": 2023,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Dual-frequency piezoelectric micromachined ultrasound transducer based on polarization switching in ferroelectric thin films",
+      "authors": "Park, JS; Jung, SY; Kim, DH; Park, JH; Jang, HW; Kim, TG; Baek, SH; Lee, BC",
+      "journal": "MICROSYSTEMS & NANOENGINEERING",
+      "volume": "9",
+      "pages": "122",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 179
+      },
+      "globalIndex": 242,
+      "indexByPi": {
+        "Baek": 179
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "MICROSYSTEMS & NANOENGINEERING",
+      "details": "9 · 122"
+    },
+    {
+      "id": 241,
+      "year": 2023,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Voltage control of magnetism in Fe3-xGeTe2/In2Se3 van der Waals ferromagnetic/ferroelectric heterostructures",
+      "authors": "Eom, J; Lee, IH; Kee, JY; Cho, MHY; Seo, J; Suh, H; Choi, HJ; Sim, Y; Chen, SZ; Chang, HJ; Baek, SH; Petrovic, C; Ryu, H; Jang, C; Kim, YD; Yang, CH; Seong, MJ; Lee, JH; Park, SY; Choi, JW",
+      "journal": "NATURE COMMUNICATIONS",
+      "volume": "14",
+      "pages": "5605",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 178
+      },
+      "globalIndex": 241,
+      "indexByPi": {
+        "Baek": 178
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "NATURE COMMUNICATIONS",
+      "details": "14 · 5605"
+    },
+    {
+      "id": 240,
+      "year": 2023,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Epitaxial PZT Film-Based Ferroelectric Field-Effect Transistors for Artificial Synapse",
+      "authors": "Jo, Y; Lee, JY; Park, E; Kim, HS; Choi, HJ; Mun, S; Kim, Y; Hur, S; Yoon, JH; Jang, JS; Kang, CY; Baek, SH; Baik, JM; Kwak, JY; Song, HC",
+      "journal": "ACS APPLIED ELECTRONIC MATERIALS",
+      "volume": "5",
+      "pages": "4549",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 177
+      },
+      "globalIndex": 240,
+      "indexByPi": {
+        "Baek": 177
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "ACS APPLIED ELECTRONIC MATERIALS",
+      "details": "5 · 4549"
+    },
+    {
+      "id": 239,
+      "year": 2023,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Suppression of crosstalk in row-column actuator array using regulation of ferroelectric polarization",
+      "authors": "Park, JS; Jung, SY; Kim, DH; Park, JH; Jang, HW; Kim, TG; Baek, SH; Lee, BC",
+      "journal": "APPLIED MATERIALS TODAY",
+      "volume": "33",
+      "pages": "101882",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 176
+      },
+      "globalIndex": 239,
+      "indexByPi": {
+        "Baek": 176
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "APPLIED MATERIALS TODAY",
+      "details": "33 · 101882"
+    },
+    {
+      "id": 238,
+      "year": 2023,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Nucleation and Layer Closure Behavior of Iridium Films Grown Using Atomic Layer Deposition",
+      "authors": "Chung, HK; Kim, H; Jeon, J; Kim, SC; Won, SO; Harada, R; Tsugawa, T; Chung, YJ; Baek, SH; Park, TJ; Kim, SK",
+      "journal": "JOURNAL OF PHYSICAL CHEMISTRY LETTERS",
+      "volume": "14",
+      "pages": "6486",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 175
+      },
+      "globalIndex": 238,
+      "indexByPi": {
+        "Baek": 175
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "JOURNAL OF PHYSICAL CHEMISTRY LETTERS",
+      "details": "14 · 6486"
+    },
+    {
+      "id": 237,
+      "year": 2023,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Atomically mixed catalysts on a 3D thin-shell TiO2 for dual-modal chemical detection and neutralization",
+      "authors": "Shin, J; Lee, G; Choi, M; Jang, H; Lim, Y; Kim, GS; Nam, SH; Baek, SH; Song, HC; Kim, J; Kang, CY; Lee, JO; Jeon, S; Cho, D; Jang, JS",
+      "journal": "JOURNAL OF MATERIALS CHEMISTRY A",
+      "volume": "11",
+      "pages": "18195",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 174
+      },
+      "globalIndex": 237,
+      "indexByPi": {
+        "Baek": 174
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "JOURNAL OF MATERIALS CHEMISTRY A",
+      "details": "11 · 18195"
+    },
+    {
+      "id": 236,
+      "year": 2023,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Memory window enhancement in n-type ferroelectric field-effect transistors by engineering ozone exposure in atomic layer deposition of HfZrOx films",
+      "authors": "Jeon, J; Kuk, SH; Cho, AJ; Baek, SH; Kim, SH; Kim, SK",
+      "journal": "APPLIED PHYSICS LETTERS",
+      "volume": "122",
+      "pages": "232906",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 173
+      },
+      "globalIndex": 236,
+      "indexByPi": {
+        "Baek": 173
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "APPLIED PHYSICS LETTERS",
+      "details": "122 · 232906"
+    },
+    {
+      "id": 235,
+      "year": 2023,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Breathable MOFs Layer on Atomically Grown 2D SnS2 for Stable and Selective Surface Activation",
+      "authors": "Kim, GS; Lim, Y; Shin, J; Yim, J; Hur, S; Song, HC; Baek, SH; Kim, SK; Kim, J; Kang, CY; Jang, JS",
+      "journal": "ADVANCED SCIENCE",
+      "volume": "10",
+      "pages": "10.1002/advs.202301002",
+      "doi": "10.1002/advs.202301002",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 172
+      },
+      "globalIndex": 235,
+      "indexByPi": {
+        "Baek": 172
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "ADVANCED SCIENCE",
+      "details": "10 · 10.1002/advs.202301002 · 10.1002/advs.202301002"
+    },
+    {
+      "id": 234,
+      "year": 2023,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Layer-Controlled Perovskite 2D Nanosheet Interlayer for the Energy Storage Performance of Nanocomposites",
+      "authors": "Ryu, A; Yim, H; Yoo, S; Park, J; Lee, DG; Lee, JY; Song, HC; Baek, SH; Nahm, S; Choi, JW",
+      "journal": "SMALL",
+      "volume": "19",
+      "pages": "10.1002/smll.202300526",
+      "doi": "10.1002/smll.202300526",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 171
+      },
+      "globalIndex": 234,
+      "indexByPi": {
+        "Baek": 171
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "SMALL",
+      "details": "19 · 10.1002/smll.202300526 · 10.1002/smll.202300526"
+    },
+    {
+      "id": 233,
+      "year": 2023,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Oxygen Scavenging in HfZrOx-Based n/p-FeFETs for Switching Voltage Scaling and Endurance/Retention Improvement",
+      "authors": "Kim, BH; Kuk, SH; Kim, SK; Kim, JP; Suh, YJ; Jeong, J; Geum, DM; Baek, SH; Kim, SH",
+      "journal": "ADVANCED ELECTRONIC MATERIALS",
+      "volume": "9",
+      "pages": "10.1002/aelm.202201257",
+      "doi": "10.1002/aelm.202201257",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 170
+      },
+      "globalIndex": 233,
+      "indexByPi": {
+        "Baek": 170
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "ADVANCED ELECTRONIC MATERIALS",
+      "details": "9 · 10.1002/aelm.202201257 · 10.1002/aelm.202201257"
+    },
+    {
+      "id": 232,
+      "year": 2023,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Grain boundary engineering strategy for simultaneously reducing the electron concentration and lattice thermal conductivity in n-type Bi2Te2.7Se0.3-based thermoelectric materials",
+      "authors": "Lee, SHY; Jung, SJ; Park, GM; Hong, JPY; Lee, AS; Baek, SH; Kim, H; Park, TJ; Kim, JS; Kim, SK",
+      "journal": "JOURNAL OF THE EUROPEAN CERAMIC SOCIETY",
+      "volume": "43",
+      "pages": "3376",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 169
+      },
+      "globalIndex": 232,
+      "indexByPi": {
+        "Baek": 169
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "JOURNAL OF THE EUROPEAN CERAMIC SOCIETY",
+      "details": "43 · 3376"
+    },
+    {
+      "id": 231,
+      "year": 2023,
+      "pi": [
+        "Baek",
+        "Kim"
+      ],
+      "title": "Ultrahigh dielectric permittivity in oxide ceramics by hydrogenation",
+      "authors": "Duong, NX; Jang, JS; Jung, MH; Bae, JS; Ahn, CW; Jin, JS; Ihm, K; Kim, G; Lim, SY; Lee, J; Dung, DD; Lee, S; Kim, YM; Lee, S; Yang, SM; Sohn, C; Kim, IW; Jeong, HY; Baek, SH; Kim, TH",
+      "journal": "SCIENCE ADVANCES",
+      "volume": "9",
+      "pages": "eadd8328",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 168,
+        "Kim": 49
+      },
+      "globalIndex": 231,
+      "indexByPi": {
+        "Baek": 168,
+        "Kim": 71
+      },
+      "piAuthors": [
+        "Baek",
+        "Kim"
+      ],
+      "venue": "SCIENCE ADVANCES",
+      "details": "9 · eadd8328"
+    },
+    {
+      "id": 230,
+      "year": 2023,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Effect of Scandium Insertion Into the Gate-Stack of Ferroelectric Field-Effect Transistors",
+      "authors": "Kim, BH; Kuk, SH; Kim, SK; Kim, JP; Suh, YJ; Jeong, J; Geum, DM; Baek, SH; Kim, SH",
+      "journal": "IEEE TRANSACTIONS ON ELECTRON DEVICES",
+      "volume": "70",
+      "pages": "1996",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 167
+      },
+      "globalIndex": 230,
+      "indexByPi": {
+        "Baek": 167
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "IEEE TRANSACTIONS ON ELECTRON DEVICES",
+      "details": "70 · 1996"
+    },
+    {
+      "id": 229,
+      "year": 2023,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Selective Dissolution-Derived Nanoporous Design of Impurity-Free Bi2Te3 Alloys with High Thermoelectric Performance",
+      "authors": "Lee, S; Jung, SJ; Park, GM; Na, MY; Kim, KC; Hong, J; Lee, AS; Baek, SH; Kim, H; Park, TJ; Kim, JS; Kim, SK",
+      "journal": "SMALL",
+      "volume": "19",
+      "pages": "10.1002/smll.202205202",
+      "doi": "10.1002/smll.202205202",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 166
+      },
+      "globalIndex": 229,
+      "indexByPi": {
+        "Baek": 166
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "SMALL",
+      "details": "19 · 10.1002/smll.202205202 · 10.1002/smll.202205202"
+    },
+    {
+      "id": 228,
+      "year": 2023,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Selective Area Epitaxy of Complex Oxide Heterostructures on Si by Oxide Hard Mask Lift-Off (Nov, 10.1007/s13391-022-00386-0, 2022)",
+      "authors": "Ning, R; Jung, SY; Choi, H; Lee, BH; Kim, MS; Choi, HJ; Lee, JY; Park, JS; Jung, SJ; Jang, HW; Won, SO; Chang, HJ; Jang, JS; Lee, KH; Lee, BC; Baek, SH",
+      "journal": "ELECTRONIC MATERIALS LETTERS",
+      "volume": "19",
+      "pages": "200",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 165
+      },
+      "globalIndex": 228,
+      "indexByPi": {
+        "Baek": 165
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "ELECTRONIC MATERIALS LETTERS",
+      "details": "19 · 200"
+    },
+    {
+      "id": 227,
+      "year": 2023,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Study of the relationship between process parameters, volatility of Te, and physical properties in n-type Bi2Te3-based alloys for the reproducible fabrication of high-performance thermoelectric materials",
+      "authors": "Jung, SJ; Lim, SS; Lee, BH; Won, SO; Park, HH; Kim, SK; Kim, JS; Baek, SH",
+      "journal": "JOURNAL OF ALLOYS AND COMPOUNDS",
+      "volume": "937",
+      "pages": "168476",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 164
+      },
+      "globalIndex": 227,
+      "indexByPi": {
+        "Baek": 164
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "JOURNAL OF ALLOYS AND COMPOUNDS",
+      "details": "937 · 168476"
+    },
+    {
+      "id": 226,
+      "year": 2023,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Modification of electrical properties of amorphous vanadium oxide (a-VOx) thin film thermistor for microbolometer",
+      "authors": "Wang, DS; Bae, J; Choi, HJ; Baek, SH; Woo, S; Park, D; Choi, WJ",
+      "journal": "JOURNAL OF ALLOYS AND COMPOUNDS",
+      "volume": "937",
+      "pages": "168295",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 163
+      },
+      "globalIndex": 226,
+      "indexByPi": {
+        "Baek": 163
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "JOURNAL OF ALLOYS AND COMPOUNDS",
+      "details": "937 · 168295"
+    },
+    {
+      "id": 225,
+      "year": 2023,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Selective Area Epitaxy of Complex Oxide Heterostructures on Si by Oxide Hard Mask Lift-Off",
+      "authors": "Ning, RG; Jung, SY; Choi, H; Lee, BH; Kim, MS; Choi, HJ; Lee, JY; Park, JS; Jung, SJ; Jang, HW; Won, SO; Chang, HJ; Jang, JS; Lee, KH; Lee, BC; Baek, SH",
+      "journal": "ELECTRONIC MATERIALS LETTERS",
+      "volume": "19",
+      "pages": "192",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 162
+      },
+      "globalIndex": 225,
+      "indexByPi": {
+        "Baek": 162
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "ELECTRONIC MATERIALS LETTERS",
+      "details": "19 · 192"
+    },
+    {
+      "id": 224,
+      "year": 2023,
+      "pi": [
+        "Kim"
+      ],
+      "title": "Freestanding Oxide Membranes for Epitaxial Ferroelectric Heterojunctions",
+      "authors": "Muhammad Sheeraz, Min-Hyoung Jung, Yoon Ki Kim, Nyun Jong Lee, Seyeop Jeong, Jin San Choi, Yong Jin Jo, Shinuk Cho, Ill Won Kim, Young-Min Kim, Sanghoon Kim, Chang Won Ahn, Sang Mo Yang, Hu Young Jeong, and Tae Heon Kim (Corresponding author)",
+      "journal": "ACS Nano",
+      "volume": "17",
+      "pages": "13510",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Kim": 51
+      },
+      "globalIndex": 224,
+      "indexByPi": {
+        "Kim": 73
+      },
+      "piAuthors": [
+        "Kim"
+      ],
+      "venue": "ACS Nano",
+      "details": "17 · 13510"
+    },
+    {
+      "id": 223,
+      "year": 2023,
+      "pi": [
+        "Kim"
+      ],
+      "title": "Polar Perturbations in Functional Oxide Heterostructures",
+      "authors": "Yoon Seok Oh, Lingfei Wang, Hyungwoo Lee, Woo Seok Choi, and Tae Heon Kim (Corresponding author)",
+      "journal": "Adv. Funct. Mater.",
+      "volume": "33",
+      "pages": "2302261",
+      "doi": "",
+      "notes": [
+        "Review paper"
+      ],
+      "featured": false,
+      "sourceIds": {
+        "Kim": 50
+      },
+      "globalIndex": 223,
+      "indexByPi": {
+        "Kim": 72
+      },
+      "piAuthors": [
+        "Kim"
+      ],
+      "venue": "Adv. Funct. Mater.",
+      "details": "33 · 2302261"
+    },
+    {
+      "id": 222,
+      "year": 2023,
+      "pi": [
+        "Kim"
+      ],
+      "title": "Hetero-anionic lead-free double perovskite halides for band gap engineering",
+      "authors": "Chang Won Ahn, Jae Hun Jo, Jin San Choi, Young Hun Hwang, Ill Won Kim, and Tae Heon Kim (Corresponding author)",
+      "journal": "Adv. Eng. Mater.",
+      "volume": "25",
+      "pages": "2201119",
+      "doi": "",
+      "notes": [
+        "This work was selected as an Inside Front Cover."
+      ],
+      "featured": false,
+      "sourceIds": {
+        "Kim": 48
+      },
+      "globalIndex": 222,
+      "indexByPi": {
+        "Kim": 70
+      },
+      "piAuthors": [
+        "Kim"
+      ],
+      "venue": "Adv. Eng. Mater.",
+      "details": "25 · 2201119"
+    },
+    {
+      "id": 221,
+      "year": 2022,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Epitaxial Growth of 棺-Ga2O3 Thin Films on Si with YSZ Buffer Layer",
+      "authors": "Choi, HJ; Lee, JY; Jung, SY; Ning, RG; Kim, MS; Jung, SJ; Won, SO; Baek, SH; Jang, JS",
+      "journal": "ACS OMEGA",
+      "volume": "7",
+      "pages": "43603",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 161
+      },
+      "globalIndex": 221,
+      "indexByPi": {
+        "Baek": 161
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "ACS OMEGA",
+      "details": "7 · 43603"
+    },
+    {
+      "id": 220,
+      "year": 2022,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Impact of stirring time and the corresponding growth mechanism in the solvothermal synt:iesis of WO3 nanostructures",
+      "authors": "Jin, C; Lim, JC; Kim, MY; Choi, MS; Kim, SI; Baek, SH; Kim, SJ; Lee, SY; Kim, HS; Lee, KH",
+      "journal": "JOURNAL OF ASIAN CERAMIC SOCIETIES",
+      "volume": "10",
+      "pages": "779",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 160
+      },
+      "globalIndex": 220,
+      "indexByPi": {
+        "Baek": 160
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "JOURNAL OF ASIAN CERAMIC SOCIETIES",
+      "details": "10 · 779"
+    },
+    {
+      "id": 219,
+      "year": 2022,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Oxygen scavenging of HfZrO2-based capacitors for improving ferroelectric properties",
+      "authors": "Kim, BH; Kuk, SH; Kim, SK; Kim, JP; Geum, DM; Baek, SH; Kim, SH",
+      "journal": "NANOSCALE ADVANCES",
+      "volume": "4",
+      "pages": "4114",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 159
+      },
+      "globalIndex": 219,
+      "indexByPi": {
+        "Baek": 159
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "NANOSCALE ADVANCES",
+      "details": "4 · 4114"
+    },
+    {
+      "id": 218,
+      "year": 2022,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Thermal stress-assisted annealing to improve the crystalline quality of an epitaxial YSZ buffer layer on Si",
+      "authors": "Choi, HJ; Jang, J; Jung, SY; Ning, R; Kim, MS; Jung, SJ; Lee, JY; Park, JS; Lee, BC; Jang, JS; Kim, SK; Lee, KH; Lee, JH; Won, SO; Li, YL; Hu, S; Choi, SY; Baek, SH",
+      "journal": "JOURNAL OF MATERIALS CHEMISTRY C",
+      "volume": "10",
+      "pages": "10027",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 158
+      },
+      "globalIndex": 218,
+      "indexByPi": {
+        "Baek": 158
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "JOURNAL OF MATERIALS CHEMISTRY C",
+      "details": "10 · 10027"
+    },
+    {
+      "id": 217,
+      "year": 2022,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Oxidation of thermoelectric Bi2Te3-based alloys by atomic layer deposition of Ru metal",
+      "authors": "Lee, S; Lee, M; Park, GM; Baek, SH; Kim, H; Kim, JS; Park, TJ; Kim, SK",
+      "journal": "MATERIALS LETTERS",
+      "volume": "320",
+      "pages": "132321",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 157
+      },
+      "globalIndex": 217,
+      "indexByPi": {
+        "Baek": 157
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "MATERIALS LETTERS",
+      "details": "320 · 132321"
+    },
+    {
+      "id": 216,
+      "year": 2022,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Stepwise growth of crystalline MoS2 in atomic layer deposition",
+      "authors": "Cho, AJ; Ryu, SH; Yim, JG; Baek, IH; Pyeon, JJ; Won, SO; Baek, SH; Kang, CY; Kim, SK",
+      "journal": "JOURNAL OF MATERIALS CHEMISTRY C",
+      "volume": "10",
+      "pages": "7031",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 156
+      },
+      "globalIndex": 216,
+      "indexByPi": {
+        "Baek": 156
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "JOURNAL OF MATERIALS CHEMISTRY C",
+      "details": "10 · 7031"
+    },
+    {
+      "id": 215,
+      "year": 2022,
+      "pi": [
+        "Baek"
+      ],
+      "title": "An Investigation of HZO-Based n/p-FeFET Operation Mechanism and Improved Device Performance by the Electron Detrapping Mode",
+      "authors": "Kuk, SH; Han, SM; Kim, BH; Baek, SH; Han, JH; Kim, SH",
+      "journal": "IEEE TRANSACTIONS ON ELECTRON DEVICES",
+      "volume": "69",
+      "pages": "2080",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 155
+      },
+      "globalIndex": 215,
+      "indexByPi": {
+        "Baek": 155
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "IEEE TRANSACTIONS ON ELECTRON DEVICES",
+      "details": "69 · 2080"
+    },
+    {
+      "id": 214,
+      "year": 2022,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Effects of oxygen sources on properties of atomic-layer-deposited ferroelectric hafnium zirconium oxide thin films",
+      "authors": "Cho, AJ; Jeon, J; Chung, HK; Baek, IH; Yang, K; Park, MH; Baek, SH; Kim, SK",
+      "journal": "CERAMICS INTERNATIONAL",
+      "volume": "48",
+      "pages": "3280",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 154
+      },
+      "globalIndex": 214,
+      "indexByPi": {
+        "Baek": 154
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "CERAMICS INTERNATIONAL",
+      "details": "48 · 3280"
+    },
+    {
+      "id": 213,
+      "year": 2022,
+      "pi": [
+        "Kim"
+      ],
+      "title": "Disentangled structural and vibrational characteristics of methylammonium halide perovskite MAPbBr3-xClx with x = 0 ∼ 3 studied by X-Ray diffraction and Raman scattering",
+      "authors": "Furqanul Hassan Naqvi, Jae-Hyeon Ko, Tae Heon Kim (co-author), Chang Won Ahn, and Younghun Hwang",
+      "journal": "Curr. Appl. Phys.",
+      "volume": "44",
+      "pages": "150",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Kim": 47
+      },
+      "globalIndex": 213,
+      "indexByPi": {
+        "Kim": 69
+      },
+      "piAuthors": [
+        "Kim"
+      ],
+      "venue": "Curr. Appl. Phys.",
+      "details": "44 · 150"
+    },
+    {
+      "id": 212,
+      "year": 2022,
+      "pi": [
+        "Kim"
+      ],
+      "title": "Reversibly controlled ternary polar states and ferroelectric bias promoted by boosting square-tensile-strain",
+      "authors": "Jun Han Lee, Nguyen Xuan Duong, Min-Hyoung Jung, Hyun-Jae Lee, Ahyoung Kim, Youngki Yeo, Junhyung Kim, Gye-Hyeon Kim, Byeong-Gwan Cho, Jaegyu Kim, Furqan Ul Hassan Naqvi, Jong-Seong Bae, Jeehoon Kim, Chang Won Ahn, Young-Min Kim, Tae Kwon Song, Jae-Hyeon Ko, Tae-Yeong Koo, Changhee Sohn, Kibog Park, Chan-Ho Yang, Sang Mo Yang, Jun Hee Lee, Hu Young Jeong, Tae Heon Kim (Co-corresponding author), and Yoon Seok Oh",
+      "journal": "Adv. Mater.",
+      "volume": "34",
+      "pages": "2205825",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Kim": 46
+      },
+      "globalIndex": 212,
+      "indexByPi": {
+        "Kim": 68
+      },
+      "piAuthors": [
+        "Kim"
+      ],
+      "venue": "Adv. Mater.",
+      "details": "34 · 2205825"
+    },
+    {
+      "id": 211,
+      "year": 2022,
+      "pi": [
+        "Kim"
+      ],
+      "title": "In situ Electric-Field-Dependent X-Ray Diffraction Experiments for Ferroelectric Ceramics",
+      "authors": "Jin San Choi, Tae Heon Kim (co-author), and Chang Won Ahn",
+      "journal": "J. Korean Inst. Electr. Electron. Mater. Eng.",
+      "volume": "35",
+      "pages": "431",
+      "doi": "",
+      "notes": [
+        "Tutorial"
+      ],
+      "featured": false,
+      "sourceIds": {
+        "Kim": 45
+      },
+      "globalIndex": 211,
+      "indexByPi": {
+        "Kim": 67
+      },
+      "piAuthors": [
+        "Kim"
+      ],
+      "venue": "J. Korean Inst. Electr. Electron. Mater. Eng.",
+      "details": "35 · 431"
+    },
+    {
+      "id": 210,
+      "year": 2022,
+      "pi": [
+        "Kim"
+      ],
+      "title": "Controlling Spin-Orbit Coupling to Tailor Type-II Dirac Bands",
+      "authors": "Nguyen Huu Lam, Phuong Lien Nguyen, Byoung Ki Choi, Trinh Thi Ly, Ganbat Duvjir, Tae Gyu Rhee, Yong Jin Jo, Tae Heon Kim (co-author), Chris Jozwiak, Aaron Bostwick, Eli Rotenberg, Younghun Hwang, Young Jun Chang, Jaekwang Lee, Jungdae Kim",
+      "journal": "ACS Nano",
+      "volume": "16",
+      "pages": "11227",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Kim": 44
+      },
+      "globalIndex": 210,
+      "indexByPi": {
+        "Kim": 66
+      },
+      "piAuthors": [
+        "Kim"
+      ],
+      "venue": "ACS Nano",
+      "details": "16 · 11227"
+    },
+    {
+      "id": 209,
+      "year": 2022,
+      "pi": [
+        "Kim"
+      ],
+      "title": "A-site cation effect on optical phonon modes and thermal stability in lead-based perovskite bromide single crystals using Raman spectroscopy",
+      "authors": "Furqanul Hassan Naqvi, Jae-Hyeon Ko, Tae Heon Kim (co-author), Chang Won Ahn, Younghun Hwang, Mahshab Sheraz and Seungdo Kim",
+      "journal": "J. Korean Phys. Soc.",
+      "volume": "81",
+      "pages": "230",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Kim": 43
+      },
+      "globalIndex": 209,
+      "indexByPi": {
+        "Kim": 65
+      },
+      "piAuthors": [
+        "Kim"
+      ],
+      "venue": "J. Korean Phys. Soc.",
+      "details": "81 · 230"
+    },
+    {
+      "id": 208,
+      "year": 2022,
+      "pi": [
+        "Kim"
+      ],
+      "title": "Acoustic Anomalies and the Critical Slowing-Down Behavior of MAPbCl3 Single Crystals Studied by Brillouin Light Scattering",
+      "authors": "Jeong Woo Lee, Furqanul Hassan Naqvi, Jae-Hyeon Ko, Tae Heon Kim (co-author), and Chang Won Ahn",
+      "journal": "Materials",
+      "volume": "15",
+      "pages": "3692",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Kim": 42
+      },
+      "globalIndex": 208,
+      "indexByPi": {
+        "Kim": 64
+      },
+      "piAuthors": [
+        "Kim"
+      ],
+      "venue": "Materials",
+      "details": "15 · 3692"
+    },
+    {
+      "id": 207,
+      "year": 2022,
+      "pi": [
+        "Kim"
+      ],
+      "title": "Local atomic configuration control of superconductivity in the undoped pnictide parent compound BaFe2As2",
+      "authors": "Jong-Hoon Kang, Philip J. Ryan, Jong-Woo Kim, Jonathon Schad, Jacob P. Podkaminer, Neil Campbell, Joseph Suttle, Tae Heon Kim (co-author), Liang Luo, Di Cheng, Yesusa G. Collantes, Eric E. Hellstrom, Jigang Wang, Robert McDermott, Mark S. Rzchowski, and Chang-Beom Eom",
+      "journal": "ACS Appl. Electron. Mater.",
+      "volume": "4",
+      "pages": "1511",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Kim": 41
+      },
+      "globalIndex": 207,
+      "indexByPi": {
+        "Kim": 63
+      },
+      "piAuthors": [
+        "Kim"
+      ],
+      "venue": "ACS Appl. Electron. Mater.",
+      "details": "4 · 1511"
+    },
+    {
+      "id": 206,
+      "year": 2022,
+      "pi": [
+        "Kim"
+      ],
+      "title": "Influence of post-annealing on Mn-doped (K0.5Na0.5)NbO3 thin films",
+      "authors": "Muhammad Sheeraz, Bich Thuy Nguyen, Hyung-Su Han, Jong-Seong Bae, Shinuk Cho, Tae Heon Kim (co-author), Chang Won Ahn, and Ill Won Kim",
+      "journal": "J. Korean Phys. Soc.",
+      "volume": "80",
+      "pages": "628",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Kim": 40
+      },
+      "globalIndex": 206,
+      "indexByPi": {
+        "Kim": 62
+      },
+      "piAuthors": [
+        "Kim"
+      ],
+      "venue": "J. Korean Phys. Soc.",
+      "details": "80 · 628"
+    },
+    {
+      "id": 205,
+      "year": 2022,
+      "pi": [
+        "Kim"
+      ],
+      "title": "Tunable two-channel anomalies of magnetotransport in SrRuO3 ultrathin films via control of kinetics during the heterostructure deposition",
+      "authors": "Eun Kyo Ko, Han Gyeol Lee, Sangmin Lee, Junsik Mun, Jinkown Kim, Jihye Lee, Tae Heon Kim (co-author), Jin-Seok Chung, Suk Bum Chung, Miyoung Kim, Seo Hyoung Chang, and Tae Won Noh",
+      "journal": "Adv. Electron. Mater.",
+      "volume": "8",
+      "pages": "2100804",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Kim": 39
+      },
+      "globalIndex": 205,
+      "indexByPi": {
+        "Kim": 61
+      },
+      "piAuthors": [
+        "Kim"
+      ],
+      "venue": "Adv. Electron. Mater.",
+      "details": "8 · 2100804"
+    },
+    {
+      "id": 204,
+      "year": 2021,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Defect-Controlled, Scalable Layer-by-Layer Assembly of High-k Perovskite Oxide Nanosheets for All Two-Dimensional Nanoelectronics",
+      "authors": "Yim, H; Yoo, SY; Kim, YH; Chae, KH; Kim, YH; Kim, SK; Baek, SH; Lee, CH; Choi, JW",
+      "journal": "CHEMISTRY OF MATERIALS",
+      "volume": "33",
+      "pages": "8685",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 153
+      },
+      "globalIndex": 204,
+      "indexByPi": {
+        "Baek": 153
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "CHEMISTRY OF MATERIALS",
+      "details": "33 · 8685"
+    },
+    {
+      "id": 203,
+      "year": 2021,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Selective, sensitive, and stable NO2 gas sensor based on porous ZnO nanosheets",
+      "authors": "Choi, MS; Kim, MY; Mirzaei, A; Kim, HS; Kim, SI; Baek, SH; Chun, DW; Jin, CH; Lee, KH",
+      "journal": "APPLIED SURFACE SCIENCE",
+      "volume": "568",
+      "pages": "150910",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 152
+      },
+      "globalIndex": 203,
+      "indexByPi": {
+        "Baek": 152
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "APPLIED SURFACE SCIENCE",
+      "details": "568 · 150910"
+    },
+    {
+      "id": 202,
+      "year": 2021,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Synthesis, morphology, characterisation, and ethanol gas sensing of hierarchical flower-like Co-doped WO3 nanoplates by solvothermal route",
+      "authors": "Lim, JC; Jin, C; Choi, MS; Kim, MY; Kim, SI; Choi, SM; Baek, SH; Lee, KH; Kim, HS",
+      "journal": "CERAMICS INTERNATIONAL",
+      "volume": "47",
+      "pages": "20956",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 151
+      },
+      "globalIndex": 202,
+      "indexByPi": {
+        "Baek": 151
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "CERAMICS INTERNATIONAL",
+      "details": "47 · 20956"
+    },
+    {
+      "id": 201,
+      "year": 2021,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Hot rolling process for texture development and grain refinement of n-type Bi2Te3 alloys",
+      "authors": "Jung, SJ; Lee, BH; Won, SO; Baek, SH; Kim, JS; Kim, SK",
+      "journal": "MATERIALS LETTERS",
+      "volume": "301",
+      "pages": "130278",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 150
+      },
+      "globalIndex": 201,
+      "indexByPi": {
+        "Baek": 150
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "MATERIALS LETTERS",
+      "details": "301 · 130278"
+    },
+    {
+      "id": 200,
+      "year": 2021,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Simple and scalable synthesis of urchin-like ZnO nanoparticles via a microwave-assisted drying process",
+      "authors": "Choi, MS; Na, HG; Shim, GS; Cho, JH; Kim, MY; Kim, SI; Baek, SH; Jin, C; Lee, KH",
+      "journal": "CERAMICS INTERNATIONAL",
+      "volume": "47",
+      "pages": "14621",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 149
+      },
+      "globalIndex": 200,
+      "indexByPi": {
+        "Baek": 149
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "CERAMICS INTERNATIONAL",
+      "details": "47 · 14621"
+    },
+    {
+      "id": 199,
+      "year": 2021,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Porous organic filler for high efficiency of flexible thermoelectric generator",
+      "authors": "Jung, SJ; Shin, J; Lim, SS; Kwon, B; Baek, SH; Kim, SK; Park, HH; Kim, JS",
+      "journal": "NANO ENERGY",
+      "volume": "81",
+      "pages": "105604",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 148
+      },
+      "globalIndex": 199,
+      "indexByPi": {
+        "Baek": 148
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "NANO ENERGY",
+      "details": "81 · 105604"
+    },
+    {
+      "id": 198,
+      "year": 2021,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Wide-temperature (up to 100 째C) operation of thermostable vanadium oxide based microbolometers with Ti/MgF2 infrared absorbing layer for long wavelength infrared (LWIR) detection",
+      "authors": "Lee, HJ; Wang, D; Kim, TH; Jung, DH; Kil, TH; Lee, KS; Choi, HJ; Baek, SH; Yoon, E; Choi, WJ; Baik, JM",
+      "journal": "APPLIED SURFACE SCIENCE",
+      "volume": "547",
+      "pages": "149142",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 147
+      },
+      "globalIndex": 198,
+      "indexByPi": {
+        "Baek": 147
+      },
+      "piAuthors": [
+        "Baek",
+        "Kim"
+      ],
+      "venue": "APPLIED SURFACE SCIENCE",
+      "details": "547 · 149142"
+    },
+    {
+      "id": 197,
+      "year": 2021,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Comprehensive Understanding of the HZO-based n/pFeFET Operation and Device Performance Enhancement Strategy",
+      "authors": "Kuk, SH; Han, SM; Kim, BH; Baek, SH; Han, JH; Kim, SH",
+      "journal": "2021 IEEE INTERNATIONAL ELECTRON DEVICES MEETING (IEDM)",
+      "volume": "",
+      "pages": "10.1109/IEDM19574.2021.9720642",
+      "doi": "10.1109/IEDM19574.2021.9720642",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 146
+      },
+      "globalIndex": 197,
+      "indexByPi": {
+        "Baek": 146
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "2021 IEEE INTERNATIONAL ELECTRON DEVICES MEETING (IEDM)",
+      "details": "10.1109/IEDM19574.2021.9720642 · 10.1109/IEDM19574.2021.9720642"
+    },
+    {
+      "id": 196,
+      "year": 2021,
+      "pi": [
+        "Kim"
+      ],
+      "title": "Emerging hetero-anionic materials: oxychalcogenide perovskites",
+      "authors": "Chang Won Ahn, Jin San Choi, Muhammad Sheeraz, Hwan Min Kim, Ill Won Kim, and Tae Heon Kim (Corresponding author)",
+      "journal": "New Physics: Sae Mulli",
+      "volume": "71",
+      "pages": "991",
+      "doi": "",
+      "notes": [
+        "Review paper"
+      ],
+      "featured": false,
+      "sourceIds": {
+        "Kim": 38
+      },
+      "globalIndex": 196,
+      "indexByPi": {
+        "Kim": 60
+      },
+      "piAuthors": [
+        "Kim"
+      ],
+      "venue": "New Physics: Sae Mulli",
+      "details": "71 · 991"
+    },
+    {
+      "id": 195,
+      "year": 2021,
+      "pi": [
+        "Kim"
+      ],
+      "title": "Large‑area epitaxial CdTe(100) films grown on GaAs(100) substrates: MBE growth and substrate temperature effect",
+      "authors": "Younghun Hwang, Van Quang Ngugen, Jin San Choi, Sujung Park, Shinuk Cho, Tae Heon Kim (co-author), Yang Ha, and Chang Won Ahn",
+      "journal": "J. Korean Phys. Soc.",
+      "volume": "79",
+      "pages": "1057",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Kim": 37
+      },
+      "globalIndex": 195,
+      "indexByPi": {
+        "Kim": 59
+      },
+      "piAuthors": [
+        "Kim"
+      ],
+      "venue": "J. Korean Phys. Soc.",
+      "details": "79 · 1057"
+    },
+    {
+      "id": 194,
+      "year": 2021,
+      "pi": [
+        "Kim"
+      ],
+      "title": "Self-Selective Ferroelectric Memory Realized with Semimetalic Graphene Channel",
+      "authors": "Sungchul Jung, Jinyoung Park Junhyung Kim, Wonho Song, Jaehyeong Jo, Hyunjae Park, Myong Kong, Seokhyeong Kang, Muhammad Sheeraz, Ill Won Kim, Tae Heon Kim (co-author), and Kibog Park",
+      "journal": "npj 2D Mater. Appl.",
+      "volume": "5",
+      "pages": "90",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Kim": 36
+      },
+      "globalIndex": 194,
+      "indexByPi": {
+        "Kim": 58
+      },
+      "piAuthors": [
+        "Kim"
+      ],
+      "venue": "npj 2D Mater. Appl.",
+      "details": "5 · 90"
+    },
+    {
+      "id": 193,
+      "year": 2021,
+      "pi": [
+        "Kim"
+      ],
+      "title": "Template Engineering of Metal-to-Insulator Transitions in Epitaxial Bilayer Nickelate Thin Films",
+      "authors": "Jongmin Lee, Gi-Yeop Kim, Seyeop Jeong, Mihyun Yang, Jong-Woo Kim, Byeong-Gwan Cho, Yongseong Choi, Sangmo Kim, Jin San Choi, Tae Kwon Lee, Jiwoong Kim, Dong Ryeol Lee, Seo Hyoung Chang, Sungkyun Park, Jong Hoon Jung, Chung Wung Bark, Tae-Young Koo, Philip J. Ryan, Kyuwook Ihm, Sanghoon Kim, Si-Young Choi, Tae Heon Kim (Corresponding author), and Sanghan Lee",
+      "journal": "ACS Appl. Mater. Interfaces",
+      "volume": "13",
+      "pages": "54466",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Kim": 35
+      },
+      "globalIndex": 193,
+      "indexByPi": {
+        "Kim": 57
+      },
+      "piAuthors": [
+        "Kim"
+      ],
+      "venue": "ACS Appl. Mater. Interfaces",
+      "details": "13 · 54466"
+    },
+    {
+      "id": 192,
+      "year": 2021,
+      "pi": [
+        "Kim"
+      ],
+      "title": "Enhanced spin-orbit torque in Ni81Fe19/Pt bilayer with NdNiO3 Contact",
+      "authors": "Seyeop Jeong, Jongmin Lee, Soogil Lee, Jungmin Park, Donghyeon Lee, Jimin Jeong, Heechan Jang, Eunkang Park, Younghun Jo, Nyun Jong Lee, Kyoung-Whan Kim, Byong-Guk Park, Sanghan Lee, Tae Heon Kim (co-author), and Sanghoon Kim",
+      "journal": "Appl. Phys. Lett.",
+      "volume": "119",
+      "pages": "212402",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Kim": 34
+      },
+      "globalIndex": 192,
+      "indexByPi": {
+        "Kim": 56
+      },
+      "piAuthors": [
+        "Kim"
+      ],
+      "venue": "Appl. Phys. Lett.",
+      "details": "119 · 212402"
+    },
+    {
+      "id": 191,
+      "year": 2021,
+      "pi": [
+        "Kim"
+      ],
+      "title": "In-plane quasi-single-domain BaTiO3 via interfacial symmetry engineering",
+      "authors": "Jung-Woo Lee, Kitae Eom, Tula Paudel, Bo Wang, Haidong Lu, Huaixun Huyan, Shane Lindemann, Sangwoo Ryu, Hyungwoo Lee, Tae Heon Kim (co-author), Yakun Yuan, Jacob Zorn, Shiming Lei, Wenpei Gao, Thomas Tybell, Venkatraman Gopalan, Xiaoqing Pan, Alexei Gruverman, Long-Qing Chen, Evgeny Tsymbal, and Chang-Beom Eom",
+      "journal": "Nat. Commun.",
+      "volume": "12",
+      "pages": "6784",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Kim": 33
+      },
+      "globalIndex": 191,
+      "indexByPi": {
+        "Kim": 55
+      },
+      "piAuthors": [
+        "Kim"
+      ],
+      "venue": "Nat. Commun.",
+      "details": "12 · 6784"
+    },
+    {
+      "id": 190,
+      "year": 2021,
+      "pi": [
+        "Kim"
+      ],
+      "title": "Synthesis of Ni-based Fluoroperovskites by Solvent-free Mechanochemical Reaction",
+      "authors": "Jin San Choi, Muhammad Sheeraz, Fazli Akram, Hyoung-Su Han, Jae-Shin Lee, Chang Won Ahn, and Tae Heon Kim (Corresponding author)",
+      "journal": "J. Korean Phys. Soc.",
+      "volume": "79",
+      "pages": "1042",
+      "doi": "",
+      "notes": [
+        "This work was selected as Highlight."
+      ],
+      "featured": false,
+      "sourceIds": {
+        "Kim": 32
+      },
+      "globalIndex": 190,
+      "indexByPi": {
+        "Kim": 54
+      },
+      "piAuthors": [
+        "Kim"
+      ],
+      "venue": "J. Korean Phys. Soc.",
+      "details": "79 · 1042"
+    },
+    {
+      "id": 189,
+      "year": 2021,
+      "pi": [
+        "Kim"
+      ],
+      "title": "Halide Perovskite Single Crystals",
+      "authors": "Jin San Choi, Jae Hun Jo, Do Hyun Woo, Young-Hun Hwang, Ill Won Kim, Tae Heon Kim (Co-corresponding author), and Chang Won Ahn",
+      "journal": "J. Korean Inst. Electr. Electron. Mater. Eng.",
+      "volume": "34",
+      "pages": "283",
+      "doi": "",
+      "notes": [
+        "Review paper"
+      ],
+      "featured": false,
+      "sourceIds": {
+        "Kim": 31
+      },
+      "globalIndex": 189,
+      "indexByPi": {
+        "Kim": 53
+      },
+      "piAuthors": [
+        "Kim"
+      ],
+      "venue": "J. Korean Inst. Electr. Electron. Mater. Eng.",
+      "details": "34 · 283"
+    },
+    {
+      "id": 188,
+      "year": 2021,
+      "pi": [
+        "Kim"
+      ],
+      "title": "Thermally-stable high energy-storage performance over a wide temperature range in relaxor-ferroelectric Bi1/2Na1/2TiO3-based ceramics",
+      "authors": "Fazli Akram, Muhammad Sheeraz, Ali Hussain, Ill Won Kim, Tae Heon Kim (Co-corresponding author), and Chang Won Ahn",
+      "journal": "Ceram. Int.",
+      "volume": "47",
+      "pages": "23488",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Kim": 30
+      },
+      "globalIndex": 188,
+      "indexByPi": {
+        "Kim": 52
+      },
+      "piAuthors": [
+        "Kim"
+      ],
+      "venue": "Ceram. Int.",
+      "details": "47 · 23488"
+    },
+    {
+      "id": 187,
+      "year": 2021,
+      "pi": [
+        "Kim"
+      ],
+      "title": "Stabilization of 6H-Hexagonal SrMnO3 Polymorph by Al2O3 Insertion",
+      "authors": "Muhammad Sheeraz, Mamoon Ur Rashid, Asad Ali, Fazli Akram, Ho Jeong Lee, Jin San Choi, Jong-Seong Bae, Yong Soo Kim, Young-Han Shin, Chang Won Ahn, and Tae Heon Kim (Corresponding author)",
+      "journal": "J. Eur. Ceram. Soc.",
+      "volume": "41",
+      "pages": "5155",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Kim": 29
+      },
+      "globalIndex": 187,
+      "indexByPi": {
+        "Kim": 51
+      },
+      "piAuthors": [
+        "Kim"
+      ],
+      "venue": "J. Eur. Ceram. Soc.",
+      "details": "41 · 5155"
+    },
+    {
+      "id": 186,
+      "year": 2021,
+      "pi": [
+        "Kim"
+      ],
+      "title": "Solution processed high performance ferroelectric Hf0.5Zr0.5O2 thin film transistor on glass substrate",
+      "authors": "Md. Mehedi Hasan, Chang Won Ahn, Tae Heon Kim (co-author), and Jin Jang",
+      "journal": "Appl. Phys. Lett.",
+      "volume": "118",
+      "pages": "152901",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Kim": 28
+      },
+      "globalIndex": 186,
+      "indexByPi": {
+        "Kim": 50
+      },
+      "piAuthors": [
+        "Kim"
+      ],
+      "venue": "Appl. Phys. Lett.",
+      "details": "118 · 152901"
+    },
+    {
+      "id": 185,
+      "year": 2020,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Mapping thermoelectric properties of polycrystalline n-type Bi2Te3-xSex alloys by composition and doping level",
+      "authors": "Jung, SJ; Lee, BH; Won, SO; Kim, SK; Park, HH; Kim, JS; Baek, SH",
+      "journal": "JOURNAL OF ALLOYS AND COMPOUNDS",
+      "volume": "844",
+      "pages": "155828",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 145
+      },
+      "globalIndex": 185,
+      "indexByPi": {
+        "Baek": 145
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "JOURNAL OF ALLOYS AND COMPOUNDS",
+      "details": "844 · 155828"
+    },
+    {
+      "id": 184,
+      "year": 2020,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Selective growth and texturing of VO2(B) thin films for high-temperature microbolometers",
+      "authors": "Kil, TH; Choi, HJ; Lee, G; Lee, BH; Jung, SY; Ning, R; Park, C; Won, SO; Chang, HJ; Choi, WJ; Baek, SH",
+      "journal": "JOURNAL OF THE EUROPEAN CERAMIC SOCIETY",
+      "volume": "40",
+      "pages": "5582",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 144
+      },
+      "globalIndex": 184,
+      "indexByPi": {
+        "Baek": 144
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "JOURNAL OF THE EUROPEAN CERAMIC SOCIETY",
+      "details": "40 · 5582"
+    },
+    {
+      "id": 183,
+      "year": 2020,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Smart forensic kit: Real-time estimation of postmortem interval using a highly sensitive gas sensor for microbial forensics",
+      "authors": "Shin, J; Song, YG; Jung, SJ; Yoon, T; Kim, GS; Kim, JH; Park, HH; Ju, BK; Kim, SK; Baek, SH; Jung, HI; Kang, CY; Kim, JS",
+      "journal": "SENSORS AND ACTUATORS B-CHEMICAL",
+      "volume": "322",
+      "pages": "128612",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 143
+      },
+      "globalIndex": 183,
+      "indexByPi": {
+        "Baek": 143
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "SENSORS AND ACTUATORS B-CHEMICAL",
+      "details": "322 · 128612"
+    },
+    {
+      "id": 182,
+      "year": 2020,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Substrate Surface Modification for Enlarging Two-Dimensional SnS Grains at Low Temperatures",
+      "authors": "Baek, IH; Cho, AJ; Kim, S; Lee, GY; Han, JH; Chung, TM; Baek, SH; Kang, CY; Kim, JS; Hwang, CS; Kim, SK",
+      "journal": "CHEMISTRY OF MATERIALS",
+      "volume": "32",
+      "pages": "9026",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 142
+      },
+      "globalIndex": 182,
+      "indexByPi": {
+        "Baek": 142
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "CHEMISTRY OF MATERIALS",
+      "details": "32 · 9026"
+    },
+    {
+      "id": 181,
+      "year": 2020,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Domain engineering of epitaxial (001) Bi2Te3 thin films by miscut GaAs substrate",
+      "authors": "Kim, KC; Kim, SK; Kim, JS; Baek, SH",
+      "journal": "ACTA MATERIALIA",
+      "volume": "197",
+      "pages": "309",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 141
+      },
+      "globalIndex": 181,
+      "indexByPi": {
+        "Baek": 141
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "ACTA MATERIALIA",
+      "details": "197 · 309"
+    },
+    {
+      "id": 180,
+      "year": 2020,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Direct Growth of Ferroelectric Oxide Thin Films on Polymers through Laser-Induced Low-Temperature Liquid-Phase Crystallization",
+      "authors": "Kang, MG; Noh, MS; Pyeon, JJ; Jung, WS; Moon, HG; Baek, SH; Nahm, S; Yoon, SJ; Kang, CY",
+      "journal": "CHEMISTRY OF MATERIALS",
+      "volume": "32",
+      "pages": "6483",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 140
+      },
+      "globalIndex": 180,
+      "indexByPi": {
+        "Baek": 140
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "CHEMISTRY OF MATERIALS",
+      "details": "32 · 6483"
+    },
+    {
+      "id": 179,
+      "year": 2020,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Enhanced thermal stability of Bi2Te3-based alloys via interface engineering with atomic layer deposition",
+      "authors": "Lim, SS; Kim, KC; Jeon, H; Kim, JY; Kang, JY; Park, HH; Baek, SH; Kim, JS; Kim, SK",
+      "journal": "JOURNAL OF THE EUROPEAN CERAMIC SOCIETY",
+      "volume": "40",
+      "pages": "3592",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 139
+      },
+      "globalIndex": 179,
+      "indexByPi": {
+        "Baek": 139
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "JOURNAL OF THE EUROPEAN CERAMIC SOCIETY",
+      "details": "40 · 3592"
+    },
+    {
+      "id": 178,
+      "year": 2020,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Combined hot extrusion and spark plasma sintering method for producing highly textured thermoelectric Bi2Te3 alloys",
+      "authors": "Lim, SS; Jung, SJ; Kim, BK; Kim, DI; Lee, BH; Won, SO; Shin, J; Park, HH; Kim, SK; Kim, JS; Baek, SH",
+      "journal": "JOURNAL OF THE EUROPEAN CERAMIC SOCIETY",
+      "volume": "40",
+      "pages": "3042",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 138
+      },
+      "globalIndex": 178,
+      "indexByPi": {
+        "Baek": 138
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "JOURNAL OF THE EUROPEAN CERAMIC SOCIETY",
+      "details": "40 · 3042"
+    },
+    {
+      "id": 177,
+      "year": 2020,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Carrier Modulation in Bi2Te3-Based Alloys via Interfacial Doping with Atomic Layer Deposition",
+      "authors": "Lim, SS; Kim, KC; Lee, S; Park, HH; Baek, SH; Kim, JS; Kim, SK",
+      "journal": "COATINGS",
+      "volume": "10",
+      "pages": "572",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 137
+      },
+      "globalIndex": 177,
+      "indexByPi": {
+        "Baek": 137
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "COATINGS",
+      "details": "10 · 572"
+    },
+    {
+      "id": 176,
+      "year": 2020,
+      "pi": [
+        "Baek"
+      ],
+      "title": "3D architectures of single-crystalline complex oxides",
+      "authors": "Kim, SI; Choi, HJ; Lee, G; Roh, CJ; Jung, I; Jung, SY; Ning, RG; Won, SO; Chang, HJ; Lee, JS; Kim, SK; Kim, JS; Kang, CY; Choiag, JW; Baek, SH",
+      "journal": "MATERIALS HORIZONS",
+      "volume": "7",
+      "pages": "1552",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 136
+      },
+      "globalIndex": 176,
+      "indexByPi": {
+        "Baek": 136
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "MATERIALS HORIZONS",
+      "details": "7 · 1552"
+    },
+    {
+      "id": 175,
+      "year": 2020,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Directly integrated all-solid-state flexible lithium batteries on polymer substrate",
+      "authors": "Yim, H; Yu, SH; Baek, SH; Sung, YE; Choi, JW",
+      "journal": "JOURNAL OF POWER SOURCES",
+      "volume": "455",
+      "pages": "227978",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 135
+      },
+      "globalIndex": 175,
+      "indexByPi": {
+        "Baek": 135
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "JOURNAL OF POWER SOURCES",
+      "details": "455 · 227978"
+    },
+    {
+      "id": 174,
+      "year": 2020,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Atomic engineering of metastable BeO6 octahedra in a rocksalt framework",
+      "authors": "Lee, WC; Kim, S; Larsen, ES; Choi, JH; Baek, SH; Lee, M; Cho, DY; Lee, HK; Hwang, CS; Bielawski, CW; Kim, SK",
+      "journal": "APPLIED SURFACE SCIENCE",
+      "volume": "501",
+      "pages": "144280",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 134
+      },
+      "globalIndex": 174,
+      "indexByPi": {
+        "Baek": 134
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "APPLIED SURFACE SCIENCE",
+      "details": "501 · 144280"
+    },
+    {
+      "id": 173,
+      "year": 2020,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Wafer-Scale, Conformal, and Low-Temperature Synthesis of Layered Tin Disulfides for Emerging Nonplanar and Flexible Electronics",
+      "authors": "Pyeon, JJ; Baek, IH; Lee, WC; Lee, H; Won, SO; Lee, GY; Chung, TM; Han, JH; Baek, SH; Kim, JS; Choi, JW; Kang, CY; Kim, SK",
+      "journal": "ACS APPLIED MATERIALS & INTERFACES",
+      "volume": "12",
+      "pages": "2679",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 133
+      },
+      "globalIndex": 173,
+      "indexByPi": {
+        "Baek": 133
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "ACS APPLIED MATERIALS & INTERFACES",
+      "details": "12 · 2679"
+    },
+    {
+      "id": 172,
+      "year": 2020,
+      "pi": [
+        "Kim"
+      ],
+      "title": "Large-Scale Assembly of Peptide-based Hierarchical Nanostructures and their Antiferroelectric Properties",
+      "authors": "Yonghun Lee, Kyung Won Kim, Nguyen Xuan Duong, Hyeok Park, Jinhong Park, Chang Won Ahn, In Woo Park, Seok Cheon Jang, Dong Hoe Kim, Minbaek Lee, Woo-Jae Chung, Tae Heon Kim (Co-corresponding author), Hyungwoo Lee, and Kwang Heo",
+      "journal": "Small",
+      "volume": "16",
+      "pages": "2003986",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Kim": 27
+      },
+      "globalIndex": 172,
+      "indexByPi": {
+        "Kim": 49
+      },
+      "piAuthors": [
+        "Kim"
+      ],
+      "venue": "Small",
+      "details": "16 · 2003986"
+    },
+    {
+      "id": 171,
+      "year": 2020,
+      "pi": [
+        "Kim"
+      ],
+      "title": "Oxygen Vacancy Engineering for Highly Tunable Ferromagnetic Properties: A Case of SrRuO3 Ultrathin Film with a SrTiO3 Capping Layer",
+      "authors": "Eun Kyo Ko, Junsik Mun, Han Gyeol Lee, Jinkwon Kim, Jeongkeun Song, Seo Hyoung Chang, Tae Heon Kim (co-author), Suk Bum Chung, Miyoung Kim, Lingfei Wang, and Tae Won Noh",
+      "journal": "Adv. Funct. Mater.",
+      "volume": "30",
+      "pages": "2001486",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Kim": 26
+      },
+      "globalIndex": 171,
+      "indexByPi": {
+        "Kim": 48
+      },
+      "piAuthors": [
+        "Kim"
+      ],
+      "venue": "Adv. Funct. Mater.",
+      "details": "30 · 2001486"
+    },
+    {
+      "id": 170,
+      "year": 2020,
+      "pi": [
+        "Kim"
+      ],
+      "title": "Transverse piezoelectric properties of Mn-doped Bi0.5Na0.5TiO3 thin films",
+      "authors": "Bich Thuy Nguyen, Sung Sik Won, Bong Chan Park, Yong Jin Jo, Chang Won Ahn, Ill Won Kim, and Tae Heon Kim (Corresponding author)",
+      "journal": "Curr. Appl. Phys.",
+      "volume": "20",
+      "pages": "1447",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Kim": 25
+      },
+      "globalIndex": 170,
+      "indexByPi": {
+        "Kim": 47
+      },
+      "piAuthors": [
+        "Kim"
+      ],
+      "venue": "Curr. Appl. Phys.",
+      "details": "20 · 1447"
+    },
+    {
+      "id": 169,
+      "year": 2020,
+      "pi": [
+        "Kim"
+      ],
+      "title": "Highly ordered lead-free double perovskite halides by design",
+      "authors": "Chang Won Ahn, Jae Hun Jo, Jong Chan Kim, Hamid Ullah, Sangkyun Ryu, Younghun Hwang, Jin San Choi, Jongmin Lee, Sanghan Lee, Hyoungjeen Jeen, Young-Han Shin, Hu Young Jeong, Ill Won Kim, and Tae Heon Kim (Corresponding author)",
+      "journal": "J. Materiomics",
+      "volume": "6",
+      "pages": "651",
+      "doi": "",
+      "notes": [
+        "This work was selected as a Front Cover."
+      ],
+      "featured": false,
+      "sourceIds": {
+        "Kim": 24
+      },
+      "globalIndex": 169,
+      "indexByPi": {
+        "Kim": 46
+      },
+      "piAuthors": [
+        "Kim"
+      ],
+      "venue": "J. Materiomics",
+      "details": "6 · 651"
+    },
+    {
+      "id": 168,
+      "year": 2020,
+      "pi": [
+        "Kim"
+      ],
+      "title": "Characteristics of Perovskites ReNiO3 (Re = La and Nd) Prepared by Solid State Reaction in the Ambient of Oxygen",
+      "authors": "Sangmo Kim, Dang Hai Truyen, Tae Heon Kim (co-author), and Chung Wung Bark",
+      "journal": "J. Nanosci. Nanotechnol.",
+      "volume": "20",
+      "pages": "4239",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Kim": 23
+      },
+      "globalIndex": 168,
+      "indexByPi": {
+        "Kim": 45
+      },
+      "piAuthors": [
+        "Kim"
+      ],
+      "venue": "J. Nanosci. Nanotechnol.",
+      "details": "20 · 4239"
+    },
+    {
+      "id": 167,
+      "year": 2020,
+      "pi": [
+        "Kim"
+      ],
+      "title": "Constructing Polymorphic Nanodomains in BaTiO3 Films via Epitaxial Symmetry Engineering",
+      "authors": "Wei Peng, Jacob A. Zorn, Junsik Mun, Muhammad Sheeraz, Chang Jae Roh, Jun Pan, Bo Wang, Kun Guo, Chang Won Ahn, Yaping Zhang, Kui Yao, Jong Seok Lee, Jin-Seok Chung, Tae Heon Kim (co-author), Long-Qin Chen, Miyoung Kim, Lingfei Wang, and Tae Won Noh",
+      "journal": "Adv. Funct. Mater.",
+      "volume": "30",
+      "pages": "1910569",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Kim": 22
+      },
+      "globalIndex": 167,
+      "indexByPi": {
+        "Kim": 44
+      },
+      "piAuthors": [
+        "Kim"
+      ],
+      "venue": "Adv. Funct. Mater.",
+      "details": "30 · 1910569"
+    },
+    {
+      "id": 166,
+      "year": 2020,
+      "pi": [
+        "Kim"
+      ],
+      "title": "Large Piezoelectric Coefficient of high Quality Mn-doped (K0.5Na0.5)NbO3 Thick film by Using a Laser Doppler Vibrometer",
+      "authors": "Hae Jin Seog, Bong Chan Park, Aman Ullah, Shinuk Cho, Tae Heon Kim (Co-corresponding author), and Ill Won Kim",
+      "journal": "New Physics: Sae Mulli",
+      "volume": "70",
+      "pages": "220",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Kim": 21
+      },
+      "globalIndex": 166,
+      "indexByPi": {
+        "Kim": 43
+      },
+      "piAuthors": [
+        "Kim"
+      ],
+      "venue": "New Physics: Sae Mulli",
+      "details": "70 · 220"
+    },
+    {
+      "id": 165,
+      "year": 2020,
+      "pi": [
+        "Kim"
+      ],
+      "title": "Strain-driven disproportionation at a correlated oxide metal-insulator transition",
+      "authors": "T. H. Kim (First author), T. R. Paudel, R. J. Green, K. Song, H. -S. Lee, S. -Y. Choi, J. Irwin, B. Noesges, L. J. Brillson, M. S. Rzchowski, G. A. Sawatzky, E. Y. Tsymbal, and C. B. Eom",
+      "journal": "Phys. Rev. B",
+      "volume": "101",
+      "pages": "121105(R)",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Kim": 20
+      },
+      "globalIndex": 165,
+      "indexByPi": {
+        "Kim": 42
+      },
+      "piAuthors": [
+        "Kim"
+      ],
+      "venue": "Phys. Rev. B",
+      "details": "101 · 121105(R)"
+    },
+    {
+      "id": 164,
+      "year": 2020,
+      "pi": [
+        "Kim"
+      ],
+      "title": "Identifying a perovskite phase in rare-earth nickelates using X-ray photoelectron spectroscopy",
+      "authors": "Jin San Choi, Chang Won Ahn, Jong-Seong Bae, and Tae Heon Kim (Corresponding author)",
+      "journal": "Curr. Appl. Phys.",
+      "volume": "20",
+      "pages": "102",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Kim": 19
+      },
+      "globalIndex": 164,
+      "indexByPi": {
+        "Kim": 41
+      },
+      "piAuthors": [
+        "Kim"
+      ],
+      "venue": "Curr. Appl. Phys.",
+      "details": "20 · 102"
+    },
+    {
+      "id": 163,
+      "year": 2019,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Atomic layer deposition of SnO2 thin films using tetraethyltin and H2O2",
+      "authors": "Lim, SS; Baek, IH; Kim, KC; Baek, SH; Park, HH; Kim, JS; Kim, SK",
+      "journal": "CERAMICS INTERNATIONAL",
+      "volume": "45",
+      "pages": "20600",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 132
+      },
+      "globalIndex": 163,
+      "indexByPi": {
+        "Baek": 132
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "CERAMICS INTERNATIONAL",
+      "details": "45 · 20600"
+    },
+    {
+      "id": 162,
+      "year": 2019,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Gate-tunable giant nonreciprocal charge transport in noncentrosymmetric oxide interfaces",
+      "authors": "Choe, D; Jin, MJ; Kim, SI; Choi, HJ; Jo, J; Oh, I; Park, J; Jin, H; Koo, HC; Min, BC; Hong, S; Lee, HW; Baek, SH; Yoo, JW",
+      "journal": "NATURE COMMUNICATIONS",
+      "volume": "10",
+      "pages": "4510",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 131
+      },
+      "globalIndex": 162,
+      "indexByPi": {
+        "Baek": 131
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "NATURE COMMUNICATIONS",
+      "details": "10 · 4510"
+    },
+    {
+      "id": 161,
+      "year": 2019,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Optical investigation of the metal-insulator transition in the manganite films with the thickness dependence",
+      "authors": "Seo, I; Lee, YS; Seo, JW; Baek, SH",
+      "journal": "CURRENT APPLIED PHYSICS",
+      "volume": "19",
+      "pages": "1019",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 130
+      },
+      "globalIndex": 161,
+      "indexByPi": {
+        "Baek": 130
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "CURRENT APPLIED PHYSICS",
+      "details": "19 · 1019"
+    },
+    {
+      "id": 160,
+      "year": 2019,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Precision Interface Engineering of an Atomic Layer in Bulk Bi2Te3 Alloys for High Thermoelectric Performance",
+      "authors": "Kim, KC; Lim, SS; Lee, SH; Hong, J; Cho, DY; Mohamed, AY; Koo, CM; Baek, SH; Kim, JS; Kim, SK",
+      "journal": "ACS NANO",
+      "volume": "13",
+      "pages": "7146",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 129
+      },
+      "globalIndex": 160,
+      "indexByPi": {
+        "Baek": 129
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "ACS NANO",
+      "details": "13 · 7146"
+    },
+    {
+      "id": 159,
+      "year": 2019,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Li alloy-based non-volatile actuators",
+      "authors": "Noh, MS; Lee, H; Song, YG; Jung, I; Ning, R; Paek, SW; Song, HC; Baek, SH; Kang, CY; Kim, S",
+      "journal": "NANO ENERGY",
+      "volume": "57",
+      "pages": "653",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 128
+      },
+      "globalIndex": 159,
+      "indexByPi": {
+        "Baek": 128
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "NANO ENERGY",
+      "details": "57 · 653"
+    },
+    {
+      "id": 158,
+      "year": 2019,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Study of Rashba Spin-Orbit Field at LaAlO3/SrTiO3 Heterointerfaces",
+      "authors": "Jin, MJ; Kim, SI; Moon, SY; Choe, D; Park, J; Modepalli, V; Jo, J; Oh, I; Baek, SH; Yoo, JW",
+      "journal": "JOURNAL OF ELECTRONIC MATERIALS",
+      "volume": "48",
+      "pages": "1347",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 127
+      },
+      "globalIndex": 158,
+      "indexByPi": {
+        "Baek": 127
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "JOURNAL OF ELECTRONIC MATERIALS",
+      "details": "48 · 1347"
+    },
+    {
+      "id": 157,
+      "year": 2019,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Probing surface electronic properties of a patterned conductive STO by reactive ion etching",
+      "authors": "Jin, MJ; Choe, D; Lee, SY; Park, J; Jo, J; Oh, I; Kim, SI; Baek, SH; Jeon, C; Yoo, JW",
+      "journal": "APPLIED SURFACE SCIENCE",
+      "volume": "466",
+      "pages": "730",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 126
+      },
+      "globalIndex": 157,
+      "indexByPi": {
+        "Baek": 126
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "APPLIED SURFACE SCIENCE",
+      "details": "466 · 730"
+    },
+    {
+      "id": 156,
+      "year": 2019,
+      "pi": [
+        "Kim"
+      ],
+      "title": "Nano Meter Displacement of a PZT Piezoelectric Thin Film by Using a Spectrum Analyzer",
+      "authors": "Bong Chan Park, Hae Jin Seog, Heonoh Kim, Tae Heon Kim (co-author), Shinuk Cho, Ill Won Kim",
+      "journal": "New Phys.: Sae Mulli",
+      "volume": "69",
+      "pages": "1141",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Kim": 18
+      },
+      "globalIndex": 156,
+      "indexByPi": {
+        "Kim": 40
+      },
+      "piAuthors": [
+        "Kim"
+      ],
+      "venue": "New Phys.: Sae Mulli",
+      "details": "69 · 1141"
+    },
+    {
+      "id": 155,
+      "year": 2019,
+      "pi": [
+        "Kim"
+      ],
+      "title": "Coherent-strained superconducting BaPb1−xBixO3 thin films by interface engineering",
+      "authors": "Jinkwon Kim, Junsik Mun, Bongju Kim, Han Gyeol Lee, Daesu Lee, Tae Heon Kim (co-author), Shinbuhm Lee, Miyoung Kim, Seo Hyoung Chang, and Tae Won Noh",
+      "journal": "Phys. Rev. Mater.",
+      "volume": "3",
+      "pages": "113606",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Kim": 17
+      },
+      "globalIndex": 155,
+      "indexByPi": {
+        "Kim": 39
+      },
+      "piAuthors": [
+        "Kim"
+      ],
+      "venue": "Phys. Rev. Mater.",
+      "details": "3 · 113606"
+    },
+    {
+      "id": 154,
+      "year": 2019,
+      "pi": [
+        "Kim"
+      ],
+      "title": "Effect of ceramic-target crystallinity on metal-to-insulator transition of epitaxial rare-earth nickelate films grown by pulsed laser deposition",
+      "authors": "Jin San Choi, Muhammad Sheeraz, Jong-Seong Bae, Jun Han Lee, Joonhyuk Lee, Jongmin Lee, Sanghan Lee, Hyoungjeen Jeen, Yoon Seok Oh, Chang Won Ahn, and Tae Heon Kim (Corresponding author)",
+      "journal": "ACS Appl. Electron. Mater.",
+      "volume": "1",
+      "pages": "1952",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Kim": 16
+      },
+      "globalIndex": 154,
+      "indexByPi": {
+        "Kim": 38
+      },
+      "piAuthors": [
+        "Kim"
+      ],
+      "venue": "ACS Appl. Electron. Mater.",
+      "details": "1 · 1952"
+    },
+    {
+      "id": 153,
+      "year": 2019,
+      "pi": [
+        "Kim"
+      ],
+      "title": "Stress driven high electrostrain at low field in incipient piezoelectrics",
+      "authors": "Muhammad Sheeraz, Abdul Khaliq, Aman Ullah, Hyoung-Su Han, Aurangzeb Khan, Amir Ullah, Ill Won Kim, Tae Heon Kim (co-author), and Chang Won Ahn",
+      "journal": "J. Eur. Ceram. Soc.",
+      "volume": "39",
+      "pages": "4688",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Kim": 15
+      },
+      "globalIndex": 153,
+      "indexByPi": {
+        "Kim": 37
+      },
+      "piAuthors": [
+        "Kim"
+      ],
+      "venue": "J. Eur. Ceram. Soc.",
+      "details": "39 · 4688"
+    },
+    {
+      "id": 152,
+      "year": 2019,
+      "pi": [
+        "Kim"
+      ],
+      "title": "Enhanced Ferroelectricity in Perovskite Oxysulfides",
+      "authors": "Muhammad Sheeraz, Hye Jung Kim, Kyou-Hyun Kim, Jong-Seong Bae, Ah Young Kim, Manil Kang, Jongmin Lee, Jaesun Song, Abdul Khaliq, Jinkwon Kim, Byeong-Gwan Cho, Sung-Yoon Joe, Jong Hoon Jung, Jae-Hyeon Ko, Tae Yeong Koo, Tae Won Noh, Shinuk Cho, Sanghan Lee, Sang Mo Yang, Young Han Shin, Ill Won Kim, Chang Won Ahn, and Tae Heon Kim (Corresponding author)",
+      "journal": "Phys. Rev. Mater.",
+      "volume": "3",
+      "pages": "084405",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Kim": 14
+      },
+      "globalIndex": 152,
+      "indexByPi": {
+        "Kim": 36
+      },
+      "piAuthors": [
+        "Kim"
+      ],
+      "venue": "Phys. Rev. Mater.",
+      "details": "3 · 084405"
+    },
+    {
+      "id": 151,
+      "year": 2019,
+      "pi": [
+        "Kim"
+      ],
+      "title": "Polymorphic Phase Transition in BaTiO3 by Ni doping",
+      "authors": "Nguyen Xuan Duong, Jong-Seong Bae, Jongchul Jeon, So Yeon Lim, Soo Han Oh, Aman Ullah, Muhammad Sheeraz, Jin San Choi, Jae-Hyeon Ko, Sang Mo Yang, Kyou-Hyun Kim, Ill Won Kim, Chang Won Ahn, and Tae Heon Kim (Corresponding author)",
+      "journal": "Ceram. Int.",
+      "volume": "45",
+      "pages": "16305",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Kim": 13
+      },
+      "globalIndex": 151,
+      "indexByPi": {
+        "Kim": 35
+      },
+      "piAuthors": [
+        "Kim"
+      ],
+      "venue": "Ceram. Int.",
+      "details": "45 · 16305"
+    },
+    {
+      "id": 150,
+      "year": 2019,
+      "pi": [
+        "Kim"
+      ],
+      "title": "Boosting electrostriction and strain performance in bismuth sodium titanate-based ceramics via introducing low tolerance factor chemical modifier",
+      "authors": "Naimat Ullah Khan, Aman Ullah, Amir Ullah, Muhammad Yaqoob Khan, Tae Heon Kim (co-author), Ill WonKim, and Chang Won Ahn",
+      "journal": "Sensor. Actuat. A-Phys.",
+      "volume": "291",
+      "pages": "156",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Kim": 12
+      },
+      "globalIndex": 150,
+      "indexByPi": {
+        "Kim": 34
+      },
+      "piAuthors": [
+        "Kim"
+      ],
+      "venue": "Sensor. Actuat. A-Phys.",
+      "details": "291 · 156"
+    },
+    {
+      "id": 149,
+      "year": 2019,
+      "pi": [
+        "Kim"
+      ],
+      "title": "Experimental realization of atomically flat and AlO2-terminated LaAlO3 (001) substrate surfaces",
+      "authors": "Jeong Rae Kim, Jiyeon N. Lee, Junsik Mun, Yoonkoo Kim, Yeong Jae Shin, Bongju Kim, Saikat Das, Lingfei Wang, Miyoung Kim, Mikk Lippmaa, Tae Heon Kim (Co-corresponding author), and Tae Won Noh",
+      "journal": "Phys. Rev. Mater.",
+      "volume": "3",
+      "pages": "023801",
+      "doi": "",
+      "notes": [
+        "This work was highlighted as Editor's Suggestion."
+      ],
+      "featured": false,
+      "sourceIds": {
+        "Kim": 11
+      },
+      "globalIndex": 149,
+      "indexByPi": {
+        "Kim": 33
+      },
+      "piAuthors": [
+        "Kim"
+      ],
+      "venue": "Phys. Rev. Mater.",
+      "details": "3 · 023801"
+    },
+    {
+      "id": 148,
+      "year": 2018,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Low-temperature wafer-scale synthesis of two-dimensional SnS2",
+      "authors": "Pyeon, JJ; Baek, IH; Lim, WC; Chae, KH; Han, SH; Lee, GY; Baek, SH; Kim, JS; Choi, JW; Chung, TM; Han, JH; Kang, CY; Kim, SK",
+      "journal": "NANOSCALE",
+      "volume": "10",
+      "pages": "17712",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 125
+      },
+      "globalIndex": 148,
+      "indexByPi": {
+        "Baek": 125
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "NANOSCALE",
+      "details": "10 · 17712"
+    },
+    {
+      "id": 147,
+      "year": 2018,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Texture-induced reduction in electrical resistivity of p-type (Bi, Sb)2Te3 by a hot extrusion",
+      "authors": "Min, B; Lim, SS; Jung, SJ; Kim, G; Lee, BH; Won, SO; Kim, SK; Rhyee, JS; Kim, JS; Baek, SH",
+      "journal": "JOURNAL OF ALLOYS AND COMPOUNDS",
+      "volume": "764",
+      "pages": "261",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 124
+      },
+      "globalIndex": 147,
+      "indexByPi": {
+        "Baek": 124
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "JOURNAL OF ALLOYS AND COMPOUNDS",
+      "details": "764 · 261"
+    },
+    {
+      "id": 146,
+      "year": 2018,
+      "pi": [
+        "Baek"
+      ],
+      "title": "A novel class of oxynitrides stabilized by nitrogen dimer formation",
+      "authors": "Kim, S; Gwon, HJ; Peek, SW; Kim, SK; Choi, JW; Kim, JS; Choi, JH; Kang, CY; Baek, SH",
+      "journal": "SCIENTIFIC REPORTS",
+      "volume": "8",
+      "pages": "14471",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 123
+      },
+      "globalIndex": 146,
+      "indexByPi": {
+        "Baek": 123
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "SCIENTIFIC REPORTS",
+      "details": "8 · 14471"
+    },
+    {
+      "id": 145,
+      "year": 2018,
+      "pi": [
+        "Baek"
+      ],
+      "title": "A possible superconductor-like state at elevated temperatures near metal electrodes in an LaAlO3/SrTiO3 interface",
+      "authors": "Kim, T; Kim, SI; Joo, S; Kim, S; Jeon, J; Hong, J; Doh, YJ; Baek, SH; Koo, HC",
+      "journal": "SCIENTIFIC REPORTS",
+      "volume": "8",
+      "pages": "11558",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 122
+      },
+      "globalIndex": 145,
+      "indexByPi": {
+        "Baek": 122
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "SCIENTIFIC REPORTS",
+      "details": "8 · 11558"
+    },
+    {
+      "id": 144,
+      "year": 2018,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Laser-irradiated inclined metal nanocolumns for selective, scalable, and room-temperature synthesis of plasmonic isotropic nanospheres",
+      "authors": "Noh, MS; Han, SD; Chae, S; Back, SH; Kim, S; Baek, SH; Kim, SK; Choi, JW; Kim, JS; Ahn, DJ; Choi, D; Kang, CY",
+      "journal": "JOURNAL OF MATERIALS CHEMISTRY C",
+      "volume": "6",
+      "pages": "6038",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 121
+      },
+      "globalIndex": 144,
+      "indexByPi": {
+        "Baek": 121
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "JOURNAL OF MATERIALS CHEMISTRY C",
+      "details": "6 · 6038"
+    },
+    {
+      "id": 143,
+      "year": 2018,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Impurity-free, mechanical doping for the reproducible fabrication of the reliable n-type Bi2Te3-based thermoelectric alloys",
+      "authors": "Jung, SJ; Lee, BH; Kim, BK; Lim, SS; Kim, SK; Kim, DI; Won, SO; Park, HH; Kim, JS; Baek, SH",
+      "journal": "ACTA MATERIALIA",
+      "volume": "150",
+      "pages": "153",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 120
+      },
+      "globalIndex": 143,
+      "indexByPi": {
+        "Baek": 120
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "ACTA MATERIALIA",
+      "details": "150 · 153"
+    },
+    {
+      "id": 142,
+      "year": 2018,
+      "pi": [
+        "Baek"
+      ],
+      "title": "All villi-like metal oxide nanostructures-based chemiresistive electronic nose for an exhaled breath analyzer",
+      "authors": "Moon, HG; Jung, Y; Han, SD; Shim, YS; Jung, WS; Lee, T; Lee, S; Park, JH; Baek, SH; Kim, JS; Park, HH; Kim, C; Kang, CY",
+      "journal": "SENSORS AND ACTUATORS B-CHEMICAL",
+      "volume": "257",
+      "pages": "295",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 119
+      },
+      "globalIndex": 142,
+      "indexByPi": {
+        "Baek": 119
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "SENSORS AND ACTUATORS B-CHEMICAL",
+      "details": "257 · 295"
+    },
+    {
+      "id": 141,
+      "year": 2018,
+      "pi": [
+        "Kim"
+      ],
+      "title": "Isostructural metal-insulator transition in VO2",
+      "authors": "D. Lee, B. Chung, Y. Shi, G.-Y. Kim, N. Campbell, F. Xue, K. Song, S.-Y. Choi, J. P. Podkaminer, T. H. Kim (co-author), P. J. Ryan, J.-W. Kim, T. R. Paudel, J.-H. Kang, J. W. Spinuzzi, D. A. Tenne, E. Y. Tsymbal, M. S. Rzchowski, L. Q. Chen, J. Lee, and C. B. Eom",
+      "journal": "Science",
+      "volume": "362",
+      "pages": "1037",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Kim": 10
+      },
+      "globalIndex": 141,
+      "indexByPi": {
+        "Kim": 32
+      },
+      "piAuthors": [
+        "Kim"
+      ],
+      "venue": "Science",
+      "details": "362 · 1037"
+    },
+    {
+      "id": 140,
+      "year": 2018,
+      "pi": [
+        "Kim"
+      ],
+      "title": "Non-stoichiometry-Induced Metal-to-Insulator Transition in Nickelate Thin Films Grown by Pulsed Laser Deposition",
+      "authors": "Jongmin Lee, Kyoung Soon Choi, Tae Kwon Lee, Il-Seok Jeong, Sangmo Kim, Jaesun Song, Chung Wung Bark, Joo-Hyoung Lee, Jong Hoon Jung, Jouhahn Lee, Tae Heon Kim (Co-corresponding author), and Sanghan Lee",
+      "journal": "Curr. Appl. Phys.",
+      "volume": "18",
+      "pages": "1577",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Kim": 9
+      },
+      "globalIndex": 140,
+      "indexByPi": {
+        "Kim": 31
+      },
+      "piAuthors": [
+        "Kim"
+      ],
+      "venue": "Curr. Appl. Phys.",
+      "details": "18 · 1577"
+    },
+    {
+      "id": 139,
+      "year": 2018,
+      "pi": [
+        "Kim"
+      ],
+      "title": "Unconventional Ferromagnetism in epitaxial (111) LaNiO3",
+      "authors": "Tomoya Asaba, Ziji Xiang, T. H. Kim (co-author), M. S. Rzchowski, C. B. Eom, and Lu Li",
+      "journal": "Phys. Rev. B",
+      "volume": "98",
+      "pages": "121105(R)",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Kim": 8
+      },
+      "globalIndex": 139,
+      "indexByPi": {
+        "Kim": 30
+      },
+      "piAuthors": [
+        "Kim"
+      ],
+      "venue": "Phys. Rev. B",
+      "details": "98 · 121105(R)"
+    },
+    {
+      "id": 138,
+      "year": 2018,
+      "pi": [
+        "Kim"
+      ],
+      "title": "Control of Epitaxial BaFe2As2 Atomic Configurations with Substrate Surface Terminations",
+      "authors": "Jong-Hoon Kang, Lin Xie, Yi Wang, Hyungwoo Lee, Neil Campbell, Jianyi Jiang, Philip J. Ryan, David J. Keavney, Jung-Woo Lee, Tae Heon Kim (co-author), Xiaoqing Pan, Long-Qing Chen, Eric E. Hellstrom, Mark S. Rzchowski, Zi-Kui Liu, and Chang-Beom Eom",
+      "journal": "Nano Lett.",
+      "volume": "18",
+      "pages": "6347",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Kim": 7
+      },
+      "globalIndex": 138,
+      "indexByPi": {
+        "Kim": 29
+      },
+      "piAuthors": [
+        "Kim"
+      ],
+      "venue": "Nano Lett.",
+      "details": "18 · 6347"
+    },
+    {
+      "id": 137,
+      "year": 2018,
+      "pi": [
+        "Kim"
+      ],
+      "title": "Ferroelectric seeds-induced phase evolution and large electrostrain under reduced poling field in bismuth-based composites",
+      "authors": "Abdul Khaliq, Muhammad Sheeraz, Aman Ullah, Hae Jin Seog, Chang Won Ahn, Tae Heon Kim (co-author), Shinuk Cho, and Ill Won Kim",
+      "journal": "Ceram. Int.",
+      "volume": "44",
+      "pages": "13278",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Kim": 6
+      },
+      "globalIndex": 137,
+      "indexByPi": {
+        "Kim": 28
+      },
+      "piAuthors": [
+        "Kim"
+      ],
+      "venue": "Ceram. Int.",
+      "details": "44 · 13278"
+    },
+    {
+      "id": 136,
+      "year": 2018,
+      "pi": [
+        "Kim"
+      ],
+      "title": "Anisotropic Suppression of Octahedral Breathing Distortion with the Fully-strained BaBiO3/BaCeO3 Heterointerface",
+      "authors": "Han Gyeol Lee, Rokyeon Kim, Jinkwon Kim, Minu Kim, Tae Heon Kim (co-author), Shinbuhm Lee, and Tae Won Noh",
+      "journal": "APL Mater.",
+      "volume": "6",
+      "pages": "016107",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Kim": 5
+      },
+      "globalIndex": 136,
+      "indexByPi": {
+        "Kim": 27
+      },
+      "piAuthors": [
+        "Kim"
+      ],
+      "venue": "APL Mater.",
+      "details": "6 · 016107"
+    },
+    {
+      "id": 135,
+      "year": 2018,
+      "pi": [
+        "Kim"
+      ],
+      "title": "Giant room-temperature electrostrictive coefficients in lead-free relaxor ferroelectric ceramics by compositional tuning",
+      "authors": "Aman Ullah, Hafiza Bushra Gul, Amir Ullah, Muhammad Sheeraz, Jong-Seong Bae, Wook Jo, Chang Won Ahn, Ill Won Kim, and Tae Heon Kim (Corresponding author)",
+      "journal": "APL Mater.",
+      "volume": "6",
+      "pages": "016104",
+      "doi": "",
+      "notes": [
+        "This work was highlighted as Editor's Pick."
+      ],
+      "featured": false,
+      "sourceIds": {
+        "Kim": 4
+      },
+      "globalIndex": 135,
+      "indexByPi": {
+        "Kim": 26
+      },
+      "piAuthors": [
+        "Kim"
+      ],
+      "venue": "APL Mater.",
+      "details": "6 · 016104"
+    },
+    {
+      "id": 134,
+      "year": 2017,
+      "pi": [
+        "Baek"
+      ],
+      "title": "A two-step synthesis process of thermoelectric alloys for the separate control of carrier density and mobility",
+      "authors": "Lim, SS; Kim, BK; Kim, SK; Park, HH; Kim, DI; Hyun, DB; Kim, JS; Baek, SH",
+      "journal": "JOURNAL OF ALLOYS AND COMPOUNDS",
+      "volume": "727",
+      "pages": "191",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 118
+      },
+      "globalIndex": 134,
+      "indexByPi": {
+        "Baek": 118
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "JOURNAL OF ALLOYS AND COMPOUNDS",
+      "details": "727 · 191"
+    },
+    {
+      "id": 133,
+      "year": 2017,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Uniform sputter deposition of high-quality epitaxial complex oxide thin films",
+      "authors": "Brewer, A; Cho, KH; Saenrang, W; Baek, SH; Frederick, JC; Eom, CB",
+      "journal": "JOURNAL OF VACUUM SCIENCE & TECHNOLOGY A",
+      "volume": "35",
+      "pages": "60607",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 117
+      },
+      "globalIndex": 133,
+      "indexByPi": {
+        "Baek": 117
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "JOURNAL OF VACUUM SCIENCE & TECHNOLOGY A",
+      "details": "35 · 60607"
+    },
+    {
+      "id": 132,
+      "year": 2017,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Synthesis of SnS Thin Films by Atomic Layer Deposition at Low Temperatures",
+      "authors": "Baek, IH; Pyeon, JJ; Song, YG; Chung, TM; Kim, HR; Baek, SH; Kim, JS; Kang, CY; Choi, JW; Hwang, CS; Han, JH; Kim, SK",
+      "journal": "CHEMISTRY OF MATERIALS",
+      "volume": "29",
+      "pages": "8100",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 116
+      },
+      "globalIndex": 132,
+      "indexByPi": {
+        "Baek": 116
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "CHEMISTRY OF MATERIALS",
+      "details": "29 · 8100"
+    },
+    {
+      "id": 131,
+      "year": 2017,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Origin of insulating weak-ferromagnetic phase in ultra-thin La0.67Sr0.33MnO3 films on SrTiO3 substrate",
+      "authors": "Li, Y; Choi, E; Kim, SI; Baek, SH; Park, SY; Jo, Y; Seo, J",
+      "journal": "AIP ADVANCES",
+      "volume": "7",
+      "pages": "85224",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 115
+      },
+      "globalIndex": 131,
+      "indexByPi": {
+        "Baek": 115
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "AIP ADVANCES",
+      "details": "7 · 85224"
+    },
+    {
+      "id": 130,
+      "year": 2017,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Dramatic Dramatic enhancement of the saturation magnetization of a sol-gel synthesized Y3Fe5O12 by a mechanical pressing process",
+      "authors": "Jang, MS; Roh, IJ; Park, J; Kang, CY; Choi, WJ; Baek, SH; Park, SS; Yoo, JW; Lee, KS",
+      "journal": "JOURNAL OF ALLOYS AND COMPOUNDS",
+      "volume": "711",
+      "pages": "693",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 114
+      },
+      "globalIndex": 130,
+      "indexByPi": {
+        "Baek": 114
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "JOURNAL OF ALLOYS AND COMPOUNDS",
+      "details": "711 · 693"
+    },
+    {
+      "id": 129,
+      "year": 2017,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Design and Experimental Investigation of Thermoelectric Generators for Wearable Applications",
+      "authors": "Lee, YG; Kim, J; Kang, MS; Baek, SH; Kim, SK; Lee, SM; Lee, J; Hyun, DB; Ju, BK; Moon, SE; Kim, JS; Kwon, B",
+      "journal": "ADVANCED MATERIALS TECHNOLOGIES",
+      "volume": "2",
+      "pages": "1600292",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 113
+      },
+      "globalIndex": 129,
+      "indexByPi": {
+        "Baek": 113
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "ADVANCED MATERIALS TECHNOLOGIES",
+      "details": "2 · 1600292"
+    },
+    {
+      "id": 128,
+      "year": 2017,
+      "pi": [
+        "Baek"
+      ],
+      "title": "A highly-efficient, concentrating-photovoltaic/thermoelectric hybrid generator",
+      "authors": "Kil, TH; Kim, S; Jeong, DH; Geum, DM; Lee, S; Jung, SJ; Kim, S; Park, C; Kim, JS; Baik, JM; Lee, KS; Kim, CZ; Choi, WJ; Baek, SH",
+      "journal": "NANO ENERGY",
+      "volume": "37",
+      "pages": "242",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 112
+      },
+      "globalIndex": 128,
+      "indexByPi": {
+        "Baek": 112
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "NANO ENERGY",
+      "details": "37 · 242"
+    },
+    {
+      "id": 127,
+      "year": 2017,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Mechanically Robust, Stretchable Solar Absorbers with Submicron-Thick Multilayer Sheets for Wearable and Energy Applications",
+      "authors": "Lee, HJ; Jung, DH; Kil, TH; Kim, SH; Lee, KS; Baek, SH; Choi, WJ; Baik, JM",
+      "journal": "ACS APPLIED MATERIALS & INTERFACES",
+      "volume": "9",
+      "pages": "18061",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 111
+      },
+      "globalIndex": 127,
+      "indexByPi": {
+        "Baek": 111
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "ACS APPLIED MATERIALS & INTERFACES",
+      "details": "9 · 18061"
+    },
+    {
+      "id": 126,
+      "year": 2017,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Domain engineering in BiFeO3 thin films",
+      "authors": "Baek, SH; Choi, S; Kim, TL; Jang, HW",
+      "journal": "CURRENT APPLIED PHYSICS",
+      "volume": "17",
+      "pages": "688",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 110
+      },
+      "globalIndex": 126,
+      "indexByPi": {
+        "Baek": 110
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "CURRENT APPLIED PHYSICS",
+      "details": "17 · 688"
+    },
+    {
+      "id": 125,
+      "year": 2017,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Fabrication of high-performance p-type thin film transistors using atomic-layer-deposited SnO films",
+      "authors": "Kim, SH; Baek, IH; Kim, DH; Pyeon, JJ; Chung, TM; Baek, SH; Kim, JS; Han, JH; Kim, SK",
+      "journal": "JOURNAL OF MATERIALS CHEMISTRY C",
+      "volume": "5",
+      "pages": "3139",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 109
+      },
+      "globalIndex": 125,
+      "indexByPi": {
+        "Baek": 109
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "JOURNAL OF MATERIALS CHEMISTRY C",
+      "details": "5 · 3139"
+    },
+    {
+      "id": 124,
+      "year": 2017,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Interface Engineering for Extremely Large Grains in Explosively Crystallized TiO2 Films Grown by Low-Temperature Atomic Layer Deposition",
+      "authors": "Cho, CJ; Kang, JY; Lee, WC; Baek, SH; Kim, JS; Hwang, CS; Kim, SK",
+      "journal": "CHEMISTRY OF MATERIALS",
+      "volume": "29",
+      "pages": "2046",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 108
+      },
+      "globalIndex": 124,
+      "indexByPi": {
+        "Baek": 108
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "CHEMISTRY OF MATERIALS",
+      "details": "29 · 2046"
+    },
+    {
+      "id": 123,
+      "year": 2017,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Nonlocal Spin Diffusion Driven by Giant Spin Hall Effect at Oxide Heterointerfaces",
+      "authors": "Jin, MJ; Moon, SY; Park, J; Modepalli, V; Jo, J; Kim, SI; Koo, HC; Min, BC; Lee, HW; Baek, SH; Yoo, JW",
+      "journal": "NANO LETTERS",
+      "volume": "17",
+      "pages": "36",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 107
+      },
+      "globalIndex": 123,
+      "indexByPi": {
+        "Baek": 107
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "NANO LETTERS",
+      "details": "17 · 36"
+    },
+    {
+      "id": 122,
+      "year": 2017,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Electron beam induced epitaxial crystallization in a conducting and insulating a-LaAlO3/SrTiO3 system",
+      "authors": "Lee, G; Moon, SY; Kim, J; Baek, SH; Kim, DH; Jang, HW; Chang, HJ",
+      "journal": "RSC ADVANCES",
+      "volume": "7",
+      "pages": "40279",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 106
+      },
+      "globalIndex": 122,
+      "indexByPi": {
+        "Baek": 106
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "RSC ADVANCES",
+      "details": "7 · 40279"
+    },
+    {
+      "id": 121,
+      "year": 2017,
+      "pi": [
+        "Kim"
+      ],
+      "title": "Deterministic and robust room-temperature exchange coupling in monodomain multiferroic BiFeO3 heterostructures",
+      "authors": "W. Saenrang, B. A. Davidson, F. Maccherozzi, J. P. Podkaminer, J. Irwin, R. D. Johnson, J. W. Freeland, J. Íñiguez, J. L. Schad, K. Reierson, J. C. Frederick, C. A. F. Vaz, L. Howald, T. H. Kim (co-author), S. Ryu, M. v. Veenendaal, P. G. Radaelli, S. S. Dhesi, M. S. Rzchowski, and C. B. Eom",
+      "journal": "Nat. Commun.",
+      "volume": "8",
+      "pages": "1583",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Kim": 3
+      },
+      "globalIndex": 121,
+      "indexByPi": {
+        "Kim": 25
+      },
+      "piAuthors": [
+        "Kim"
+      ],
+      "venue": "Nat. Commun.",
+      "details": "8 · 1583"
+    },
+    {
+      "id": 120,
+      "year": 2017,
+      "pi": [
+        "Kim"
+      ],
+      "title": "In-situ Probing of Coupled Atomic Restructuring and Metallicity of Oxide Heterointerfaces induced by Polar Adsorbates",
+      "authors": "S. Ryu, H. Zhou, T. R. Paudel, J. Irwin, J. P. Podkaminer, C. W. Bark, D. Lee, T. H. Kim (co-author), D. D. Fong, M. S. Rzchowski, E. Y. Tsymbal, and C. B. Eom",
+      "journal": "Appl. Phys. Lett.",
+      "volume": "111",
+      "pages": "141604",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Kim": 2
+      },
+      "globalIndex": 120,
+      "indexByPi": {
+        "Kim": 24
+      },
+      "piAuthors": [
+        "Kim"
+      ],
+      "venue": "Appl. Phys. Lett.",
+      "details": "111 · 141604"
+    },
+    {
+      "id": 119,
+      "year": 2017,
+      "pi": [
+        "Kim"
+      ],
+      "title": "Electric-field-induced evolution of domain shapes in polarization reversal of BiFeO3 (111) capacitors",
+      "authors": "T. H. Kim (First author, Corresponding author)",
+      "journal": "Curr. Appl. Phys.",
+      "volume": "17",
+      "pages": "1501",
+      "doi": "",
+      "notes": [
+        "Audio Slides"
+      ],
+      "featured": false,
+      "sourceIds": {
+        "Kim": 1
+      },
+      "globalIndex": 119,
+      "indexByPi": {
+        "Kim": 23
+      },
+      "piAuthors": [
+        "Kim"
+      ],
+      "venue": "Curr. Appl. Phys.",
+      "details": "17 · 1501"
+    },
+    {
+      "id": 118,
+      "year": 2016,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Harman Measurements for Thermoelectric Materials and Modules under Non-Adiabatic Conditions",
+      "authors": "Roh, IJ; Lee, YG; Kang, MS; Lee, JU; Baek, SH; Kim, SK; Ju, BK; Hyun, DB; Kim, JS; Kwon, B",
+      "journal": "SCIENTIFIC REPORTS",
+      "volume": "6",
+      "pages": "39131",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 105
+      },
+      "globalIndex": 118,
+      "indexByPi": {
+        "Baek": 105
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "SCIENTIFIC REPORTS",
+      "details": "6 · 39131"
+    },
+    {
+      "id": 117,
+      "year": 2016,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Enhancement of Mechanical Hardness in SnOxNy with a Dense High-Pressure Cubic Phase of SnO2",
+      "authors": "Gwon, HJ; Kang, NR; Lee, Y; Won, SO; Chang, HJ; Choi, JW; Kang, CY; Kim, SK; Kwon, B; Nahm, S; Kim, JY; Kim, JS; Baek, SH",
+      "journal": "CHEMISTRY OF MATERIALS",
+      "volume": "28",
+      "pages": "7051",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 104
+      },
+      "globalIndex": 117,
+      "indexByPi": {
+        "Baek": 104
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "CHEMISTRY OF MATERIALS",
+      "details": "28 · 7051"
+    },
+    {
+      "id": 116,
+      "year": 2016,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Large linear magnetoresistance in heavily-doped Nb:SrTiO3 epitaxial thin films",
+      "authors": "Jin, H; Lee, K; Baek, SH; Kim, JS; Cheong, BK; Park, BH; Yoon, S; Suh, BJ; Kim, C; Seo, SSA; Lee, S",
+      "journal": "SCIENTIFIC REPORTS",
+      "volume": "6",
+      "pages": "34295",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 103
+      },
+      "globalIndex": 116,
+      "indexByPi": {
+        "Baek": 103
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "SCIENTIFIC REPORTS",
+      "details": "6 · 34295"
+    },
+    {
+      "id": 115,
+      "year": 2016,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Effect of spark plasma sintering conditions on the thermoelectric properties of (Bi0.25Sb0.75)2Te3 alloys",
+      "authors": "Lim, SS; Kim, JH; Kwon, B; Kim, SK; Park, HH; Lee, KS; Baik, JM; Choi, WJ; Kim, DI; Hyun, DB; Kim, JS; Baek, SH",
+      "journal": "JOURNAL OF ALLOYS AND COMPOUNDS",
+      "volume": "678",
+      "pages": "396",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 102
+      },
+      "globalIndex": 115,
+      "indexByPi": {
+        "Baek": 102
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "JOURNAL OF ALLOYS AND COMPOUNDS",
+      "details": "678 · 396"
+    },
+    {
+      "id": 114,
+      "year": 2016,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Free-electron creation at the 60째 twin boundary in Bi2Te3",
+      "authors": "Kim, KC; Lee, J; Kim, BK; Choi, WY; Chang, HJ; Won, SO; Kwon, B; Kim, SK; Hyun, DB; Kim, HJ; Koo, HC; Choi, JH; Kim, DI; Kim, JS; Baek, SH",
+      "journal": "NATURE COMMUNICATIONS",
+      "volume": "7",
+      "pages": "12449",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 101
+      },
+      "globalIndex": 114,
+      "indexByPi": {
+        "Baek": 101
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "NATURE COMMUNICATIONS",
+      "details": "7 · 12449"
+    },
+    {
+      "id": 113,
+      "year": 2016,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Impedance-based interpretations in 2-dimensional electron gas conduction formed in the LaAlO3/SrxCa1-xTiO3/SrTiO3 system",
+      "authors": "Park, CR; Moon, SY; Park, DH; Kim, SI; Kim, SK; Kang, CY; Baek, SH; Choi, JH; Kim, JS; Choi, E; Hwang, JH",
+      "journal": "JOURNAL OF PHYSICS AND CHEMISTRY OF SOLIDS",
+      "volume": "93",
+      "pages": "131",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 100
+      },
+      "globalIndex": 113,
+      "indexByPi": {
+        "Baek": 100
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "JOURNAL OF PHYSICS AND CHEMISTRY OF SOLIDS",
+      "details": "93 · 131"
+    },
+    {
+      "id": 112,
+      "year": 2016,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Correction of the Electrical and Thermal Extrinsic Effects in Thermoelectric Measurements by the Harman Method",
+      "authors": "Kang, MS; Roh, IJ; Lee, YG; Baek, SH; Kim, SK; Ju, BK; Hyun, DB; Kim, JS; Kwon, B",
+      "journal": "SCIENTIFIC REPORTS",
+      "volume": "6",
+      "pages": "26507",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 99
+      },
+      "globalIndex": 112,
+      "indexByPi": {
+        "Baek": 99
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "SCIENTIFIC REPORTS",
+      "details": "6 · 26507"
+    },
+    {
+      "id": 111,
+      "year": 2016,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Structural approaches for enhancing output power of piezoelectric polyvinylidene fluoride generator",
+      "authors": "Jung, WS; Lee, M; Baek, SH; Jung, IK; Yoon, SJ; Kang, CY",
+      "journal": "NANO ENERGY",
+      "volume": "22",
+      "pages": "514",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 98
+      },
+      "globalIndex": 111,
+      "indexByPi": {
+        "Baek": 98
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "NANO ENERGY",
+      "details": "22 · 514"
+    },
+    {
+      "id": 110,
+      "year": 2016,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Comprehensive Study on Critical Role of Surface Oxygen Vacancies for 2DEG Formation and Annihilation in LaAlO3/SrTiO3 Heterointerfaces",
+      "authors": "Moon, SY; Moon, CW; Chang, HJ; Kim, T; Kang, CY; Choi, HJ; Kim, JS; Baek, SH; Jang, HW",
+      "journal": "ELECTRONIC MATERIALS LETTERS",
+      "volume": "12",
+      "pages": "243",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 97
+      },
+      "globalIndex": 110,
+      "indexByPi": {
+        "Baek": 97
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "ELECTRONIC MATERIALS LETTERS",
+      "details": "12 · 243"
+    },
+    {
+      "id": 109,
+      "year": 2016,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Thickness-Dependent Electrocaloric Effect in Pb0.9La0.1Zr0.65Ti0.35O3 Films Grown by Sol-Gel Process",
+      "authors": "Roh, IJ; Kwon, B; Baek, SH; Kim, SK; Kim, JS; Kang, CY",
+      "journal": "JOURNAL OF ELECTRONIC MATERIALS",
+      "volume": "45",
+      "pages": "1057",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 96
+      },
+      "globalIndex": 109,
+      "indexByPi": {
+        "Baek": 96
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "JOURNAL OF ELECTRONIC MATERIALS",
+      "details": "45 · 1057"
+    },
+    {
+      "id": 108,
+      "year": 2016,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Thermal stability of 2DEG at amorphous LaAlO3/crystalline SrTiO3 heterointerfaces",
+      "authors": "Moon, SY; Moon, CW; Chang, HJ; Kim, T; Kang, CY; Choi, HJ; Kim, JS; Baek, SH; Jang, HW",
+      "journal": "NANO CONVERGENCE",
+      "volume": "3",
+      "pages": "7",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 95
+      },
+      "globalIndex": 108,
+      "indexByPi": {
+        "Baek": 95
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "NANO CONVERGENCE",
+      "details": "3 · 7"
+    },
+    {
+      "id": 107,
+      "year": 2016,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Wafer-scale growth of MoS2 thin films by atomic layer deposition",
+      "authors": "Pyeon, JJ; Kim, SH; Jeong, DS; Baek, SH; Kang, CY; Kim, JS; Kim, SK",
+      "journal": "NANOSCALE",
+      "volume": "8",
+      "pages": "10792",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 94
+      },
+      "globalIndex": 107,
+      "indexByPi": {
+        "Baek": 94
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "NANOSCALE",
+      "details": "8 · 10792"
+    },
+    {
+      "id": 106,
+      "year": 2016,
+      "pi": [
+        "Kim"
+      ],
+      "title": "Polar metals by geometric design",
+      "authors": "T. H. Kim (First author), D. Puggioni, Y. Yuan, L. Xie, H. Zhou, N. Campbell, P. J. Ryan, Y. Choi, J.-W. Kim, J. R. Patzner, S. Ryu, J. P. Podkaminer, J. Irwin, Y. Ma, C. J. Fennie, M. S. Rzchowski, X. Q. Pan, V. Gopalan, J. M. Rondinelli, and C. B. Eom",
+      "journal": "Nature",
+      "volume": "533",
+      "pages": "68",
+      "doi": "",
+      "notes": [
+        "This work was introduced in the same issue of Nature News & Views."
+      ],
+      "featured": false,
+      "sourceIds": {
+        "Kim": 22
+      },
+      "globalIndex": 106,
+      "indexByPi": {
+        "Kim": 22
+      },
+      "piAuthors": [
+        "Kim"
+      ],
+      "venue": "Nature",
+      "details": "533 · 68"
+    },
+    {
+      "id": 105,
+      "year": 2016,
+      "pi": [
+        "Kim"
+      ],
+      "title": "Imprint Control of BaTiO3 Thin Films via Chemically Induced Surface Polarization Pinning",
+      "authors": "Hyungwoo Lee, Tae Heon Kim (co-author), Jacob R. Patzner, Haidong Lu, Jung-Woo Lee, Hua Zhou, Wansoo Chang, Mahesh K. Mahanthappa, Evgeny Y. Tsymbal, Alexei Gruverman, and Chang-Beom Eom",
+      "journal": "Nano Lett.",
+      "volume": "16",
+      "pages": "2400",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Kim": 21
+      },
+      "globalIndex": 105,
+      "indexByPi": {
+        "Kim": 21
+      },
+      "piAuthors": [
+        "Kim"
+      ],
+      "venue": "Nano Lett.",
+      "details": "16 · 2400"
+    },
+    {
+      "id": 104,
+      "year": 2016,
+      "pi": [
+        "Kim"
+      ],
+      "title": "Visualization of dielectric constant-electric field-temperature phase maps for imprinted relaxor ferroelectric thin films",
+      "authors": "J. C. Frederick, T. H. Kim (co-author), W. Maeng, A. A. Brewer, J. P. Podkaminer, W. Saenrang, V. Vaithyanathan, F. Li, L.-Q. Chen, D. G. Schlom, S. Trolier-McKinstry, M. S. Rzchowski, and C. B. Eom",
+      "journal": "Appl. Phys. Lett.",
+      "volume": "108",
+      "pages": "132902",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Kim": 20
+      },
+      "globalIndex": 104,
+      "indexByPi": {
+        "Kim": 20
+      },
+      "piAuthors": [
+        "Kim"
+      ],
+      "venue": "Appl. Phys. Lett.",
+      "details": "108 · 132902"
+    },
+    {
+      "id": 103,
+      "year": 2015,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Conductance Change Induced by the Rashba Effect in the LaAlO3/SrTiO3 Interface",
+      "authors": "Kim, T; Kim, SI; Baek, SH; Hong, J; Koo, HC",
+      "journal": "JOURNAL OF NANOSCIENCE AND NANOTECHNOLOGY",
+      "volume": "15",
+      "pages": "8632",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 93
+      },
+      "globalIndex": 103,
+      "indexByPi": {
+        "Baek": 93
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "JOURNAL OF NANOSCIENCE AND NANOTECHNOLOGY",
+      "details": "15 · 8632"
+    },
+    {
+      "id": 102,
+      "year": 2015,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Sn doping in thermoelectric Bi2Te3 films by metal-organic chemical vapor deposition",
+      "authors": "Kim, KC; Kwon, B; Kim, HJ; Baek, SH; Hyun, DB; Kim, SK; Kim, JS",
+      "journal": "APPLIED SURFACE SCIENCE",
+      "volume": "353",
+      "pages": "232",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 92
+      },
+      "globalIndex": 102,
+      "indexByPi": {
+        "Baek": 92
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "APPLIED SURFACE SCIENCE",
+      "details": "353 · 232"
+    },
+    {
+      "id": 101,
+      "year": 2015,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Growth Enhancement and Nitrogen Loss in ZnOxNy Low-Temperature Atomic Layer Deposition with NH3",
+      "authors": "Kim, SH; Pyeon, JJ; Lee, WC; Jeong, DS; Baek, SH; Kim, JS; Kim, SK",
+      "journal": "JOURNAL OF PHYSICAL CHEMISTRY C",
+      "volume": "119",
+      "pages": "23470",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 91
+      },
+      "globalIndex": 101,
+      "indexByPi": {
+        "Baek": 91
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "JOURNAL OF PHYSICAL CHEMISTRY C",
+      "details": "119 · 23470"
+    },
+    {
+      "id": 100,
+      "year": 2015,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Orientation-Controlled Growth of Pt Films on SrTiO3 (001) by Atomic Layer Deposition",
+      "authors": "Pyeon, JJ; Kang, JY; Baek, SH; Kang, CY; Kim, JS; Jeong, DS; Kim, SK",
+      "journal": "CHEMISTRY OF MATERIALS",
+      "volume": "27",
+      "pages": "6779",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 90
+      },
+      "globalIndex": 100,
+      "indexByPi": {
+        "Baek": 90
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "CHEMISTRY OF MATERIALS",
+      "details": "27 · 6779"
+    },
+    {
+      "id": 99,
+      "year": 2015,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Hardening of Bi-Te based alloys by dispersing B4C nanoparticles",
+      "authors": "Jung, SJ; Park, SY; Kim, BK; Kwon, B; Kim, SK; Park, HH; Kim, DI; Kim, JY; Hyun, DB; Kim, JS; Baek, SH",
+      "journal": "ACTA MATERIALIA",
+      "volume": "97",
+      "pages": "68",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 89
+      },
+      "globalIndex": 99,
+      "indexByPi": {
+        "Baek": 89
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "ACTA MATERIALIA",
+      "details": "97 · 68"
+    },
+    {
+      "id": 98,
+      "year": 2015,
+      "pi": [
+        "Baek"
+      ],
+      "title": "A differential method for measuring cooling performance of a thermoelectric module",
+      "authors": "Kwon, B; Baek, SH; Kim, SK; Hyun, DB; Kim, JS",
+      "journal": "APPLIED THERMAL ENGINEERING",
+      "volume": "87",
+      "pages": "209",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 88
+      },
+      "globalIndex": 98,
+      "indexByPi": {
+        "Baek": 88
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "APPLIED THERMAL ENGINEERING",
+      "details": "87 · 209"
+    },
+    {
+      "id": 97,
+      "year": 2015,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Control of the initial growth in atomic layer deposition of Pt films by surface pretreatment",
+      "authors": "Pyeon, JJ; Cho, CJ; Baek, SH; Kang, CY; Kim, JS; Jeong, DS; Kim, SK",
+      "journal": "NANOTECHNOLOGY",
+      "volume": "26",
+      "pages": "304003",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 87
+      },
+      "globalIndex": 97,
+      "indexByPi": {
+        "Baek": 87
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "NANOTECHNOLOGY",
+      "details": "26 · 304003"
+    },
+    {
+      "id": 96,
+      "year": 2015,
+      "pi": [
+        "Baek",
+        "Kim"
+      ],
+      "title": "Energy landscape scheme for an intuitive understanding of complex domain dynamics in ferroelectric thin films",
+      "authors": "Kim, TH; Yoon, JG; Baek, SH; Park, WK; Yang, SM; Jang, SY; Min, T; Chung, JS; Eom, CB; Noh, TW",
+      "journal": "SCIENTIFIC REPORTS",
+      "volume": "5",
+      "pages": "11625",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 86,
+        "Kim": 19
+      },
+      "globalIndex": 96,
+      "indexByPi": {
+        "Baek": 86,
+        "Kim": 19
+      },
+      "piAuthors": [
+        "Baek",
+        "Kim"
+      ],
+      "venue": "SCIENTIFIC REPORTS",
+      "details": "5 · 11625"
+    },
+    {
+      "id": 95,
+      "year": 2015,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Impedance-based interfacial analysis of the LaAlO3/SrTiO3 oxide heterostructure involving a 2-dimensional electron gas layer",
+      "authors": "Park, CR; Kim, SI; Moon, SY; You, YH; Seo, JH; Baek, SH; Kim, SK; Kang, CY; Kim, JS; Hwang, JH",
+      "journal": "JOURNAL OF PHYSICS AND CHEMISTRY OF SOLIDS",
+      "volume": "82",
+      "pages": "60",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 85
+      },
+      "globalIndex": 95,
+      "indexByPi": {
+        "Baek": 85
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "JOURNAL OF PHYSICS AND CHEMISTRY OF SOLIDS",
+      "details": "82 · 60"
+    },
+    {
+      "id": 94,
+      "year": 2015,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Thermoelectric Properties of Sn-Doped Bi0.4Sb1.6Te3 Thin Films",
+      "authors": "Kim, KC; Kwon, B; Kim, HJ; Baek, SH; Park, C; Kim, SK; Kim, JS",
+      "journal": "JOURNAL OF ELECTRONIC MATERIALS",
+      "volume": "44",
+      "pages": "1573",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 84
+      },
+      "globalIndex": 94,
+      "indexByPi": {
+        "Baek": 84
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "JOURNAL OF ELECTRONIC MATERIALS",
+      "details": "44 · 1573"
+    },
+    {
+      "id": 93,
+      "year": 2015,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Effect of Sn Doping on the Thermoelectric Properties of n-type Bi2(Te, Se)3 Alloys",
+      "authors": "Lee, JU; Lee, DH; Kwon, B; Hyun, DB; Nahm, S; Baek, SH; Kim, JS",
+      "journal": "JOURNAL OF ELECTRONIC MATERIALS",
+      "volume": "44",
+      "pages": "1926",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 83
+      },
+      "globalIndex": 93,
+      "indexByPi": {
+        "Baek": 83
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "JOURNAL OF ELECTRONIC MATERIALS",
+      "details": "44 · 1926"
+    },
+    {
+      "id": 92,
+      "year": 2015,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Giant Electroresistive Ferroelectric Diode on 2DEG",
+      "authors": "Kim, SI; Gwon, HJ; Kim, DH; Kim, SK; Choi, JW; Yoon, SJ; Chang, HJ; Kang, CY; Kwon, B; Bark, CW; Hong, SH; Kim, JS; Baek, SH",
+      "journal": "SCIENTIFIC REPORTS",
+      "volume": "5",
+      "pages": "10548",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 82
+      },
+      "globalIndex": 92,
+      "indexByPi": {
+        "Baek": 82
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "SCIENTIFIC REPORTS",
+      "details": "5 · 10548"
+    },
+    {
+      "id": 91,
+      "year": 2015,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Enhanced piezoelectric properties of vertically aligned single-crystalline NKN nano-rod arrays",
+      "authors": "Kang, MG; Oh, SM; Jung, WS; Moon, HG; Baek, SH; Nahm, S; Yoon, SJ; Kang, CY",
+      "journal": "SCIENTIFIC REPORTS",
+      "volume": "5",
+      "pages": "10151",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 81
+      },
+      "globalIndex": 91,
+      "indexByPi": {
+        "Baek": 81
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "SCIENTIFIC REPORTS",
+      "details": "5 · 10151"
+    },
+    {
+      "id": 90,
+      "year": 2015,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Powerful curved piezoelectric generator for wearable applications",
+      "authors": "Jung, WS; Lee, MJ; Kang, MG; Moon, HG; Yoon, SJ; Baek, SH; Kang, CY",
+      "journal": "NANO ENERGY",
+      "volume": "13",
+      "pages": "174",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 80
+      },
+      "globalIndex": 90,
+      "indexByPi": {
+        "Baek": 80
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "NANO ENERGY",
+      "details": "13 · 174"
+    },
+    {
+      "id": 89,
+      "year": 2015,
+      "pi": [
+        "Baek"
+      ],
+      "title": "High Output Piezo/Triboelectric Hybrid Generator",
+      "authors": "Jung, WS; Kang, MG; Moon, HG; Baek, SH; Yoon, SJ; Wang, ZL; Kim, SW; Kang, CY",
+      "journal": "SCIENTIFIC REPORTS",
+      "volume": "5",
+      "pages": "9309",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 79
+      },
+      "globalIndex": 89,
+      "indexByPi": {
+        "Baek": 79
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "SCIENTIFIC REPORTS",
+      "details": "5 · 9309"
+    },
+    {
+      "id": 88,
+      "year": 2015,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Symmetry-dependent interfacial reconstruction to compensate polar discontinuity at perovskite oxide interfaces (LaAlO3/SrTiO3 and LaAlO3/CaTiO3)",
+      "authors": "Lee, J; Choi, JK; Moon, SY; Park, J; Kim, JS; Hwang, CS; Baek, SH; Choi, JH; Chang, HJ",
+      "journal": "APPLIED PHYSICS LETTERS",
+      "volume": "106",
+      "pages": "71601",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 78
+      },
+      "globalIndex": 88,
+      "indexByPi": {
+        "Baek": 78
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "APPLIED PHYSICS LETTERS",
+      "details": "106 · 71601"
+    },
+    {
+      "id": 87,
+      "year": 2015,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Electric-field-induced Shift in the Threshold Voltage in LaAlO3/SrTiO3 Heterostructures",
+      "authors": "Kim, SK; Kim, SI; Lim, H; Jeong, DS; Kwon, B; Baek, SH; Kim, JS",
+      "journal": "SCIENTIFIC REPORTS",
+      "volume": "5",
+      "pages": "8023",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 77
+      },
+      "globalIndex": 87,
+      "indexByPi": {
+        "Baek": 77
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "SCIENTIFIC REPORTS",
+      "details": "5 · 8023"
+    },
+    {
+      "id": 86,
+      "year": 2014,
+      "pi": [
+        "Baek"
+      ],
+      "title": "SnO2 thin films grown by atomic layer deposition using a novel Sn precursor",
+      "authors": "Choi, MJ; Cho, CJ; Kim, KC; Pyeon, JJ; Park, HH; Kim, HS; Han, JH; Kim, CG; Chung, TM; Park, TJ; Kwon, B; Jeong, DS; Baek, SH; Kang, CY; Kim, JS; Kim, SK",
+      "journal": "APPLIED SURFACE SCIENCE",
+      "volume": "320",
+      "pages": "188",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 76
+      },
+      "globalIndex": 86,
+      "indexByPi": {
+        "Baek": 76
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "APPLIED SURFACE SCIENCE",
+      "details": "320 · 188"
+    },
+    {
+      "id": 85,
+      "year": 2014,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Enhancement of Initial Growth of ZnO Films on Layer-Structured Bi2Te3 by Atomic Layer Deposition",
+      "authors": "Kim, KC; Cho, CJ; Lee, J; Kim, HJ; Jeong, DS; Baek, SH; Kim, JS; Kim, SK",
+      "journal": "CHEMISTRY OF MATERIALS",
+      "volume": "26",
+      "pages": "6448",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 75
+      },
+      "globalIndex": 85,
+      "indexByPi": {
+        "Baek": 75
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "CHEMISTRY OF MATERIALS",
+      "details": "26 · 6448"
+    },
+    {
+      "id": 84,
+      "year": 2014,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Nonvolatile Resistance Switching on Two-Dimensional Electron Gas",
+      "authors": "Joung, JG; Kim, SI; Moon, SY; Kim, DH; Gwon, HJ; Hong, SH; Chang, HJ; Hwang, JH; Kwon, BJ; Kim, SK; Choi, JW; Yoon, SJ; Kang, CY; Yoo, KS; Kim, JS; Baek, SH",
+      "journal": "ACS APPLIED MATERIALS & INTERFACES",
+      "volume": "6",
+      "pages": "17785",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 74
+      },
+      "globalIndex": 84,
+      "indexByPi": {
+        "Baek": 74
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "ACS APPLIED MATERIALS & INTERFACES",
+      "details": "6 · 17785"
+    },
+    {
+      "id": 83,
+      "year": 2014,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Full Range Dielectric Characteristics of Calcium Copper Titanate Thin Films Prepared by Continuous Composition-Spread Sputtering",
+      "authors": "Kang, HM; Baek, SH; Song, JH; Cho, YS; Choi, JW",
+      "journal": "ACS COMBINATORIAL SCIENCE",
+      "volume": "16",
+      "pages": "478",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 73
+      },
+      "globalIndex": 83,
+      "indexByPi": {
+        "Baek": 73
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "ACS COMBINATORIAL SCIENCE",
+      "details": "16 · 478"
+    },
+    {
+      "id": 82,
+      "year": 2014,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Influence of Gas Ambient on Charge Writing at the LaAlO3/SrTiO3 Heterointerface",
+      "authors": "Kim, H; Moon, SY; Kim, SI; Baek, SH; Jang, HW; Kim, DW",
+      "journal": "ACS APPLIED MATERIALS & INTERFACES",
+      "volume": "6",
+      "pages": "14037",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 72
+      },
+      "globalIndex": 82,
+      "indexByPi": {
+        "Baek": 72
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "ACS APPLIED MATERIALS & INTERFACES",
+      "details": "6 · 14037"
+    },
+    {
+      "id": 81,
+      "year": 2014,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Thermoelectric Properties of Highly Deformed and Subsequently Annealed p-Type (Bi0.25Sb0.75)2Te3 Alloys",
+      "authors": "Jung, SJ; Kim, S; Park, HH; Hyun, DB; Baek, SH; Kim, JS",
+      "journal": "JOURNAL OF ELECTRONIC MATERIALS",
+      "volume": "43",
+      "pages": "1726",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 71
+      },
+      "globalIndex": 81,
+      "indexByPi": {
+        "Baek": 71
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "JOURNAL OF ELECTRONIC MATERIALS",
+      "details": "43 · 1726"
+    },
+    {
+      "id": 80,
+      "year": 2014,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Thermopower Enhancement of Bi2Te3 Films by Doping I Ions",
+      "authors": "Kim, KC; Baek, SH; Kim, HJ; Hyun, DB; Kim, SK; Kim, JS",
+      "journal": "JOURNAL OF ELECTRONIC MATERIALS",
+      "volume": "43",
+      "pages": "2000",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 70
+      },
+      "globalIndex": 80,
+      "indexByPi": {
+        "Baek": 70
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "JOURNAL OF ELECTRONIC MATERIALS",
+      "details": "43 · 2000"
+    },
+    {
+      "id": 79,
+      "year": 2014,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Effect of Heat Treatment on the Thermoelectric Properties of Bismuth-Antimony-Telluride Prepared by Mechanical Deformation and Mechanical Alloying",
+      "authors": "Lee, DH; Lee, JU; Jung, SJ; Baek, SH; Kim, JH; Kim, DI; Hyun, DB; Kim, JS",
+      "journal": "JOURNAL OF ELECTRONIC MATERIALS",
+      "volume": "43",
+      "pages": "2255",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 69
+      },
+      "globalIndex": 79,
+      "indexByPi": {
+        "Baek": 69
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "JOURNAL OF ELECTRONIC MATERIALS",
+      "details": "43 · 2255"
+    },
+    {
+      "id": 78,
+      "year": 2014,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Dynamic temperature response of electrocaloric multilayer capacitors",
+      "authors": "Kwon, B; Roh, IJ; Baek, SH; Kim, SK; Kim, JS; Kang, CY",
+      "journal": "APPLIED PHYSICS LETTERS",
+      "volume": "104",
+      "pages": "213902",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 68
+      },
+      "globalIndex": 78,
+      "indexByPi": {
+        "Baek": 68
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "APPLIED PHYSICS LETTERS",
+      "details": "104 · 213902"
+    },
+    {
+      "id": 77,
+      "year": 2014,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Ferroelastic domain switching dynamics under electrical and mechanical excitations",
+      "authors": "Gao, P; Britson, J; Nelson, CT; Jokisaari, JR; Duan, C; Trassin, M; Baek, SH; Guo, H; Li, LZ; Wang, YR; Chu, YH; Minor, AM; Eom, CB; Ramesh, R; Chen, LQ; Pan, XQ",
+      "journal": "NATURE COMMUNICATIONS",
+      "volume": "5",
+      "pages": "3801",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 67
+      },
+      "globalIndex": 77,
+      "indexByPi": {
+        "Baek": 67
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "NATURE COMMUNICATIONS",
+      "details": "5 · 3801"
+    },
+    {
+      "id": 76,
+      "year": 2014,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Impact of parasitic thermal effects on thermoelectric property measurements by Harman method",
+      "authors": "Kwon, B; Baek, SH; Kim, SK; Kim, JS",
+      "journal": "REVIEW OF SCIENTIFIC INSTRUMENTS",
+      "volume": "85",
+      "pages": "45108",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 66
+      },
+      "globalIndex": 76,
+      "indexByPi": {
+        "Baek": 66
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "REVIEW OF SCIENTIFIC INSTRUMENTS",
+      "details": "85 · 45108"
+    },
+    {
+      "id": 75,
+      "year": 2014,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Tailoring the domain structure of epitaxial BiFeO3 thin films",
+      "authors": "Giencke, JE; Folkman, CM; Baek, SH; Eom, CB",
+      "journal": "CURRENT OPINION IN SOLID STATE & MATERIALS SCIENCE",
+      "volume": "18",
+      "pages": "39",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 65
+      },
+      "globalIndex": 75,
+      "indexByPi": {
+        "Baek": 65
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "CURRENT OPINION IN SOLID STATE & MATERIALS SCIENCE",
+      "details": "18 · 39"
+    },
+    {
+      "id": 74,
+      "year": 2014,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Strain-assisted, low-temperature synthesis of high-performance thermoelectric materials",
+      "authors": "Jung, SJ; Kim, JH; Kim, DI; Kim, SK; Park, HH; Kim, JS; Hyun, DB; Baek, SH",
+      "journal": "PHYSICAL CHEMISTRY CHEMICAL PHYSICS",
+      "volume": "16",
+      "pages": "3529",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 64
+      },
+      "globalIndex": 74,
+      "indexByPi": {
+        "Baek": 64
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "PHYSICAL CHEMISTRY CHEMICAL PHYSICS",
+      "details": "16 · 3529"
+    },
+    {
+      "id": 73,
+      "year": 2014,
+      "pi": [
+        "Kim"
+      ],
+      "title": "Observation of ferroelectricity induced by defect dipoles in the strain-free epitaxial CaTiO3 thin film",
+      "authors": "S. M. Yang, S. J. Moon, T. H. Kim (co-author), and Y. S. Kim",
+      "journal": "Curr. Appl. Phys.",
+      "volume": "14",
+      "pages": "757",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Kim": 18
+      },
+      "globalIndex": 73,
+      "indexByPi": {
+        "Kim": 18
+      },
+      "piAuthors": [
+        "Kim"
+      ],
+      "venue": "Curr. Appl. Phys.",
+      "details": "14 · 757"
+    },
+    {
+      "id": 72,
+      "year": 2013,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Atomic-scale mechanisms of ferroelastic domain-wall-mediated ferroelectric switching",
+      "authors": "Gao, P; Britson, J; Jokisaari, JR; Nelson, CT; Baek, SH; Wang, YR; Eom, CB; Chen, LQ; Pan, XQ",
+      "journal": "NATURE COMMUNICATIONS",
+      "volume": "4",
+      "pages": "2791",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 63
+      },
+      "globalIndex": 72,
+      "indexByPi": {
+        "Baek": 63
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "NATURE COMMUNICATIONS",
+      "details": "4 · 2791"
+    },
+    {
+      "id": 71,
+      "year": 2013,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Measurement of shorter-than-skin-depth acoustic pulses in a metal film via transient reflectivity",
+      "authors": "Manke, KJ; Maznev, AA; Klieber, C; Shalagatskyi, V; Temnov, VV; Makarov, D; Baek, SH; Eom, CB; Nelson, KA",
+      "journal": "APPLIED PHYSICS LETTERS",
+      "volume": "103",
+      "pages": "173104",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 62
+      },
+      "globalIndex": 71,
+      "indexByPi": {
+        "Baek": 62
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "APPLIED PHYSICS LETTERS",
+      "details": "103 · 173104"
+    },
+    {
+      "id": 70,
+      "year": 2013,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Non-Volatile Control of 2DEG Conductivity at Oxide Interfaces",
+      "authors": "Kim, SI; Kim, DH; Kim, Y; Moon, SY; Kang, MG; Choi, JK; Jang, HW; Kim, SK; Choi, JW; Yoon, SJ; Chang, HJ; Kang, CY; Lee, S; Hong, SH; Kim, JS; Baek, SH",
+      "journal": "ADVANCED MATERIALS",
+      "volume": "25",
+      "pages": "4612",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 61
+      },
+      "globalIndex": 70,
+      "indexByPi": {
+        "Baek": 61
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "ADVANCED MATERIALS",
+      "details": "25 · 4612"
+    },
+    {
+      "id": 69,
+      "year": 2013,
+      "pi": [
+        "Baek",
+        "Kim"
+      ],
+      "title": "Creation of a two-dimensional electron gas and conductivity switching of nanowires at the LaAlO3/SrTiO3 interface grown by 90 degrees off-axis sputtering",
+      "authors": "J. P. Podkaminer, T. Hernandez, M. Huang, S. Ryu, C. W. Bark, S. H. Baek, J. C. Frederick, T. H. Kim (co-author), K.-H. Cho, J. Levy, M. S. Rzchowski, and C.-B. Eom",
+      "journal": "Appl. Phys. Lett.",
+      "volume": "103",
+      "pages": "071604",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 60,
+        "Kim": 17
+      },
+      "globalIndex": 69,
+      "indexByPi": {
+        "Baek": 60,
+        "Kim": 17
+      },
+      "piAuthors": [
+        "Baek",
+        "Kim"
+      ],
+      "venue": "Appl. Phys. Lett.",
+      "details": "103 · 071604"
+    },
+    {
+      "id": 68,
+      "year": 2013,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Composition-Dependent Thermoelectric Properties of n-Type Bi2Te2.7Se0.3 Doped with In4Se3",
+      "authors": "Yim, JH; Baek, SH; Shin, HY; Hyun, DB; Kim, JS",
+      "journal": "JOURNAL OF ELECTRONIC MATERIALS",
+      "volume": "42",
+      "pages": "2178",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 59
+      },
+      "globalIndex": 68,
+      "indexByPi": {
+        "Baek": 59
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "JOURNAL OF ELECTRONIC MATERIALS",
+      "details": "42 · 2178"
+    },
+    {
+      "id": 67,
+      "year": 2013,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Temperature Evolution of Itinerant Ferromagnetism in SrRuO3 Probed by Optical Spectroscopy",
+      "authors": "Jeong, DW; Choi, HC; Kim, CH; Chang, SH; Sohn, CH; Park, HJ; Kang, TD; Cho, DY; Baek, SH; Eom, CB; Shim, JH; Yu, J; Kim, KW; Moon, SJ; Noh, TW",
+      "journal": "PHYSICAL REVIEW LETTERS",
+      "volume": "110",
+      "pages": "247202",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 58
+      },
+      "globalIndex": 67,
+      "indexByPi": {
+        "Baek": 58
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "PHYSICAL REVIEW LETTERS",
+      "details": "110 · 247202"
+    },
+    {
+      "id": 66,
+      "year": 2013,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Epitaxial integration of perovskite-based multifunctional oxides on silicon",
+      "authors": "Baek, SH; Eom, CB",
+      "journal": "ACTA MATERIALIA",
+      "volume": "61",
+      "pages": "2734",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 57
+      },
+      "globalIndex": 66,
+      "indexByPi": {
+        "Baek": 57
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "ACTA MATERIALIA",
+      "details": "61 · 2734"
+    },
+    {
+      "id": 65,
+      "year": 2013,
+      "pi": [
+        "Baek"
+      ],
+      "title": "A Special Section on Selected Peer-Reviewed Articles from the International Conference on Advanced Electromaterials 2011 (ICAE2011)",
+      "authors": "Kim, S; Jang, HW; Lee, JH; Baik, JM; Cheon-Lee; Lee, GW; Cho, HK; Choi, JW; Kim, JK; Song, MH; Baek, SH; Kim, SK; Kim, SY; Park, WI; Yoon, WS; Cho, JH; Ko, H; Kim, J; Jeong, DS; Ku, BC; Yoon, SG",
+      "journal": "JOURNAL OF NANOSCIENCE AND NANOTECHNOLOGY",
+      "volume": "13",
+      "pages": "3254",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 56
+      },
+      "globalIndex": 65,
+      "indexByPi": {
+        "Baek": 56
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "JOURNAL OF NANOSCIENCE AND NANOTECHNOLOGY",
+      "details": "13 · 3254"
+    },
+    {
+      "id": 64,
+      "year": 2013,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Capacitance-voltage analysis of LaAlO3/SrTiO3 heterostructures",
+      "authors": "Kim, SK; Kim, SI; Hwang, JH; Kim, JS; Baek, SH",
+      "journal": "APPLIED PHYSICS LETTERS",
+      "volume": "102",
+      "pages": "112906",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 55
+      },
+      "globalIndex": 64,
+      "indexByPi": {
+        "Baek": 55
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "APPLIED PHYSICS LETTERS",
+      "details": "102 · 112906"
+    },
+    {
+      "id": 63,
+      "year": 2013,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Tunable conductivity at LaAlO3/SrxCa1-xTiO3 (0 ??x ??1) heterointerfaces",
+      "authors": "Moon, SY; Kim, DH; Chang, HJ; Choi, JK; Kang, CY; Choi, HJ; Hong, SH; Baek, SH; Kim, JS; Jang, HW",
+      "journal": "APPLIED PHYSICS LETTERS",
+      "volume": "102",
+      "pages": "12903",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 54
+      },
+      "globalIndex": 63,
+      "indexByPi": {
+        "Baek": 54
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "APPLIED PHYSICS LETTERS",
+      "details": "102 · 12903"
+    },
+    {
+      "id": 62,
+      "year": 2013,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Effect of Mechanical Deformation on Thermoelectric Properties of p-Type (Bi0.225Sb0.775)2Te3 Alloys",
+      "authors": "Jung, SJ; Kim, SK; Park, HH; Hyun, DB; Baek, SH; Kim, JS",
+      "journal": "JOURNAL OF NANOMATERIALS",
+      "volume": "2013",
+      "pages": "868540",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 53
+      },
+      "globalIndex": 62,
+      "indexByPi": {
+        "Baek": 53
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "JOURNAL OF NANOMATERIALS",
+      "details": "2013 · 868540"
+    },
+    {
+      "id": 61,
+      "year": 2012,
+      "pi": [
+        "Baek",
+        "Kim"
+      ],
+      "title": "Active Control of Ferroelectric Switching Using Defect-Dipole Engineering",
+      "authors": "Lee, D; Jeon, BC; Baek, SH; Yang, SM; Shin, YJ; Kim, TH; Kim, YS; Yoon, JG; Eom, CB; Noh, TW",
+      "journal": "ADVANCED MATERIALS",
+      "volume": "24",
+      "pages": "6490",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 52,
+        "Kim": 16
+      },
+      "globalIndex": 61,
+      "indexByPi": {
+        "Baek": 52,
+        "Kim": 16
+      },
+      "piAuthors": [
+        "Baek",
+        "Kim"
+      ],
+      "venue": "ADVANCED MATERIALS",
+      "details": "24 · 6490"
+    },
+    {
+      "id": 60,
+      "year": 2012,
+      "pi": [
+        "Baek",
+        "Kim"
+      ],
+      "title": "Continuous Control of Charge Transport in Bi-Deficient BiFeO3 Films Through Local Ferroelectric Switching",
+      "authors": "Kim, TH; Jeon, BC; Min, T; Yang, SM; Lee, D; Kim, YS; Baek, SH; Saenrang, W; Eom, CB; Song, TK; Yoon, JG; Noh, TW",
+      "journal": "ADVANCED FUNCTIONAL MATERIALS",
+      "volume": "22",
+      "pages": "4962",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 51,
+        "Kim": 15
+      },
+      "globalIndex": 60,
+      "indexByPi": {
+        "Baek": 51,
+        "Kim": 15
+      },
+      "piAuthors": [
+        "Baek",
+        "Kim"
+      ],
+      "venue": "ADVANCED FUNCTIONAL MATERIALS",
+      "details": "22 · 4962"
+    },
+    {
+      "id": 59,
+      "year": 2012,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Epitaxial growth of CdTe films on GaAs-buffered (001) Si substrates by metal organic chemical vapor deposition",
+      "authors": "Kim, KC; Baek, SH; Choi, WC; Kim, HJ; Song, JD; Kim, JS",
+      "journal": "MATERIALS LETTERS",
+      "volume": "87",
+      "pages": "139",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 50
+      },
+      "globalIndex": 59,
+      "indexByPi": {
+        "Baek": 50
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "MATERIALS LETTERS",
+      "details": "87 · 139"
+    },
+    {
+      "id": 58,
+      "year": 2012,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Giant piezoelectricity in PMN-PT thin films: Beyond PZT",
+      "authors": "Baek, SH; Rzchowski, MS; Aksyuk, VA",
+      "journal": "MRS BULLETIN",
+      "volume": "37",
+      "pages": "1022",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 49
+      },
+      "globalIndex": 58,
+      "indexByPi": {
+        "Baek": 49
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "MRS BULLETIN",
+      "details": "37 · 1022"
+    },
+    {
+      "id": 57,
+      "year": 2012,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Reliable polarization switching of BiFeO3",
+      "authors": "Baek, SH; Eom, CB",
+      "journal": "PHILOSOPHICAL TRANSACTIONS OF THE ROYAL SOCIETY A-MATHEMATICAL PHYSICAL AND ENGINEERING SCIENCES",
+      "volume": "370",
+      "pages": "4872",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 48
+      },
+      "globalIndex": 57,
+      "indexByPi": {
+        "Baek": 48
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "PHILOSOPHICAL TRANSACTIONS OF THE ROYAL SOCIETY A-MATHEMATICAL PHYSICAL AND ENGINEERING SCIENCES",
+      "details": "370 · 4872"
+    },
+    {
+      "id": 56,
+      "year": 2012,
+      "pi": [
+        "Baek"
+      ],
+      "title": "A Structural Investigation of CdTe(001) Thin Films on GaAs/Si(001) Substrates by High-Resolution Electron Microscopy",
+      "authors": "Kim, KC; Baek, SH; Kim, HJ; Song, JD; Kim, JS",
+      "journal": "JOURNAL OF ELECTRONIC MATERIALS",
+      "volume": "41",
+      "pages": "2795",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 47
+      },
+      "globalIndex": 56,
+      "indexByPi": {
+        "Baek": 47
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "JOURNAL OF ELECTRONIC MATERIALS",
+      "details": "41 · 2795"
+    },
+    {
+      "id": 55,
+      "year": 2012,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Three-Dimensional Bi2Te3 Nanocrystallites Embedded in 2D Bi2Te3 Films Grown by MOCVD",
+      "authors": "You, H; Baek, SH; Kim, CK; Lyeo, HK; Park, C; Kim, JS",
+      "journal": "JOURNAL OF ELECTRONIC MATERIALS",
+      "volume": "41",
+      "pages": "1237",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 46
+      },
+      "globalIndex": 55,
+      "indexByPi": {
+        "Baek": 46
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "JOURNAL OF ELECTRONIC MATERIALS",
+      "details": "41 · 1237"
+    },
+    {
+      "id": 54,
+      "year": 2012,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Growth and thermoelectric properties of Bi2Te3 films deposited by modified MOCVD",
+      "authors": "You, H; Baek, SH; Kim, KC; Kwon, OJ; Kim, JS; Park, C",
+      "journal": "JOURNAL OF CRYSTAL GROWTH",
+      "volume": "346",
+      "pages": "17",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 45
+      },
+      "globalIndex": 54,
+      "indexByPi": {
+        "Baek": 45
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "JOURNAL OF CRYSTAL GROWTH",
+      "details": "346 · 17"
+    },
+    {
+      "id": 53,
+      "year": 2012,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Switchable Induced Polarization in LaAlO3/SrTiO3 Heterostructures",
+      "authors": "Bark, CW; Sharma, P; Wang, Y; Baek, SH; Lee, S; Ryu, S; Folkman, CM; Paudel, TR; Kumar, A; Kalinin, SV; Sokolov, A; Tsymbal, EY; Rzchowski, MS; Gruverman, A; Eom, CB",
+      "journal": "NANO LETTERS",
+      "volume": "12",
+      "pages": "1765",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 44
+      },
+      "globalIndex": 53,
+      "indexByPi": {
+        "Baek": 44
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "NANO LETTERS",
+      "details": "12 · 1765"
+    },
+    {
+      "id": 52,
+      "year": 2012,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Direct Observations of Retention Failure in Ferroelectric Memories",
+      "authors": "Gao, P; Nelson, CT; Jokisaari, JR; Zhang, Y; Baek, SH; Bark, CW; Wang, E; Liu, YM; Li, JY; Eom, CB; Pan, XQ",
+      "journal": "ADVANCED MATERIALS",
+      "volume": "24",
+      "pages": "1106",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 43
+      },
+      "globalIndex": 52,
+      "indexByPi": {
+        "Baek": 43
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "ADVANCED MATERIALS",
+      "details": "24 · 1106"
+    },
+    {
+      "id": 51,
+      "year": 2012,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Nonlinearity in the high-electric-field piezoelectricity of epitaxial BiFeO3 on SrTiO3",
+      "authors": "Chen, P; Sichel-Tissot, RJ; Jo, J; Smith, RT; Baek, SH; Saenrang, W; Eom, CB; Sakata, O; Dufresne, EM; Evans, PG",
+      "journal": "APPLIED PHYSICS LETTERS",
+      "volume": "100",
+      "pages": "62906",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 42
+      },
+      "globalIndex": 51,
+      "indexByPi": {
+        "Baek": 42
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "APPLIED PHYSICS LETTERS",
+      "details": "100 · 62906"
+    },
+    {
+      "id": 50,
+      "year": 2012,
+      "pi": [
+        "Baek",
+        "Kim"
+      ],
+      "title": "Multilevel Data Storage Memory Using Deterministic Polarization Control",
+      "authors": "Lee, D; Yang, SM; Kim, TH; Jeon, BC; Kim, YS; Yoon, JG; Lee, HN; Baek, SH; Eom, CB; Noh, TW",
+      "journal": "ADVANCED MATERIALS",
+      "volume": "24",
+      "pages": "402",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 41,
+        "Kim": 13
+      },
+      "globalIndex": 50,
+      "indexByPi": {
+        "Baek": 41,
+        "Kim": 13
+      },
+      "piAuthors": [
+        "Baek",
+        "Kim"
+      ],
+      "venue": "ADVANCED MATERIALS",
+      "details": "24 · 402"
+    },
+    {
+      "id": 49,
+      "year": 2012,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Detection of Shorter-Than-Skin-Depth Acoustic Pulses in a Metal Film via Transient Reflectivity",
+      "authors": "Manke, KJ; Maznev, AA; Klieber, C; Temnov, VV; Makarov, D; Baek, SH; Eom, CB; Nelson, KA",
+      "journal": "PHONONS 2012: XIV INTERNATIONAL CONFERENCE ON PHONON SCATTERING IN CONDENSED MATTER",
+      "volume": "1506",
+      "pages": "22",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 40
+      },
+      "globalIndex": 49,
+      "indexByPi": {
+        "Baek": 40
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "PHONONS 2012: XIV INTERNATIONAL CONFERENCE ON PHONON SCATTERING IN CONDENSED MATTER",
+      "details": "1506 · 22"
+    },
+    {
+      "id": 48,
+      "year": 2012,
+      "pi": [
+        "Kim"
+      ],
+      "title": "Nanoscale Observation of Time-Dependent Domain Wall Pinning as the Origin of Polarization Fatigue",
+      "authors": "S. M. Yang, T. H. Kim (co-author), J.-G. Yoon, and T. W. Noh",
+      "journal": "Adv. Funct. Mater.",
+      "volume": "22",
+      "pages": "2310",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Kim": 14
+      },
+      "globalIndex": 48,
+      "indexByPi": {
+        "Kim": 14
+      },
+      "piAuthors": [
+        "Kim"
+      ],
+      "venue": "Adv. Funct. Mater.",
+      "details": "22 · 2310"
+    },
+    {
+      "id": 47,
+      "year": 2012,
+      "pi": [
+        "Kim"
+      ],
+      "title": "Inhomogeneous Nucleation and Domain Wall Motion with Barkhausen Avalanches in Epitaxial PbZr0.4Ti0.6O3 Thin Films",
+      "authors": "Sang Mo Yang, Hun-Ho Kim, Tae Heon Kim (co-author), Ik Joo Kim, and Jong-Gul Yoon",
+      "journal": "J. Korean Phys. Soc.",
+      "volume": "60",
+      "pages": "249",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Kim": 12
+      },
+      "globalIndex": 47,
+      "indexByPi": {
+        "Kim": 12
+      },
+      "piAuthors": [
+        "Kim"
+      ],
+      "venue": "J. Korean Phys. Soc.",
+      "details": "60 · 249"
+    },
+    {
+      "id": 46,
+      "year": 2011,
+      "pi": [
+        "Baek"
+      ],
+      "title": "X-ray nanodiffraction of tilted domains in a poled epitaxial BiFeO3 thin film",
+      "authors": "Hruszkewycz, SO; Folkman, CM; Highland, MJ; Holt, MV; Baek, SH; Streiffer, SK; Baldo, P; Eom, CB; Fuoss, PH",
+      "journal": "APPLIED PHYSICS LETTERS",
+      "volume": "99",
+      "pages": "232903",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 39
+      },
+      "globalIndex": 46,
+      "indexByPi": {
+        "Baek": 39
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "APPLIED PHYSICS LETTERS",
+      "details": "99 · 232903"
+    },
+    {
+      "id": 45,
+      "year": 2011,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Revealing the role of defects in ferroelectric switching with atomic resolution",
+      "authors": "Gao, P; Nelson, CT; Jokisaari, JR; Baek, SH; Bark, CW; Zhang, Y; Wang, EG; Schlom, DG; Eom, CB; Pan, XQ",
+      "journal": "NATURE COMMUNICATIONS",
+      "volume": "2",
+      "pages": "591",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 38
+      },
+      "globalIndex": 45,
+      "indexByPi": {
+        "Baek": 38
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "NATURE COMMUNICATIONS",
+      "details": "2 · 591"
+    },
+    {
+      "id": 44,
+      "year": 2011,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Giant Piezoelectricity on Si for Hyperactive MEMS",
+      "authors": "Baek, SH; Park, J; Kim, DM; Aksyuk, VA; Das, RR; Bu, SD; Felker, DA; Lettieri, J; Vaithyanathan, V; Bharadwaja, SSN; Bassiri-Gharb, N; Chen, YB; Sun, HP; Folkman, CM; Jang, HW; Kreft, DJ; Streiffer, SK; Ramesh, R; Pan, XQ; Trolier-McKinstry, S; Schlom, DG; Rzchowski, MS; Blick, RH; Eom, CB",
+      "journal": "SCIENCE",
+      "volume": "334",
+      "pages": "958",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 37
+      },
+      "globalIndex": 44,
+      "indexByPi": {
+        "Baek": 37
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "SCIENCE",
+      "details": "334 · 958"
+    },
+    {
+      "id": 43,
+      "year": 2011,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Domain Dynamics During Ferroelectric Switching",
+      "authors": "Nelson, CT; Gao, P; Jokisaari, JR; Heikes, C; Adamo, C; Melville, A; Baek, SH; Folkman, CM; Winchester, B; Gu, YJ; Liu, YM; Zhang, K; Wang, EG; Li, JY; Chen, LQ; Eom, CB; Schlom, DG; Pan, XQ",
+      "journal": "SCIENCE",
+      "volume": "334",
+      "pages": "968",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 36
+      },
+      "globalIndex": 43,
+      "indexByPi": {
+        "Baek": 36
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "SCIENCE",
+      "details": "334 · 968"
+    },
+    {
+      "id": 42,
+      "year": 2011,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Twin wall distortions through structural investigation of epitaxial BiFeO3 thin films",
+      "authors": "Folkman, CM; Baek, SH; Eom, CB",
+      "journal": "JOURNAL OF MATERIALS RESEARCH",
+      "volume": "26",
+      "pages": "2844",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 35
+      },
+      "globalIndex": 42,
+      "indexByPi": {
+        "Baek": 35
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "JOURNAL OF MATERIALS RESEARCH",
+      "details": "26 · 2844"
+    },
+    {
+      "id": 41,
+      "year": 2011,
+      "pi": [
+        "Baek",
+        "Kim"
+      ],
+      "title": "Polarity control of carrier injection at ferroelectric/metal interfaces for electrically switchable diode and photovoltaic effects",
+      "authors": "Lee, D; Baek, SH; Kim, TH; Yoon, JG; Folkman, CM; Eom, CB; Noh, TW",
+      "journal": "PHYSICAL REVIEW B",
+      "volume": "84",
+      "pages": "125305",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 34,
+        "Kim": 11
+      },
+      "globalIndex": 41,
+      "indexByPi": {
+        "Baek": 34,
+        "Kim": 11
+      },
+      "piAuthors": [
+        "Baek",
+        "Kim"
+      ],
+      "venue": "PHYSICAL REVIEW B",
+      "details": "84 · 125305"
+    },
+    {
+      "id": 40,
+      "year": 2011,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Coherent Brillouin spectroscopy in a strongly scattering liquid by picosecond ultrasonics",
+      "authors": "Maznev, AA; Manke, KJ; Klieber, C; Nelson, KA; Baek, SH; Eom, CB",
+      "journal": "OPTICS LETTERS",
+      "volume": "36",
+      "pages": "2925",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 33
+      },
+      "globalIndex": 40,
+      "indexByPi": {
+        "Baek": 33
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "OPTICS LETTERS",
+      "details": "36 · 2925"
+    },
+    {
+      "id": 39,
+      "year": 2011,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Structural Consequences of Ferroelectric Nanolithography",
+      "authors": "Jo, JY; Chen, P; Sichel, RJ; Baek, SH; Smith, RT; Balke, N; Kalinin, SV; Holt, MV; Maser, J; Evans-Lutterodt, K; Eom, CB; Evans, PG",
+      "journal": "NANO LETTERS",
+      "volume": "11",
+      "pages": "3080",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 32
+      },
+      "globalIndex": 39,
+      "indexByPi": {
+        "Baek": 32
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "NANO LETTERS",
+      "details": "11 · 3080"
+    },
+    {
+      "id": 38,
+      "year": 2011,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Thick lead-free ferroelectric films with high Curie temperatures through nanocomposite-induced strain",
+      "authors": "Harrington, SA; Zhai, JY; Denev, S; Gopalan, V; Wang, HY; Bi, ZX; Redfern, SAT; Baek, SH; Bark, CW; Eom, CB; Jia, QX; Vickers, ME; MacManus-Driscoll, JL",
+      "journal": "NATURE NANOTECHNOLOGY",
+      "volume": "6",
+      "pages": "491",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 31
+      },
+      "globalIndex": 38,
+      "indexByPi": {
+        "Baek": 31
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "NATURE NANOTECHNOLOGY",
+      "details": "6 · 491"
+    },
+    {
+      "id": 37,
+      "year": 2011,
+      "pi": [
+        "Baek",
+        "Kim"
+      ],
+      "title": "Polarity-dependent kinetics of ferroelectric switching in epitaxial BiFeO3(111) capacitors",
+      "authors": "T. H. Kim (First author), S. H. Baek, S. M. Yang, Y. S. Kim, B. C. Jeon, D. Lee, J.-S. Chung, C. B. Eom, J.-G. Yoon, and T. W. Noh",
+      "journal": "Appl. Phys. Lett.",
+      "volume": "99",
+      "pages": "012905",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 30,
+        "Kim": 10
+      },
+      "globalIndex": 37,
+      "indexByPi": {
+        "Baek": 30,
+        "Kim": 10
+      },
+      "piAuthors": [
+        "Baek",
+        "Kim"
+      ],
+      "venue": "Appl. Phys. Lett.",
+      "details": "99 · 012905"
+    },
+    {
+      "id": 36,
+      "year": 2011,
+      "pi": [
+        "Baek"
+      ],
+      "title": "The Nature of Polarization Fatigue in BiFeO3",
+      "authors": "Baek, SH; Folkman, CM; Park, JW; Lee, SH; Bark, CW; Tybell, T; Eom, CB",
+      "journal": "ADVANCED MATERIALS",
+      "volume": "23",
+      "pages": "1621",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 29
+      },
+      "globalIndex": 36,
+      "indexByPi": {
+        "Baek": 29
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "ADVANCED MATERIALS",
+      "details": "23 · 1621"
+    },
+    {
+      "id": 35,
+      "year": 2011,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Tailoring a two-dimensional electron gas at the LaAlO3/SrTiO3 (001) interface by epitaxial strain",
+      "authors": "Bark, CW; Felker, DA; Wang, Y; Zhang, Y; Jang, HW; Folkman, CM; Park, JW; Baek, SH; Zhou, H; Fong, DD; Pan, XQ; Tsymbal, EY; Rzchowski, MS; Eom, CB",
+      "journal": "PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF AMERICA",
+      "volume": "108",
+      "pages": "4720",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 28
+      },
+      "globalIndex": 35,
+      "indexByPi": {
+        "Baek": 28
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF AMERICA",
+      "details": "108 · 4720"
+    },
+    {
+      "id": 34,
+      "year": 2011,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Metallic and Insulating Oxide Interfaces Controlled by Electronic Correlations",
+      "authors": "Jang, HW; Felker, DA; Bark, CW; Wang, Y; Niranjan, MK; Nelson, CT; Zhang, Y; Su, D; Folkman, CM; Baek, SH; Lee, S; Janicka, K; Zhu, Y; Pan, XQ; Fong, DD; Tsymbal, EY; Rzchowski, MS; Eom, CB",
+      "journal": "SCIENCE",
+      "volume": "331",
+      "pages": "886",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 27
+      },
+      "globalIndex": 34,
+      "indexByPi": {
+        "Baek": 27
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "SCIENCE",
+      "details": "331 · 886"
+    },
+    {
+      "id": 33,
+      "year": 2011,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Spontaneous Vortex Nanodomain Arrays at Ferroelectric Heterointerfaces",
+      "authors": "Nelson, CT; Winchester, B; Zhang, Y; Kim, SJ; Melville, A; Adamo, C; Folkman, CM; Baek, SH; Eom, CB; Schlom, DG; Chen, LQ; Pan, XQ",
+      "journal": "NANO LETTERS",
+      "volume": "11",
+      "pages": "828",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 26
+      },
+      "globalIndex": 33,
+      "indexByPi": {
+        "Baek": 26
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "NANO LETTERS",
+      "details": "11 · 828"
+    },
+    {
+      "id": 32,
+      "year": 2011,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Self-assembled oxide nanopillars in epitaxial BaFe2As2 thin films for vortex pinning",
+      "authors": "Zhang, Y; Nelson, CT; Lee, S; Jiang, JY; Bark, CW; Weiss, JD; Tarantini, C; Folkman, CM; Baek, SH; Hellstrom, EE; Larbalestier, DC; Eom, CB; Pan, XQ",
+      "journal": "APPLIED PHYSICS LETTERS",
+      "volume": "98",
+      "pages": "42509",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 25
+      },
+      "globalIndex": 32,
+      "indexByPi": {
+        "Baek": 25
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "APPLIED PHYSICS LETTERS",
+      "details": "98 · 42509"
+    },
+    {
+      "id": 31,
+      "year": 2011,
+      "pi": [
+        "Baek",
+        "Kim"
+      ],
+      "title": "Step bunching-induced vertical lattice mismatch and crystallographic tilt in vicinal BiFeO3(001) films",
+      "authors": "T. H. Kim (First author), S. H. Baek, S. Y. Jang, S. M. Yang, S. H. Chang, T. K. Song, J.–G. Yoon, C. B. Eom, J.-S. Chung, and T. W. Noh",
+      "journal": "Appl. Phys. Lett.",
+      "volume": "98",
+      "pages": "022904",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 24,
+        "Kim": 7
+      },
+      "globalIndex": 31,
+      "indexByPi": {
+        "Baek": 24,
+        "Kim": 7
+      },
+      "piAuthors": [
+        "Baek",
+        "Kim"
+      ],
+      "venue": "Appl. Phys. Lett.",
+      "details": "98 · 022904"
+    },
+    {
+      "id": 30,
+      "year": 2011,
+      "pi": [
+        "Kim"
+      ],
+      "title": "Scaling Behavior of Amplitude-Dependent Ferroelectric Hysteresis Loops in an Epitaxial PbZr0.2Ti0.8O3 Thin Film",
+      "authors": "Sang Mo Yang, Seung Yup Jang, Tae Heon Kim (co-author), Hun-Ho Kim, Ho Nyung Lee, and Jong-Gul Yoon",
+      "journal": "J. Korean Phys. Soc.",
+      "volume": "58",
+      "pages": "599",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Kim": 9
+      },
+      "globalIndex": 30,
+      "indexByPi": {
+        "Kim": 9
+      },
+      "piAuthors": [
+        "Kim"
+      ],
+      "venue": "J. Korean Phys. Soc.",
+      "details": "58 · 599"
+    },
+    {
+      "id": 29,
+      "year": 2011,
+      "pi": [
+        "Kim"
+      ],
+      "title": "Charge states and magnetic ordering in LaMnO3/SrTiO3 superlattices",
+      "authors": "W. S. Choi, D. W. Jeong, S. S. A. Seo, Y. S. Lee, T. H. Kim (co-author), S. Y. Jang, H. N. Lee, and K. Myung-Whun",
+      "journal": "Phys. Rev. B",
+      "volume": "83",
+      "pages": "195113",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Kim": 8
+      },
+      "globalIndex": 29,
+      "indexByPi": {
+        "Kim": 8
+      },
+      "piAuthors": [
+        "Kim"
+      ],
+      "venue": "Phys. Rev. B",
+      "details": "83 · 195113"
+    },
+    {
+      "id": 28,
+      "year": 2010,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Effect of domain structure on dielectric nonlinearity in epitaxial BiFeO3 films",
+      "authors": "Ihlefeld, JF; Folkman, CM; Baek, SH; Brennecka, GL; George, MC; Carroll, JF; Eom, CB",
+      "journal": "APPLIED PHYSICS LETTERS",
+      "volume": "97",
+      "pages": "262904",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 23
+      },
+      "globalIndex": 28,
+      "indexByPi": {
+        "Baek": 23
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "APPLIED PHYSICS LETTERS",
+      "details": "97 · 262904"
+    },
+    {
+      "id": 27,
+      "year": 2010,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Origin of suppressed polarization in BiFeO3 films",
+      "authors": "Park, JW; Baek, SH; Wu, P; Winchester, B; Nelson, CT; Pan, XQ; Chen, LQ; Tybell, T; Eom, CB",
+      "journal": "APPLIED PHYSICS LETTERS",
+      "volume": "97",
+      "pages": "212904",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 22
+      },
+      "globalIndex": 27,
+      "indexByPi": {
+        "Baek": 22
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "APPLIED PHYSICS LETTERS",
+      "details": "97 · 212904"
+    },
+    {
+      "id": 26,
+      "year": 2010,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Magnetic structure of epitaxial multiferroic BiFeO3 films with engineered ferroelectric domains",
+      "authors": "Ke, X; Zhang, PP; Baek, SH; Zarestky, J; Tian, W; Eom, CB",
+      "journal": "PHYSICAL REVIEW B",
+      "volume": "82",
+      "pages": "134448",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 21
+      },
+      "globalIndex": 26,
+      "indexByPi": {
+        "Baek": 21
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "PHYSICAL REVIEW B",
+      "details": "82 · 134448"
+    },
+    {
+      "id": 25,
+      "year": 2010,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Ferroelectricity in Strain-Free SrTiO3 Thin Films",
+      "authors": "Jang, HW; Kumar, A; Denev, S; Biegalski, MD; Maksymovych, P; Bark, CW; Nelson, CT; Folkman, CM; Baek, SH; Balke, N; Brooks, CM; Tenne, DA; Schlom, DG; Chen, LQ; Pan, XQ; Kalinin, SV; Gopalan, V; Eom, CB",
+      "journal": "PHYSICAL REVIEW LETTERS",
+      "volume": "104",
+      "pages": "197601",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 20
+      },
+      "globalIndex": 25,
+      "indexByPi": {
+        "Baek": 20
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "PHYSICAL REVIEW LETTERS",
+      "details": "104 · 197601"
+    },
+    {
+      "id": 24,
+      "year": 2010,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Template engineering of Co-doped BaFe2As2 single-crystal thin films",
+      "authors": "Lee, S; Jiang, J; Zhang, Y; Bark, CW; Weiss, JD; Tarantini, C; Nelson, CT; Jang, HW; Folkman, CM; Baek, SH; Polyanskii, A; Abraimov, D; Yamamoto, A; Park, JW; Pan, XQ; Hellstrom, EE; Larbalestier, DC; Eom, CB",
+      "journal": "NATURE MATERIALS",
+      "volume": "9",
+      "pages": "397",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 19
+      },
+      "globalIndex": 24,
+      "indexByPi": {
+        "Baek": 19
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "NATURE MATERIALS",
+      "details": "9 · 397"
+    },
+    {
+      "id": 23,
+      "year": 2010,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Metallicity in LaTiO3 thin films induced by lattice deformation",
+      "authors": "Wong, FJ; Baek, SH; Chopdekar, RV; Mehta, VV; Jang, HW; Eom, CB; Suzuki, Y",
+      "journal": "PHYSICAL REVIEW B",
+      "volume": "81",
+      "pages": "161101",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 18
+      },
+      "globalIndex": 23,
+      "indexByPi": {
+        "Baek": 18
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "PHYSICAL REVIEW B",
+      "details": "81 · 161101"
+    },
+    {
+      "id": 22,
+      "year": 2010,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Strong vortex pinning in Co-doped BaFe2As2 single crystal thin films",
+      "authors": "Tarantini, C; Lee, S; Zhang, Y; Jiang, J; Bark, CW; Weiss, JD; Polyanskii, A; Nelson, CT; Jang, HW; Folkman, CM; Baek, SH; Pan, XQ; Gurevich, A; Hellstrom, EE; Eom, CB; Larbalestier, DC",
+      "journal": "APPLIED PHYSICS LETTERS",
+      "volume": "96",
+      "pages": "142510",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 17
+      },
+      "globalIndex": 22,
+      "indexByPi": {
+        "Baek": 17
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "APPLIED PHYSICS LETTERS",
+      "details": "96 · 142510"
+    },
+    {
+      "id": 21,
+      "year": 2010,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Ferroelastic switching for nanoscale non-volatile magnetoelectric devices",
+      "authors": "Baek, SH; Jang, HW; Folkman, CM; Li, YL; Winchester, B; Zhang, JX; He, Q; Chu, YH; Nelson, CT; Rzchowski, MS; Pan, XQ; Ramesh, R; Chen, LQ; Eom, CB",
+      "journal": "NATURE MATERIALS",
+      "volume": "9",
+      "pages": "309",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 16
+      },
+      "globalIndex": 21,
+      "indexByPi": {
+        "Baek": 16
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "NATURE MATERIALS",
+      "details": "9 · 309"
+    },
+    {
+      "id": 20,
+      "year": 2010,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Phase-Transition Temperatures of Strained Single-Crystal SrRuO3 Thin Films",
+      "authors": "Choi, KJ; Baek, SH; Jang, HW; Belenky, LJ; Lyubchenko, M; Eom, CB",
+      "journal": "ADVANCED MATERIALS",
+      "volume": "22",
+      "pages": "759",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 15
+      },
+      "globalIndex": 20,
+      "indexByPi": {
+        "Baek": 15
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "ADVANCED MATERIALS",
+      "details": "22 · 759"
+    },
+    {
+      "id": 19,
+      "year": 2010,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Study of defect-dipoles in an epitaxial ferroelectric thin film",
+      "authors": "Folkman, CM; Baek, SH; Nelson, CT; Jang, HW; Tybell, T; Pan, XQ; Eom, CB",
+      "journal": "APPLIED PHYSICS LETTERS",
+      "volume": "96",
+      "pages": "52903",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 14
+      },
+      "globalIndex": 19,
+      "indexByPi": {
+        "Baek": 14
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "APPLIED PHYSICS LETTERS",
+      "details": "96 · 52903"
+    },
+    {
+      "id": 18,
+      "year": 2010,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Anisotropic relaxation and crystallographic tilt in BiFeO3 on miscut SrTiO3 (001)",
+      "authors": "Sichel, RJ; Grigoriev, A; Do, DH; Baek, SH; Jang, HW; Folkman, CM; Eom, CB; Cai, ZH; Evans, PG",
+      "journal": "APPLIED PHYSICS LETTERS",
+      "volume": "96",
+      "pages": "51901",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 13
+      },
+      "globalIndex": 18,
+      "indexByPi": {
+        "Baek": 13
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "APPLIED PHYSICS LETTERS",
+      "details": "96 · 51901"
+    },
+    {
+      "id": 17,
+      "year": 2010,
+      "pi": [
+        "Kim"
+      ],
+      "title": "ac dynamics of ferroelectric domains on an investigation of the frequency dependence of hysteresis loops",
+      "authors": "S. M. Yang, J. Y. Jo, T. H. Kim (co-author), J.-G. Yoon, T. K. Song, H. N. Lee, Z. Marton, S. Park, Y. Jo, and T. W. Noh",
+      "journal": "Phys. Rev. B",
+      "volume": "82",
+      "pages": "174125",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Kim": 6
+      },
+      "globalIndex": 17,
+      "indexByPi": {
+        "Kim": 6
+      },
+      "piAuthors": [
+        "Kim"
+      ],
+      "venue": "Phys. Rev. B",
+      "details": "82 · 174125"
+    },
+    {
+      "id": 16,
+      "year": 2010,
+      "pi": [
+        "Kim"
+      ],
+      "title": "Polarization Switching Behaviors in Multiferroic BiFeO3(001) Thin Film Capacitors under In-Plane Magnetic Field",
+      "authors": "T. H. Kim (First author), J. Y. Jo, S. M. Yang, D. H. Kim, S. Park, Y. Jo, J.-G. Yoon, and T. K. Song",
+      "journal": "J. Korean Phys. Soc.",
+      "volume": "56",
+      "pages": "503",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Kim": 5
+      },
+      "globalIndex": 16,
+      "indexByPi": {
+        "Kim": 5
+      },
+      "piAuthors": [
+        "Kim"
+      ],
+      "venue": "J. Korean Phys. Soc.",
+      "details": "56 · 503"
+    },
+    {
+      "id": 15,
+      "year": 2009,
+      "pi": [
+        "Baek",
+        "Kim"
+      ],
+      "title": "Electric-field-controlled directional motion of ferroelectric domain walls in multiferroic BiFeO3 films",
+      "authors": "Kim, TH; Baek, SH; Yang, SM; Jang, SY; Ortiz, D; Song, TK; Chung, JS; Eom, CB; Noh, TW; Yoon, JG",
+      "journal": "APPLIED PHYSICS LETTERS",
+      "volume": "95",
+      "pages": "262902",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 12,
+        "Kim": 4
+      },
+      "globalIndex": 15,
+      "indexByPi": {
+        "Baek": 12,
+        "Kim": 4
+      },
+      "piAuthors": [
+        "Baek",
+        "Kim"
+      ],
+      "venue": "APPLIED PHYSICS LETTERS",
+      "details": "95 · 262902"
+    },
+    {
+      "id": 14,
+      "year": 2009,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Weak-link behavior of grain boundaries in superconducting Ba(Fe1-xCox)2As2 bicrystals",
+      "authors": "Lee, S; Jiang, J; Weiss, JD; Folkman, CM; Bark, CW; Tarantini, C; Xu, A; Abraimov, D; Polyanskii, A; Nelson, CT; Zhang, Y; Baek, SH; Jang, HW; Yamamoto, A; Kametani, F; Pan, XQ; Hellstrom, EE; Gurevich, A; Eom, CB; Larbalestier, DC",
+      "journal": "APPLIED PHYSICS LETTERS",
+      "volume": "95",
+      "pages": "212505",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 11
+      },
+      "globalIndex": 14,
+      "indexByPi": {
+        "Baek": 11
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "APPLIED PHYSICS LETTERS",
+      "details": "95 · 212505"
+    },
+    {
+      "id": 13,
+      "year": 2009,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Quasi-single-crystal (001) SrTiO3 templates on Si",
+      "authors": "Park, JW; Baek, SH; Bark, CW; Biegalski, MD; Eom, CB",
+      "journal": "APPLIED PHYSICS LETTERS",
+      "volume": "95",
+      "pages": "61902",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 10
+      },
+      "globalIndex": 13,
+      "indexByPi": {
+        "Baek": 10
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "APPLIED PHYSICS LETTERS",
+      "details": "95 · 61902"
+    },
+    {
+      "id": 12,
+      "year": 2009,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Stripe domain structure in epitaxial (001) BiFeO3 thin films on orthorhombic TbScO3 substrate",
+      "authors": "Folkman, CM; Baek, SH; Jang, HW; Eom, CB; Nelson, CT; Pan, XQ; Li, YL; Chen, LQ; Kumar, A; Gopalan, V; Streiffer, SK",
+      "journal": "APPLIED PHYSICS LETTERS",
+      "volume": "94",
+      "pages": "251911",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 9
+      },
+      "globalIndex": 12,
+      "indexByPi": {
+        "Baek": 9
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "APPLIED PHYSICS LETTERS",
+      "details": "94 · 251911"
+    },
+    {
+      "id": 11,
+      "year": 2009,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Growth of MgB2 Thin Films In Situ by RF Magnetron Sputtering With a Pocket Heater",
+      "authors": "Lee, S; Chen, K; Baek, SH; Dai, WQ; Moeckly, BH; Li, Q; Xi, XX; Rzchowski, MS; Eom, CB",
+      "journal": "IEEE TRANSACTIONS ON APPLIED SUPERCONDUCTIVITY",
+      "volume": "19",
+      "pages": "2811",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 8
+      },
+      "globalIndex": 11,
+      "indexByPi": {
+        "Baek": 8
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "IEEE TRANSACTIONS ON APPLIED SUPERCONDUCTIVITY",
+      "details": "19 · 2811"
+    },
+    {
+      "id": 10,
+      "year": 2009,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Domain Engineering for Enhanced Ferroelectric Properties of Epitaxial (001) BiFeO Thin Films",
+      "authors": "Jang, HW; Ortiz, D; Baek, SH; Folkman, CM; Das, RR; Shafer, P; Chen, Y; Nelson, CT; Pan, X; Ramesh, R; Eom, CB",
+      "journal": "ADVANCED MATERIALS",
+      "volume": "21",
+      "pages": "817",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 7
+      },
+      "globalIndex": 10,
+      "indexByPi": {
+        "Baek": 7
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "ADVANCED MATERIALS",
+      "details": "21 · 817"
+    },
+    {
+      "id": 9,
+      "year": 2009,
+      "pi": [
+        "Kim"
+      ],
+      "title": "Nonlinear Dynamics of Domain Wall Propagation in Epitaxial Ferroelectric Thin Films",
+      "authors": "J. Y. Jo, S. M. Yang, T. H. Kim (co-author), H. N. Lee, J.-G. Yoon, S. Park, Y. Jo, M. H. Jung, and T. W. Noh",
+      "journal": "Phys. Rev. Lett.",
+      "volume": "102",
+      "pages": "045701",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Kim": 3
+      },
+      "globalIndex": 9,
+      "indexByPi": {
+        "Kim": 3
+      },
+      "piAuthors": [
+        "Kim"
+      ],
+      "venue": "Phys. Rev. Lett.",
+      "details": "102 · 045701"
+    },
+    {
+      "id": 8,
+      "year": 2008,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Strain-induced polarization rotation in epitaxial (001) BiFeO3 thin films",
+      "authors": "Jang, HW; Baek, SH; Ortiz, D; Folkman, CM; Das, RR; Chu, YH; Shafer, P; Zhang, JX; Choudhury, S; Vaithyanathan, V; Chen, YB; Felker, DA; Biegalski, MD; Rzchowski, MS; Pan, XQ; Schlom, DG; Chen, LQ; Ramesh, R; Eom, CB",
+      "journal": "PHYSICAL REVIEW LETTERS",
+      "volume": "101",
+      "pages": "107602",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 6
+      },
+      "globalIndex": 8,
+      "indexByPi": {
+        "Baek": 6
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "PHYSICAL REVIEW LETTERS",
+      "details": "101 · 107602"
+    },
+    {
+      "id": 7,
+      "year": 2008,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Epitaxial (001) BiFeO3 membranes with substantially reduced fatigue and leakage",
+      "authors": "Jang, HW; Baek, SH; Ortiz, D; Folkman, CM; Eom, CB; Chu, YH; Shafer, P; Ramesh, R; Vaithyanathan, V; Schlom, DG",
+      "journal": "APPLIED PHYSICS LETTERS",
+      "volume": "92",
+      "pages": "62910",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 5
+      },
+      "globalIndex": 7,
+      "indexByPi": {
+        "Baek": 5
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "APPLIED PHYSICS LETTERS",
+      "details": "92 · 62910"
+    },
+    {
+      "id": 6,
+      "year": 2008,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Strain tunability of spontaneous polarization and enhanced ferroelectric properties in epitaxial (001) BiFeO3 thin films",
+      "authors": "Jang, HW; Baek, SH; Ortiz, D; Folkman, CM; Das, RR; Chu, YH; Zhang, JX; Vaithyanathan, V; Choudhury, S; Chen, YB; Pan, XQ; Schlom, DG; Chen, LQ; Ramesh, R; Eom, CB",
+      "journal": "2008 17TH IEEE INTERNATIONAL SYMPOSIUM ON THE APPLICATIONS OF FERROELECTRICS",
+      "volume": "",
+      "pages": "298",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 4
+      },
+      "globalIndex": 6,
+      "indexByPi": {
+        "Baek": 4
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "2008 17TH IEEE INTERNATIONAL SYMPOSIUM ON THE APPLICATIONS OF FERROELECTRICS",
+      "details": "298"
+    },
+    {
+      "id": 5,
+      "year": 2007,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Ferroelectric domain structures of epitaxial (001) BiFeO3 thin films",
+      "authors": "Chen, YB; Katz, MB; Pan, XQ; Das, RR; Kim, DM; Baek, SH; Eom, CB",
+      "journal": "APPLIED PHYSICS LETTERS",
+      "volume": "90",
+      "pages": "72907",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 3
+      },
+      "globalIndex": 5,
+      "indexByPi": {
+        "Baek": 3
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "APPLIED PHYSICS LETTERS",
+      "details": "90 · 72907"
+    },
+    {
+      "id": 4,
+      "year": 2007,
+      "pi": [
+        "Kim"
+      ],
+      "title": "Observation of inhomogeneous domain nucleation in epitaxial Pb(Zr,Ti)O3 capacitors",
+      "authors": "D. J. Kim, J. Y. Jo, T. H. Kim (co-author), S. M. Yang, B. Chen, Y. S. Kim, and T. W. Noh",
+      "journal": "Appl. Phys. Lett.",
+      "volume": "91",
+      "pages": "132903",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Kim": 2
+      },
+      "globalIndex": 4,
+      "indexByPi": {
+        "Kim": 2
+      },
+      "piAuthors": [
+        "Kim"
+      ],
+      "venue": "Appl. Phys. Lett.",
+      "details": "91 · 132903"
+    },
+    {
+      "id": 3,
+      "year": 2007,
+      "pi": [
+        "Kim"
+      ],
+      "title": "Observation of room-temperature ferroelectricity in tetragonal strontium titanate thin films on SrTiO3 (001) substrates",
+      "authors": "Y. S. Kim, D. J. Kim, T. H. Kim (co-author), T. W. Noh, J. S. Choi, B. H. Park, and J.-G. Yoon",
+      "journal": "Appl. Phys. Lett.",
+      "volume": "91",
+      "pages": "042908",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Kim": 1
+      },
+      "globalIndex": 3,
+      "indexByPi": {
+        "Kim": 1
+      },
+      "piAuthors": [
+        "Kim"
+      ],
+      "venue": "Appl. Phys. Lett.",
+      "details": "91 · 042908"
+    },
+    {
+      "id": 2,
+      "year": 2006,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Electrical control of antiferromagnetic domains in multiferroic BiFeO3 films at room temperature",
+      "authors": "Zhao, T; Scholl, A; Zavaliche, F; Lee, K; Barry, M; Doran, A; Cruz, MP; Chu, YH; Ederer, C; Spaldin, NA; Das, RR; Kim, DM; Baek, SH; Eom, CB; Ramesh, R",
+      "journal": "NATURE MATERIALS",
+      "volume": "5",
+      "pages": "823",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 2
+      },
+      "globalIndex": 2,
+      "indexByPi": {
+        "Baek": 2
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "NATURE MATERIALS",
+      "details": "5 · 823"
+    },
+    {
+      "id": 1,
+      "year": 2006,
+      "pi": [
+        "Baek"
+      ],
+      "title": "Synthesis and ferroelectric properties of epitaxial BiFeO3 thin films grown by sputtering",
+      "authors": "Das, RR; Kim, DM; Baek, SH; Eom, CB; Zavaliche, F; Yang, SY; Ramesh, R; Chen, YB; Pan, XQ; Ke, X; Rzchowski, MS; Streiffer, SK",
+      "journal": "APPLIED PHYSICS LETTERS",
+      "volume": "88",
+      "pages": "242904",
+      "doi": "",
+      "notes": [],
+      "featured": false,
+      "sourceIds": {
+        "Baek": 1
+      },
+      "globalIndex": 1,
+      "indexByPi": {
+        "Baek": 1
+      },
+      "piAuthors": [
+        "Baek"
+      ],
+      "venue": "APPLIED PHYSICS LETTERS",
+      "details": "88 · 242904"
+    }
+  ]
+}
