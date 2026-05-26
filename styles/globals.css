@@ -1637,3 +1637,44 @@ img { max-width: 100%; display: block; }
     line-height: 1.35;
   }
 }
+/* Mobile research topic layout fix */
+@media (max-width: 720px) {
+  .research-topic-card {
+    padding: 28px 22px !important;
+    overflow: hidden;
+  }
+
+  .research-detail-grid {
+    display: grid !important;
+    grid-template-columns: 1fr !important;
+    gap: 28px !important;
+    align-items: stretch !important;
+  }
+
+  .research-detail-grid > div:first-child {
+    min-width: 0;
+  }
+
+  .research-detail-grid > div:last-child {
+    width: 100% !important;
+    min-width: 0;
+    aspect-ratio: 4 / 3 !important;
+    border-radius: 16px !important;
+  }
+
+  .research-detail-grid h2 {
+    font-size: clamp(34px, 11vw, 46px) !important;
+    line-height: 1.06 !important;
+  }
+
+  .research-detail-grid p {
+    font-size: 16px !important;
+    line-height: 1.75 !important;
+  }
+
+  .research-detail-grid .tag {
+    max-width: 100%;
+    white-space: normal;
+    line-height: 1.5;
+  }
+}
