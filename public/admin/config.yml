@@ -7,7 +7,7 @@ backend:
   name: github
   repo: mingyuJe/bklab-next
   branch: main
-  base_url: https://bklab-next.vercel.app
+  base_url: https://bklab.vercel.app
   auth_endpoint: api/auth
 
 # Where uploaded images go
