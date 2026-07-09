@@ -1,30 +1,30 @@
 {
   "pi": [
     {
-      "id": "seung-hyub-baek",
-      "name_en": "Seung-Hyub Baek",
-      "name_kr": "백승협",
-      "title": "Ph.D.",
+      "initials": "SH",
+      "photo": "/images/members/seung-hyub-baek.jpg",
       "role": "Principal Investigator",
       "subtitle": "Principal Research Scientist, KIST",
+      "focus": "Multifunctional oxide thin films, thermoelectrics",
+      "title": "Ph.D.",
+      "id": "seung-hyub-baek",
+      "name_kr": "백승협",
       "office": "L3269",
       "email": "shbaek77@kist.re.kr",
-      "focus": "Multifunctional oxide thin films, thermoelectrics",
-      "initials": "SH",
-      "photo": "/images/members/seung-hyub-baek.jpg"
+      "name_en": "Seung-Hyub Baek"
     },
     {
-      "id": "tae-heon-kim",
-      "name_en": "Tae Heon Kim",
-      "name_kr": "김태헌",
-      "title": "Ph.D.",
+      "initials": "TH",
+      "photo": "/images/members/tae-heon-kim.jpg",
       "role": "Principal Investigator",
       "subtitle": "Principal Research Scientist, KIST",
+      "focus": "Ferroelectric thin films, domain dynamics",
+      "title": "Ph.D.",
+      "id": "tae-heon-kim",
+      "name_kr": "김태헌",
       "office": "L3272",
       "email": "thkim79@kist.re.kr",
-      "focus": "Ferroelectric thin films, domain dynamics",
-      "initials": "TH",
-      "photo": "/images/members/tae-heon-kim.jpg"
+      "name_en": "Tae Heon Kim"
     }
   ],
   "phd": [
@@ -111,6 +111,16 @@
       "email": "U260065@kist.re.kr",
       "initials": "TY",
       "photo": "/images/members/tae-yang-seong.jpg"
+    },
+    {
+      "role": "Undergraduate",
+      "id": "Myoung-Hoe-Kim",
+      "name_en": "Myoung-Hoe-Kim",
+      "name_kr": "김명회",
+      "office": "L3253",
+      "email": "y260053@kist.re.kr",
+      "initials": "MH",
+      "photo": "/images/uploads/명회.jpg"
     }
   ],
   "alumni": [
