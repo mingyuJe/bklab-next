@@ -121,6 +121,15 @@
       "email": "y260053@kist.re.kr",
       "initials": "MH",
       "photo": "/images/uploads/명회.jpg"
+    },
+    {
+      "role": "Undergraduate",
+      "id": "Sung-Jae-Cho",
+      "name_en": "Sung-Jae-Cho",
+      "name_kr": "조성재",
+      "office": "L3253",
+      "initials": "SJ",
+      "photo": "/images/uploads/성재.jpg"
     }
   ],
   "alumni": [
