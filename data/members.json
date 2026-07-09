@@ -130,6 +130,16 @@
       "office": "L3253",
       "initials": "SJ",
       "photo": "/images/uploads/성재.jpg"
+    },
+    {
+      "role": "Undergraduate",
+      "id": "Seong-Jun_Shin",
+      "email": "y260054@kist.re.kr",
+      "name_en": "Seong-Jun_Shin",
+      "name_kr": "신성준",
+      "office": "L3253",
+      "initials": "SJ2",
+      "photo": "/images/uploads/성준.jpg"
     }
   ],
   "alumni": [
